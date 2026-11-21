@@ -36,6 +36,7 @@ def main() -> None:
     args = ap.parse_args()
     today = dt.date.fromisoformat(args.date) if args.date else dt.datetime.now(IST).date()
     rng = random.Random(int(today.strftime("%Y%m%d")) * 104729)
+    generator_version = 2  # Fix percent calculations and out-of-range alphabet series
     created: list[dict] = []
     used: set[str] = set()
     existing: set[str] = set()
@@ -94,14 +95,14 @@ def main() -> None:
 
     def math_percent():
         p = rng.choice((5, 10, 12, 15, 20, 25, 30, 35, 40, 50, 60, 75))
-        value = rng.randrange(20, 200) * 20
+        value = rng.randrange(20, 200) * 100
         result = value * p // 100
         return numeric(M, "Percentages", f"Find {p}% of {value}.", result,
                        f"{p}% of {value} = {p}/100 × {value} = {result}.")
     generate("percentages", 4, math_percent)
 
     def math_increase():
-        price = rng.randrange(50, 900) * 20
+        price = rng.randrange(50, 900) * 100
         pct = rng.choice((5, 10, 15, 20, 25, 30))
         result = price * (100 + pct) // 100
         return numeric(M, "Percentages",
@@ -110,7 +111,7 @@ def main() -> None:
     generate("increases", 2, math_increase)
 
     def math_discount():
-        marked = rng.randrange(40, 800) * 20
+        marked = rng.randrange(40, 800) * 100
         pct = rng.choice((5, 10, 15, 20, 25, 30, 40))
         result = marked * (100 - pct) // 100
         return numeric(M, "Profit, Loss & Discount",
@@ -234,8 +235,8 @@ def main() -> None:
     generate("geometric series", 3, reasoning_geometric)
 
     def reasoning_letters():
-        start = rng.randrange(0, 8)
         step = rng.randrange(2, 5)
+        start = rng.randrange(0, 26 - 5*step)
         seq = [ALPHABET[start + i*step] for i in range(5)]
         result=ALPHABET[start+5*step]
         idx=ALPHABET.index(result)
@@ -307,7 +308,8 @@ def main() -> None:
         assert q["kind"] == "Original daily practice"
         assert re.fullmatch(r"daily-\d{8}-\d{3}",q["id"])
     archive = ARCHIVE / (today.isoformat()+".json")
-    out = {"date":today.isoformat(),
+    out = {"generatorVersion":generator_version,
+           "date":today.isoformat(),
            "generatedAt":dt.datetime.now(IST).isoformat(),
            "timezone":"Asia/Kolkata","questionCount":len(created),
            "breakdown":counts,
@@ -316,9 +318,12 @@ def main() -> None:
            "questions":created}
     ARCHIVE.mkdir(parents=True,exist_ok=True)
     if archive.exists():
-        # Stable questions within a day, so reopening never changes answer keys.
+        # Keep answer keys stable within a day except when correcting a broken generator version.
         earlier = json.loads(archive.read_text(encoding="utf-8"))
-        out=earlier
+        if earlier.get("generatorVersion") == generator_version:
+            out = earlier
+        else:
+            archive.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     else:
         archive.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     LATEST.parent.mkdir(parents=True,exist_ok=True)
