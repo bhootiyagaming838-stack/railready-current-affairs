@@ -26,4 +26,10 @@ for q in qs:
 archive=ROOT/"data"/"daily-history"/(data["date"]+".json")
 assert archive.exists(), "Current date missing from daily archive"
 assert json.loads(archive.read_text(encoding="utf-8"))==data
-print("PASS: "+data["date"]+" / 60 source-labelled original daily MCQs / 30 Maths + 30 Reasoning")
+news_path=ROOT/"data"/"news.json"
+if news_path.exists():
+    news=json.loads(news_path.read_text(encoding="utf-8"))
+    assert len(news.get("questions",[]))==60, "Floot compatibility quiz does not have 60 questions"
+    assert news.get("dailyQuestionDate")==data["date"], "Floot compatibility quiz has the wrong date"
+    assert {q["id"] for q in news["questions"]}=={q["id"] for q in qs}, "Floot quiz answers differ from today's daily bank"
+print("PASS: "+data["date"]+" / 60 original MCQs / 30 Maths + 30 Reasoning / Floot news feed bridge")
