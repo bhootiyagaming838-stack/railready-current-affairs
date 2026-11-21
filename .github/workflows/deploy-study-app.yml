@@ -35,6 +35,7 @@ jobs:
           node --check daily.js
           python scripts/validate_daily_mcqs.py
           python scripts/verify_daily_answers.py
+          node scripts/test_daily_quiz.cjs
           node --check sw.js
           python scripts/validate_study_content.py
           python -m json.tool data/general-awareness-bank.json >/dev/null
