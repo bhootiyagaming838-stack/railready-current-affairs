@@ -1,3 +1,21 @@
+# RailReady Complete Study — Free Web App
+
+**The complete-study edition is now built and tested in this repository.** It is not yet publicly deployed because the repository owner must enable GitHub Pages once.
+
+**Enable it:** [Settings → Pages](https://github.com/bhootiyagaming838-stack/railready-current-affairs/settings/pages) → **Build and deployment → Source: GitHub Actions**, then [Run the Deploy RailReady Complete Study App workflow](https://github.com/bhootiyagaming838-stack/railready-current-affairs/actions/workflows/deploy-study-app.yml).
+
+**After a successful deployment:** https://bhootiyagaming838-stack.github.io/railready-current-affairs/
+
+**Full instructions:** [Publish and install on Samsung](docs/publish-complete-study-app.md).
+
+**What is built:** 319 original practice MCQs (73 GA + 127 Maths + 119 Reasoning), 28 Maths and Reasoning lessons, timed 100-question CBT-1 simulator (40/30/30 split, 90 minutes, +1 / −⅓), short practice, spaced revision, bookmarks, wrong-answer review, progress backup/restore, news and PYQ source links. None of the original questions is labelled a verified PYQ.
+
+**Automated tests:** [RailReady study app CI](https://github.com/bhootiyagaming838-stack/railready-current-affairs/actions/workflows/test-study-app.yml) has passed. [First deployment run](https://github.com/bhootiyagaming838-stack/railready-current-affairs/actions/runs/44941855840) passed the app syntax and data checks but failed at Pages configuration because Pages was disabled.
+
+**Earlier live Floot app:** https://railready-ntpc.floot.app — still runs its previous version; no change was published to Floot because the free daily build-action limit has been reached. The two domains do not share browser-saved progress.
+
+---
+
 # RailReady Current Affairs
 
 Free, public daily headline feed for the RailReady RRB NTPC learning app.
