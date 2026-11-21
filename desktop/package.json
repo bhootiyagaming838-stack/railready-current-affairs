@@ -1,0 +1,49 @@
+{
+  "name": "railready-floot-desktop",
+  "version": "1.0.0",
+  "description": "Personal-use Windows desktop app for RailReady NTPC (original Floot design)",
+  "private": true,
+  "main": "main.cjs",
+  "author": "RailReady",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "electron .",
+    "check": "node --check main.cjs",
+    "build:win": "electron-builder --win portable --x64 --publish never"
+  },
+  "devDependencies": {
+    "electron": "45.4.1",
+    "electron-builder": "26.18.0"
+  },
+  "build": {
+    "appId": "app.railready.ntpc.floot.windows",
+    "productName": "RailReady NTPC",
+    "artifactName": "RailReady-Floot-Windows.exe",
+    "compression": "normal",
+    "asar": true,
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.cjs",
+      "offline.html",
+      "icon.png",
+      "package.json"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "icon.ico",
+      "signAndEditExecutable": false
+    },
+    "portable": {
+      "artifactName": "RailReady-Floot-Windows.exe"
+    }
+  }
+}
