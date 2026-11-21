@@ -23,10 +23,11 @@ with tempfile.TemporaryDirectory(prefix="railready-future-mcqs-") as workspace:
                        check=False,capture_output=True,text=True,timeout=15)
         if generation.returncode:
             raise RuntimeError(f"Generation failed for {date}: {generation.stderr}\n{generation.stdout}")
-        subprocess.run([sys.executable,str(target/"scripts"/"validate_daily_mcqs.py")],
-                       check=True,capture_output=True,text=True,timeout=15)
-        subprocess.run([sys.executable,str(target/"scripts"/"verify_daily_answers.py")],
-                       check=True,capture_output=True,text=True,timeout=15)
+        for checker in ("validate_daily_mcqs.py", "verify_daily_answers.py"):
+            check=subprocess.run([sys.executable,str(target/"scripts"/checker)],
+                       check=False,capture_output=True,text=True,timeout=15)
+            if check.returncode:
+                raise RuntimeError(f"{checker} failed for {date}: {check.stderr}\n{check.stdout}")
         data=json.loads((target/"data"/"daily-mcqs.json").read_text(encoding="utf-8"))
         current={q["question"].lower() for q in data["questions"]}
         assert len(current)==60, date
