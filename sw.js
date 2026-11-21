@@ -1,6 +1,6 @@
 /* RailReady offline-first study cache. Network is preferred to keep dated news fresh. */
 const VERSION='railready-complete-v1';
-const SHELL=['./','./index.html','./app.css','./app.js','./icon.svg','./manifest.webmanifest',
+const SHELL=['./','./index.html','./app.css','./app.js','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest',
  './data/general-awareness-bank.json','./data/quant-reasoning-bank.json','./data/study-lessons.json',
  './data/pyq-source-index.json','./data/news.json'];
 self.addEventListener('install',event=>{
