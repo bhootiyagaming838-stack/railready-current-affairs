@@ -44,3 +44,44 @@ jobs:
           git commit -m "Publish 60 original RRB NTPC daily MCQs"
           git pull --rebase origin main
           git push origin HEAD:main
+
+  publish:
+    name: Publish today's quiz to GitHub Pages
+    needs: generate
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Fetch latest published daily bank
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+      - name: Validate today's bank and generate app icons
+        run: |
+          python scripts/validate_daily_mcqs.py
+          python scripts/generate_icons.py
+          node --check app.js
+          node --check daily.js
+      - name: Stage full study app and daily MCQs
+        run: |
+          mkdir -p public/data
+          cp index.html daily.html daily.js app.js app.css manifest.webmanifest icon.svg icon-192.png icon-512.png sw.js public/
+          cp data/*.json public/data/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deploy
+        uses: actions/deploy-pages@v4
