@@ -291,7 +291,7 @@ def main() -> None:
         result=(a+b)*multiply
         return numeric(R, "Logical Operations",
                        f"If a ★ b means (a+b)×{multiply}, find {a} ★ {b}.",
-                       result, f"({a}+{b})×{multiply} = {result}.")
+                       result, f"Substitute a={a} and b={b} into the defined operation: ({a}+{b})×{multiply} = {result}.")
     generate("operations", 3, reasoning_operations)
 
     assert len(created) == 60, f"Expected 60 daily MCQs, got {len(created)}"
@@ -299,8 +299,10 @@ def main() -> None:
               R: sum(q["topic"] == R for q in created)}
     assert counts == {M:30,R:30}, counts
     assert len({q["question"] for q in created}) == 60
-    assert all(len(q["options"]) == len(set(q["options"])) == 4
-               and 0<=q["answer"]<4 and len(q["explanation"])>20 for q in created)
+    invalid = [(q["id"], q["skill"], q["question"]) for q in created
+               if not (len(q["options"]) == len(set(q["options"])) == 4
+               and 0<=q["answer"]<4 and len(q["explanation"])>20)]
+    assert not invalid, f"Invalid generated MCQs: {invalid[:5]}"
     for q in created:
         assert q["kind"] == "Original daily practice"
         assert re.fullmatch(r"daily-\d{8}-\d{3}",q["id"])
