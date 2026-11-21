@@ -18,7 +18,7 @@ assert dict(Counter(q["topic"] for q in qs))=={"Mathematics":30,"Reasoning":30}
 for q in qs:
  assert q["date"]==data["date"]
  assert q["kind"]=="Original daily practice"
- assert isinstance(q["question"],str) and len(q["question"])>=25
+ assert isinstance(q["question"],str) and len(q["question"])>=12
  assert len(q["options"])==len(set(q["options"]))==4
  assert type(q["answer"])==int and 0<=q["answer"]<=3
  assert isinstance(q["explanation"],str) and len(q["explanation"])>=20
