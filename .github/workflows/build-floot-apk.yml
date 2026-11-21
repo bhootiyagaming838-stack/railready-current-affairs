@@ -1,0 +1,81 @@
+name: Build Free RailReady Floot Android APK
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'android/**'
+      - 'scripts/generate_icons.py'
+      - '.github/workflows/build-floot-apk.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: railready-floot-apk-build
+  cancel-in-progress: false
+
+jobs:
+  build-apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Check out Android project
+        uses: actions/checkout@v4
+
+      - name: Set up Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Set up Gradle 8.10.2
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.10.2'
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Install required Android SDK packages
+        run: sdkmanager --install "platforms;android-35" "build-tools;35.0.0"
+
+      - name: Create RailReady app icon
+        run: |
+          python scripts/generate_icons.py
+          mkdir -p android/app/src/main/res/drawable-nodpi
+          cp icon-192.png android/app/src/main/res/drawable-nodpi/railready_icon.png
+
+      - name: Compile and sign personal-use debug APK
+        working-directory: android
+        run: gradle :app:assembleDebug --no-daemon --stacktrace
+
+      - name: Prepare installable APK
+        run: |
+          mkdir -p dist
+          cp android/app/build/outputs/apk/debug/app-debug.apk dist/RailReady-Floot.apk
+          test -s dist/RailReady-Floot.apk
+          sha256sum dist/RailReady-Floot.apk
+
+      - name: Upload APK as GitHub Actions artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: RailReady-Floot-Android-APK
+          path: dist/RailReady-Floot.apk
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Publish direct APK download as GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="railready-floot-android-v1"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "First APK release already exists: retaining its original signing certificate."
+          else
+            gh release create "$TAG" dist/RailReady-Floot.apk \
+              --title "RailReady NTPC — Free Android APK (Floot edition)" \
+              --notes "Personal-install Android WebView app opening https://railready-ntpc.floot.app/. Install without Google Play, with no purchase or subscription. Needs internet and the Floot website to be available. This is a debug-signed personal APK, not an official Play Store publication." \
+              --target "$GITHUB_SHA"
+          fi
