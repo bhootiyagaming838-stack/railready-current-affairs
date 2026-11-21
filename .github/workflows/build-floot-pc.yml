@@ -1,0 +1,80 @@
+name: Build Free RailReady Windows PC App
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'desktop/**'
+      - 'scripts/generate_icons.py'
+      - '.github/workflows/build-floot-pc.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: railready-floot-windows-app
+  cancel-in-progress: false
+
+jobs:
+  windows-portable:
+    runs-on: windows-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout project
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate RailReady Windows icon
+        shell: pwsh
+        run: |
+          python scripts/generate_icons.py
+          python desktop/make_icon.py
+
+      - name: Install Electron build dependencies
+        working-directory: desktop
+        run: npm install --no-audit --no-fund
+
+      - name: Check Electron app source
+        working-directory: desktop
+        run: npm run check
+
+      - name: Package a Windows portable executable
+        working-directory: desktop
+        env:
+          CSC_IDENTITY_AUTO_DISCOVERY: 'false'
+          ELECTRON_BUILDER_ALLOW_UNRESOLVED_DEPENDENCIES: 'true'
+        run: npm run build:win
+
+      - name: Verify built EXE exists
+        shell: pwsh
+        run: |
+          $file = "desktop/dist/RailReady-Floot-Windows.exe"
+          if (!(Test-Path $file)) { throw "Windows EXE not found: $file" }
+          $size = (Get-Item $file).Length
+          Write-Output "Windows EXE size: $size bytes"
+          if ($size -lt 20000000) { throw "Unexpectedly small EXE" }
+          Get-FileHash $file -Algorithm SHA256
+
+      - name: Upload portable EXE
+        uses: actions/upload-artifact@v4
+        with:
+          name: RailReady-Floot-Windows-Portable-EXE
+          path: desktop/dist/RailReady-Floot-Windows.exe
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Make a permanent direct-download GitHub Release
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $tag = "railready-floot-windows-v1"
+          gh release view $tag 2>$null
+          if ($LASTEXITCODE -eq 0) {
+            Write-Output "Release already exists; keeping the original v1 executable."
+          } else {
+            gh release create $tag "desktop/dist/RailReady-Floot-Windows.exe" --title "RailReady NTPC - Free Windows Desktop App (Floot edition)" --notes "Free personal-use Windows 10/11 portable PC app that opens the original Floot RailReady experience at https://railready-ntpc.floot.app/. No Play Store, Microsoft Store or paid subscription required. Requires an internet connection. Unsigned executable; Windows may display a security warning." --target $env:GITHUB_SHA
+            if ($LASTEXITCODE -ne 0) { throw "GitHub Release creation failed" }
+          }
