@@ -5,6 +5,8 @@ on:
     paths:
       - 'index.html'
       - 'app.js'
+      - 'daily.html'
+      - 'daily.js'
       - 'app.css'
       - 'manifest.webmanifest'
       - 'icon.svg'
@@ -30,6 +32,8 @@ jobs:
       - name: Validate JavaScript syntax and study data
         run: |
           node --check app.js
+          node --check daily.js
+          python scripts/validate_daily_mcqs.py
           node --check sw.js
           python scripts/validate_study_content.py
           python -m json.tool data/general-awareness-bank.json >/dev/null
@@ -38,7 +42,7 @@ jobs:
       - name: Package static study app
         run: |
           mkdir -p public/data
-          cp index.html app.js app.css manifest.webmanifest icon.svg icon-192.png icon-512.png sw.js public/
+          cp index.html daily.html daily.js app.js app.css manifest.webmanifest icon.svg icon-192.png icon-512.png sw.js public/
           cp data/*.json public/data/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
