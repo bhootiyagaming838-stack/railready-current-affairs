@@ -10,6 +10,7 @@ on:
       - 'scripts/validate_daily_mcqs.py'
       - 'scripts/verify_daily_answers.py'
       - 'scripts/test_daily_quiz.cjs'
+      - 'scripts/test_daily_future.py'
       - '.github/workflows/daily-mcqs.yml'
 permissions:
   contents: write
@@ -36,6 +37,7 @@ jobs:
           python scripts/validate_daily_mcqs.py
           python scripts/verify_daily_answers.py
           node scripts/test_daily_quiz.cjs
+          python scripts/test_daily_future.py
       - name: Publish today’s questions to GitHub Pages content
         shell: bash
         run: |
