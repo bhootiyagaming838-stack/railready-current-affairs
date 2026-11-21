@@ -70,11 +70,11 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          $tag = "railready-floot-windows-v1"
+          $tag = "railready-floot-windows-v2"
           gh release view $tag 2>$null
           if ($LASTEXITCODE -eq 0) {
-            Write-Output "Release already exists; keeping the original v1 executable."
+            Write-Output "Release already exists; keeping the original v2 executable."
           } else {
-            gh release create $tag "desktop/dist/RailReady-Floot-Windows.exe" --title "RailReady NTPC - Free Windows Desktop App (Floot edition)" --notes "Free personal-use Windows 10/11 portable PC app that opens the original Floot RailReady experience at https://railready-ntpc.floot.app/. No Play Store, Microsoft Store or paid subscription required. Requires an internet connection. Unsigned executable; Windows may display a security warning." --target $env:GITHUB_SHA
+            gh release create $tag "desktop/dist/RailReady-Floot-Windows.exe" --title "RailReady NTPC - Windows App with Auto-updating Daily MCQs" --notes "Free personal-use Windows 10/11 portable PC app that opens the original Floot RailReady experience at https://railready-ntpc.floot.app/. No Play Store, Microsoft Store or paid subscription required. Includes a Daily MCQs menu with 60 new exam-style Maths and Reasoning questions each day. Requires internet. Unsigned executable; Windows may display a security warning." --target $env:GITHUB_SHA
             if ($LASTEXITCODE -ne 0) { throw "GitHub Release creation failed" }
           }
