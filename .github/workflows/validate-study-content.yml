@@ -1,0 +1,23 @@
+name: Validate RailReady study content
+on:
+  push:
+    paths:
+      - 'data/quant-reasoning-bank.json'
+      - 'data/study-lessons.json'
+      - 'data/pyq-source-index.json'
+      - 'scripts/validate_study_content.py'
+      - '.github/workflows/validate-study-content.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate questions, answer keys, lessons and source labels
+        run: python scripts/validate_study_content.py
