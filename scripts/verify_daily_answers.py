@@ -46,7 +46,7 @@ def verify(q):
             a,b=ns[:2];return value(q)==a*b/(a+b)
     if t=="Reasoning":
         if s=="Number Series":
-            values=[int(n) for n in re.search(r": (.*), \?$",question).group(1).split(", ")]
+            values=numbers(question)
             if len(values)==5 and len(set([b-a for a,b in zip(values,values[1:])]))==1:
                 return value(q)==values[-1]+(values[-1]-values[-2])
             if all(math.isqrt(v)**2==v for v in values):
