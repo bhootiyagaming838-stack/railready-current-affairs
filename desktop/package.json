@@ -1,7 +1,7 @@
 {
   "name": "railready-floot-desktop",
-  "version": "1.0.0",
-  "description": "Personal-use Windows desktop app for RailReady NTPC (original Floot design)",
+  "version": "1.1.0",
+  "description": "Floot RailReady desktop with a daily auto-updating 60-question Maths and Reasoning quiz",
   "private": true,
   "main": "main.cjs",
   "author": "RailReady",
