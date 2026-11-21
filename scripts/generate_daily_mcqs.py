@@ -328,6 +328,24 @@ def main() -> None:
         archive.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     LATEST.parent.mkdir(parents=True,exist_ok=True)
     LATEST.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    # Compatibility for the existing Floot app: its News tab already reads
+    # "questions" from news.json. Keep original headline reading exercises
+    # separately and supply the 60 new practice MCQs there until the Floot
+    # UI can be updated. This changes data, not the published app code.
+    news_path = ROOT / "data" / "news.json"
+    if news_path.exists():
+        news = json.loads(news_path.read_text(encoding="utf-8"))
+        if isinstance(news, dict):
+            original = [q for q in news.get("questions", [])
+                        if isinstance(q,dict) and q.get("kind") == "headline-classification"]
+            if original:
+                news["headlineReadingQuestions"] = original
+            news["questions"] = out["questions"]
+            news["dailyQuestionDate"] = out["date"]
+            news["dailyQuestionCount"] = len(out["questions"])
+            news["dailyQuestionLabel"] = "60 original daily Maths and Reasoning MCQs — not verified PYQs"
+            news_path.write_text(json.dumps(news,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+            print("Updated Floot-compatible news quiz feed with 60 new daily MCQs")
     print(f"Created {len(out['questions'])} daily MCQs for {out['date']}: {out['breakdown']}")
     print("Original numerical/logic questions only; no claimed official PYQs or generated current-affairs facts.")
 
