@@ -19,8 +19,10 @@ with tempfile.TemporaryDirectory(prefix="railready-future-mcqs-") as workspace:
     previous=[]
     for n in range(45):
         date=(START+dt.timedelta(days=n)).isoformat()
-        subprocess.run([sys.executable,str(target/"scripts"/"generate_daily_mcqs.py"),"--date",date],
-                       check=True,capture_output=True,text=True,timeout=15)
+        generation=subprocess.run([sys.executable,str(target/"scripts"/"generate_daily_mcqs.py"),"--date",date],
+                       check=False,capture_output=True,text=True,timeout=15)
+        if generation.returncode:
+            raise RuntimeError(f"Generation failed for {date}: {generation.stderr}\n{generation.stdout}")
         subprocess.run([sys.executable,str(target/"scripts"/"validate_daily_mcqs.py")],
                        check=True,capture_output=True,text=True,timeout=15)
         subprocess.run([sys.executable,str(target/"scripts"/"verify_daily_answers.py")],
