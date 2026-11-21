@@ -8,7 +8,7 @@ questions=data["questions"]
 ABC="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 passed=0
 def numbers(s):
-    return [int(n) for n in re.findall(r"\d+",s)]
+    return [int(n) for n in re.findall(r"-?\d+",s)]
 def correct(q):
     return q["options"][q["answer"]]
 def value(q):
