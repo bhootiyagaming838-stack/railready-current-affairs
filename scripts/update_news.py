@@ -105,10 +105,30 @@ def main():
   raise RuntimeError("No news available; refusing to publish an empty feed")
  notes=notes[:120]
  OUT.parent.mkdir(parents=True,exist_ok=True)
- OUT.write_text(json.dumps({
+ # Preserve 60 daily practice MCQs in the existing Floot News quiz field,
+ # while keeping automatic headline category exercises in another field.
+ # The Floot UI label will be corrected after its free build quota resets.
+ headline_exercises=make_quiz(notes)
+ daily_data={}
+ try:
+  daily_data=json.loads((ROOT/"data"/"daily-mcqs.json").read_text(encoding="utf-8"))
+ except (ValueError,OSError): pass
+ daily_questions=[q for q in daily_data.get("questions",[]) if isinstance(q,dict)
+      and q.get("kind")=="Original daily practice" and len(q.get("options",[]))==4]
+ older_daily=[q for q in previous.get("questions",[]) if isinstance(q,dict)
+      and q.get("kind")=="Original daily practice"]
+ active_quiz=daily_questions[:60] if len(daily_questions)==60 else older_daily[:60]
+ if not active_quiz: active_quiz=headline_exercises
+ result={
   "updatedAt":dt.datetime.now(dt.timezone.utc).isoformat(),
-  "notes":notes,"questions":make_quiz(notes),"kind":"headline-feed",
-  "disclaimer":"Automatic headlines and classification exercises are not verified factual exam questions. Review linked reports."
- },ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
- print("Saved",len(notes),"headlines and",min(40,len(notes)),"reading exercises")
+  "notes":notes,
+  "questions":active_quiz,
+  "headlineReadingQuestions":headline_exercises,
+  "dailyQuestionDate":daily_data.get("date") if len(daily_questions)==60 else previous.get("dailyQuestionDate"),
+  "dailyQuestionCount":60 if len(active_quiz)==60 and active_quiz[0].get("kind")=="Original daily practice" else 0,
+  "kind":"headline-feed",
+  "disclaimer":"News headlines require source verification. The quiz field currently supplies original Maths and Reasoning daily practice; these are not verified RRB PYQs or current-affairs facts."
+ }
+ OUT.write_text(json.dumps(result,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+ print("Saved",len(notes),"headlines and",len(active_quiz),"active MCQs")
 if __name__=="__main__":main()
