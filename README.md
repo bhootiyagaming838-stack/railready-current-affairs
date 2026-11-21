@@ -1,3 +1,16 @@
+## 🆕 Automatic daily 60-MCQ practice
+
+- **Daily quiz:** https://bhootiyagaming838-stack.github.io/railready-current-affairs/daily.html
+- Every day the free GitHub Actions workflow generates **60 new original exam-style MCQs: 30 Mathematics + 30 Reasoning**, each with four answer options, a computed answer key and an explanation. Questions are kept stable within each day and archived by date.
+- **Schedule:** about **7:15 AM IST** (`01:45 UTC`), but GitHub can delay or skip schedules. Use [Generate RailReady 60 Daily MCQs](https://github.com/bhootiyagaming838-stack/railready-current-affairs/actions/workflows/daily-mcqs.yml) to check its run status.
+- The workflow also updates `data/news.json.questions` so the **existing Floot RailReady app, PC app and Android APK** can fetch the 60 daily questions from **News → Headline quiz** without rebuilding. **The Floot button still says "Headline quiz" because its free build quota prevented changing the UI.** This is temporary; questions are Maths and Reasoning, not headline categorization.
+- Original news headlines are preserved in `data/news.json.notes`, and the old headline exercises in `headlineReadingQuestions` for a future UI upgrade.
+- The daily practice page has an offline last-successful-cache and stores practice results locally in the browser. It does not automatically merge scores with Floot browser storage.
+- Every run validates exact answer keys and performs a 45-day regression simulation covering **2,700 questions** with no identical question within the preceding 14 days.
+- **No paid API, OpenAI API key, or subscription is needed.** These are original algorithmic Maths and Reasoning questions, **not verified PYQs or factual current-affairs MCQs**.
+
+---
+
 # RailReady Complete Study — Free Web App
 
 **The complete-study edition is now built and tested in this repository.** It is not yet publicly deployed because the repository owner must enable GitHub Pages once.
