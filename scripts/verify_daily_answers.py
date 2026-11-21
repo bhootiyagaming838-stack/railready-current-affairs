@@ -60,8 +60,8 @@ def verify(q):
         if s=="Alphabet Series":
             letters=re.search(r": ([A-Z], [A-Z], [A-Z], [A-Z], [A-Z]), \?$",question).group(1).split(", ")
             positions=[ABC.index(x) for x in letters]
-            step=positions[-1]-positions[-2]
-            return all(b-a==step for a,b in zip(positions,positions[1:])) and correct(q)==ABC[positions[-1]+step]
+            step=(positions[-1]-positions[-2])%26
+            return all((b-a)%26==step for a,b in zip(positions,positions[1:])) and correct(q)==ABC[(positions[-1]+step)%26]
         if s=="Ranking & Order":
             left,right=ns[:2];return value(q)==left+right-1
         if s=="Direction Sense":
