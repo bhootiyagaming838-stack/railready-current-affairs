@@ -1,0 +1,289 @@
+{
+  "version": 1,
+  "sections": [
+    "Mathematics",
+    "Reasoning"
+  ],
+  "lessons": [
+    {
+      "id": "math-01",
+      "section": "Mathematics",
+      "title": "Number System",
+      "objective": "Factors, multiples and divisibility",
+      "keyRule": "HCF is the largest common factor; LCM is the smallest common multiple. For positive integers a and b: HCF × LCM = a × b.",
+      "example": "For 12 and 18: HCF = 6, LCM = 36; 6 × 36 = 12 × 18.",
+      "tip": "When the question asks when repeating events meet again, think LCM. For splitting equal groups without remainder, think HCF.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-02",
+      "section": "Mathematics",
+      "title": "Percentages",
+      "objective": "Convert percentages into fractions",
+      "keyRule": "Percent means per hundred. p% of N = pN/100. For percentage increase multiply by (100+p)/100; for decrease by (100−p)/100.",
+      "example": "20% of 450 = 90. Increasing 450 by 20% gives 540; reducing 450 by 20% gives 360.",
+      "tip": "Successive percentage changes are multiplicative, not additive: +20% followed by −20% gives a net 4% decrease.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-03",
+      "section": "Mathematics",
+      "title": "Ratio & Proportion",
+      "objective": "Split a quantity in a given ratio",
+      "keyRule": "When A:B = a:b and total T, the first share is T × a/(a+b). Equal ratios remain equal when both terms are multiplied by the same nonzero number.",
+      "example": "A:B=3:5, total ₹640. A = 640×3/8=₹240; B=₹400.",
+      "tip": "Convert units first if the terms are in different units, such as hours and minutes.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-04",
+      "section": "Mathematics",
+      "title": "Averages",
+      "objective": "Average = sum ÷ number of observations",
+      "keyRule": "Average of n values is their sum divided by n. Required total = average × count. For consecutive equally spaced numbers, the middle number is the average.",
+      "example": "Average of 12, 18 and 24 is 54/3=18. If a fourth number 26 is added, average becomes (54+26)/4=20.",
+      "tip": "A change of one observation by d changes the average by d/n.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-05",
+      "section": "Mathematics",
+      "title": "Profit, Loss & Discount",
+      "objective": "Base percentage on the correct value",
+      "keyRule": "Profit% and loss% are calculated on cost price. Discount% is calculated on marked price. Selling price = cost price × (100±profit/loss%)/100.",
+      "example": "CP=₹500 and profit=20% → SP=₹600. Marked price=₹800, discount=25% → SP=₹600.",
+      "tip": "A discount and a profit percentage generally use different bases; do not mix them.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-06",
+      "section": "Mathematics",
+      "title": "Simple & Compound Interest",
+      "objective": "Understand principal, rate and time",
+      "keyRule": "Simple interest SI = P×R×T/100 when rate R is annual and time T is in years. For annual compounding, amount A=P(1+R/100)^T, and CI=A−P.",
+      "example": "P=₹2,000, R=5%, T=2 years: SI=₹200; annual CI=₹205.",
+      "tip": "Unless the question specifies otherwise, a quoted interest rate is normally per annum. Convert months to years.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-07",
+      "section": "Mathematics",
+      "title": "Time & Work",
+      "objective": "Convert days into per-day rates",
+      "keyRule": "If A finishes work in a days, A's daily work rate is 1/a. If B takes b days and they work together, time = ab/(a+b), assuming constant rates.",
+      "example": "A takes 6 days, B 12 days. Together: (6×12)/(6+12)=4 days.",
+      "tip": "Workers can have different rates. Do not average their individual completion times.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-08",
+      "section": "Mathematics",
+      "title": "Speed, Time & Distance",
+      "objective": "Keep units consistent",
+      "keyRule": "Distance = speed × time; time = distance ÷ speed. Convert km/h to m/s by multiplying by 5/18. Relative speed is the sum for opposite directions and difference for same direction.",
+      "example": "72 km/h = 72×5/18 = 20 m/s. A 200 m train travelling at 20 m/s passes a pole in 10 seconds.",
+      "tip": "For a train passing a platform, include both train and platform lengths.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-09",
+      "section": "Mathematics",
+      "title": "Mensuration",
+      "objective": "Areas, perimeters and volumes",
+      "keyRule": "Rectangle area = length × breadth; perimeter = 2(l+b). Square area = side². Circle area = πr² and circumference = 2πr.",
+      "example": "A rectangle 15 cm by 8 cm has area 120 cm² and perimeter 46 cm.",
+      "tip": "Write the required unit: area in square units and volume in cubic units.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-10",
+      "section": "Mathematics",
+      "title": "Algebra",
+      "objective": "Use inverse operations to solve equations",
+      "keyRule": "To solve ax+b=c, subtract b from both sides and divide by a. Keep both sides balanced. Factor simple quadratics when possible.",
+      "example": "3x+7=22 → 3x=15 → x=5.",
+      "tip": "Substitute the solution into the original equation to check it.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-11",
+      "section": "Mathematics",
+      "title": "Fractions & Decimals",
+      "objective": "Use common denominators",
+      "keyRule": "Add fractions by taking a common denominator. Multiplying fractions means multiplying numerators and denominators. To divide, multiply by the reciprocal.",
+      "example": "2/3+1/6=4/6+1/6=5/6. Also 0.25=1/4=25%.",
+      "tip": "Cancel common factors before multiplying large numerators and denominators.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-12",
+      "section": "Mathematics",
+      "title": "Data Interpretation",
+      "objective": "Read tables and charts accurately",
+      "keyRule": "For a table, identify the relevant year, unit and category before doing arithmetic. Change% = (new−old)/old ×100. Averages use all observations, not just endpoints.",
+      "example": "Sales rise from 120 to 150. Growth = 30/120×100 = 25%.",
+      "tip": "Check whether a bar graph starts at zero or uses a truncated axis.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-13",
+      "section": "Mathematics",
+      "title": "Trigonometry Basics",
+      "objective": "Remember standard right-triangle ratios",
+      "keyRule": "For angle θ: sinθ=opposite/hypotenuse, cosθ=adjacent/hypotenuse, tanθ=opposite/adjacent. Pythagoras: a²+b²=c².",
+      "example": "In a 3-4-5 right triangle, opposite=3 and hypotenuse=5 gives sinθ=3/5.",
+      "tip": "Confirm which side is opposite relative to the stated angle before choosing a ratio.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "math-14",
+      "section": "Mathematics",
+      "title": "Elementary Statistics",
+      "objective": "Median, mode and range",
+      "keyRule": "Arrange values before finding the median. Mode is most frequent. Range = maximum−minimum. For an even number of observations, median is the mean of the two middle values.",
+      "example": "For 3,5,5,7,10: median=5, mode=5, range=7.",
+      "tip": "Mean and median are different; one extreme value can move the mean far more than the median.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-01",
+      "section": "Reasoning",
+      "title": "Number Series",
+      "objective": "Spot the smallest repeatable rule",
+      "keyRule": "Check differences, second differences, multipliers, square numbers, cubes, and alternating sequences before guessing. An arithmetic progression uses a constant difference.",
+      "example": "3,7,11,15,? has common difference 4, so the next term is 19.",
+      "tip": "Test your rule against every given term, not just the last two.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-02",
+      "section": "Reasoning",
+      "title": "Alphabet Series",
+      "objective": "Index letters from A=1 to Z=26",
+      "keyRule": "Convert letters to positions when patterns are unclear. Look for +2, +3, alternating steps, reversals, or pairs read from both ends.",
+      "example": "B,E,H,K,? uses +3 positions, so N is next.",
+      "tip": "If a position exceeds 26 in a cyclic coding question, wrap back to A only when the rule indicates cyclic coding.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-03",
+      "section": "Reasoning",
+      "title": "Coding-Decoding",
+      "objective": "Find the exact letter and word transformation",
+      "keyRule": "Check letter-by-letter shifts, reversals, digit substitutions, opposite alphabet and positional changes. A single example can sometimes admit multiple rules, so use all examples provided.",
+      "example": "If CAT is DBU, each letter shifts forward by one; DOG becomes EPH.",
+      "tip": "Never infer an unstated coding rule from unrelated examples.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-04",
+      "section": "Reasoning",
+      "title": "Analogies",
+      "objective": "Identify the relationship, not surface similarity",
+      "keyRule": "For numeric analogy test squares, cubes, multiplication, differences and digit relationships. For word analogy test object-use, part-whole, synonym, antonym and category.",
+      "example": "4:16 :: 7:? is square mapping, so 49.",
+      "tip": "The same transformation must work for both pairs.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-05",
+      "section": "Reasoning",
+      "title": "Classification & Odd One Out",
+      "objective": "Find the property shared by three options",
+      "keyRule": "Inspect number parity, squares, primes, units, alphabet order and semantic categories. The odd option must violate a property that the other three share.",
+      "example": "16,25,36,50: 50 is not a perfect square.",
+      "tip": "Check all three matching options before settling on an answer.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-06",
+      "section": "Reasoning",
+      "title": "Blood Relations",
+      "objective": "Draw a three-generation family tree",
+      "keyRule": "Translate every statement into a link such as parent, child, sibling or spouse. Distinguish maternal and paternal relations. Avoid assuming gender when it is not given.",
+      "example": "A is father of B; B is mother of C. A is C's maternal grandfather.",
+      "tip": "Write a simple family diagram to reduce confusion.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-07",
+      "section": "Reasoning",
+      "title": "Direction Sense",
+      "objective": "Represent movements on a compass",
+      "keyRule": "Take east as +x and north as +y. Opposite moves cancel. When a question asks straight-line distance, apply Pythagoras rather than adding path lengths.",
+      "example": "Move 3 km east and 4 km north. Shortest displacement is √(3²+4²)=5 km.",
+      "tip": "Question may ask final direction, total distance travelled or displacement: these are different.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-08",
+      "section": "Reasoning",
+      "title": "Ranking & Order",
+      "objective": "Use position formulas correctly",
+      "keyRule": "For a person counted from both ends, total people = left rank + right rank − 1. If total is given, opposite rank = total−known rank+1.",
+      "example": "11th from left and 16th from right → total 26.",
+      "tip": "Subtract 1 because the same person appears in both rank counts.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-09",
+      "section": "Reasoning",
+      "title": "Syllogism",
+      "objective": "Judge only what follows necessarily",
+      "keyRule": "Use set inclusion rather than everyday assumptions. All A are B and all B are C guarantees all A are C. A statement about 'some' does not automatically imply all.",
+      "example": "All roses are flowers; all flowers are plants → all roses are plants.",
+      "tip": "Do not reverse 'all A are B' into 'all B are A'.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-10",
+      "section": "Reasoning",
+      "title": "Venn Diagrams",
+      "objective": "Encode overlap and containment",
+      "keyRule": "Use circles for categories. All A are B means circle A lies inside B; some A are B means an overlap; no A are B means disjoint circles.",
+      "example": "All sparrows are birds and all birds are animals: nested circles Sparrow inside Bird inside Animal.",
+      "tip": "Distinguish possibility from necessity when assessing conclusions.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-11",
+      "section": "Reasoning",
+      "title": "Seating Arrangement",
+      "objective": "Track fixed conditions before relative clues",
+      "keyRule": "For a row, draw slots from left to right. For a circular table, choose a direction and be consistent about whose left/right is referenced. Lock in any known endpoint positions first.",
+      "example": "Five people in a row: if P is at the left end and Q sits immediately right of P, write P Q _ _ _.",
+      "tip": "Mark unresolved slots and avoid assigning positions without evidence.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-12",
+      "section": "Reasoning",
+      "title": "Clock & Calendar",
+      "objective": "Use seven-day cycles",
+      "keyRule": "For weekdays, reduce large day offsets modulo 7. In clocks, the minute hand moves 6° per minute and the hour hand 0.5° per minute.",
+      "example": "If today is Monday, 17 days later is Thursday because 17 mod 7 = 3.",
+      "tip": "Be careful whether the start day is counted as day zero.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-13",
+      "section": "Reasoning",
+      "title": "Mathematical Operations",
+      "objective": "Apply a defined symbol exactly",
+      "keyRule": "Custom operators override the everyday meanings of their symbols. Substitute the given numbers and evaluate brackets first. Follow the rule in the question.",
+      "example": "If a ★ b = 2(a+b), then 3 ★ 7 = 2×10 = 20.",
+      "tip": "Do not apply conventional meaning to a symbol that has been redefined.",
+      "sourceType": "original study notes"
+    },
+    {
+      "id": "reason-14",
+      "section": "Reasoning",
+      "title": "Statement & Conclusion",
+      "objective": "Separate evidence from assumption",
+      "keyRule": "A valid conclusion must follow from all statements without adding an unstated fact. Words like all, some, none and only change the logical scope.",
+      "example": "All trains in group X are electric. Therefore any member of group X is electric; no claim follows about trains outside X.",
+      "tip": "A conclusion that is merely plausible is not necessarily established.",
+      "sourceType": "original study notes"
+    }
+  ]
+}
