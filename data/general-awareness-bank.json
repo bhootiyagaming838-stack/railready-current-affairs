@@ -1,0 +1,1102 @@
+{
+  "version": 1,
+  "kind": "original-exam-style-practice",
+  "disclaimer": "These are original practice questions, not verified previous-year questions.",
+  "questions": [
+    {
+      "id": "ga-001",
+      "topic": "General Awareness",
+      "skill": "Polity",
+      "question": "Who chaired the Drafting Committee of the Constitution?",
+      "options": [
+        "B. R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "answer": 0,
+      "explanation": "B. R. Ambedkar chaired the Constitution's Drafting Committee.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-002",
+      "topic": "General Awareness",
+      "skill": "Polity",
+      "question": "Article 17 of the Constitution abolishes what?",
+      "options": [
+        "Child labour",
+        "Titles",
+        "Forced labour",
+        "Untouchability"
+      ],
+      "answer": 3,
+      "explanation": "Article 17 abolishes untouchability.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-003",
+      "topic": "General Awareness",
+      "skill": "Polity",
+      "question": "Which Article guarantees equality before the law?",
+      "options": [
+        "Article 32",
+        "Article 44",
+        "Article 14",
+        "Article 21"
+      ],
+      "answer": 2,
+      "explanation": "Article 14 provides equality before law and equal protection of laws.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-004",
+      "topic": "General Awareness",
+      "skill": "Polity",
+      "question": "In which part are the Directive Principles of State Policy?",
+      "options": [
+        "Part IVA",
+        "Part IV",
+        "Part III",
+        "Part I"
+      ],
+      "answer": 1,
+      "explanation": "Directive Principles are contained in Part IV.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-005",
+      "topic": "General Awareness",
+      "skill": "Polity",
+      "question": "How many Fundamental Duties does the Constitution list?",
+      "options": [
+        "11",
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": 0,
+      "explanation": "There are 11 Fundamental Duties under Article 51A.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-006",
+      "topic": "General Awareness",
+      "skill": "Polity",
+      "question": "The Eighth Schedule of the Constitution deals with what?",
+      "options": [
+        "Land reforms",
+        "Anti-defection",
+        "Municipalities",
+        "Languages"
+      ],
+      "answer": 3,
+      "explanation": "The Eighth Schedule lists recognised languages.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-007",
+      "topic": "General Awareness",
+      "skill": "Polity",
+      "question": "What is the minimum age for membership of the Lok Sabha?",
+      "options": [
+        "30 years",
+        "35 years",
+        "25 years",
+        "21 years"
+      ],
+      "answer": 2,
+      "explanation": "Article 84 specifies a minimum age of 25.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-008",
+      "topic": "General Awareness",
+      "skill": "Polity",
+      "question": "What is the minimum age to join the Rajya Sabha?",
+      "options": [
+        "21 years",
+        "30 years",
+        "25 years",
+        "35 years"
+      ],
+      "answer": 1,
+      "explanation": "Article 84 sets a minimum age of 30.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-009",
+      "topic": "General Awareness",
+      "skill": "Polity",
+      "question": "The 73rd Constitutional Amendment concerns which body?",
+      "options": [
+        "Panchayati Raj",
+        "Municipalities",
+        "Supreme Court",
+        "Election Commission"
+      ],
+      "answer": 0,
+      "explanation": "The 73rd Amendment gave constitutional status to Panchayati Raj institutions.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-010",
+      "topic": "General Awareness",
+      "skill": "Polity",
+      "question": "Who is the ex officio Chairman of the Rajya Sabha?",
+      "options": [
+        "President of India",
+        "Prime Minister",
+        "Chief Justice of India",
+        "Vice President of India"
+      ],
+      "answer": 3,
+      "explanation": "The Vice President is ex officio Chairman of the Rajya Sabha.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-011",
+      "topic": "General Awareness",
+      "skill": "Polity",
+      "question": "Which part contains Fundamental Rights?",
+      "options": [
+        "Part IVA",
+        "Part II",
+        "Part III",
+        "Part IV"
+      ],
+      "answer": 2,
+      "explanation": "Fundamental Rights are in Part III.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-012",
+      "topic": "General Awareness",
+      "skill": "Polity",
+      "question": "Under which Article can the President proclaim a national emergency?",
+      "options": [
+        "Article 368",
+        "Article 352",
+        "Article 356",
+        "Article 360"
+      ],
+      "answer": 1,
+      "explanation": "Article 352 governs a national emergency.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-013",
+      "topic": "General Awareness",
+      "skill": "History",
+      "question": "In which year was the Indian National Congress founded?",
+      "options": [
+        "1885",
+        "1857",
+        "1905",
+        "1919"
+      ],
+      "answer": 0,
+      "explanation": "The Indian National Congress was founded in 1885.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-014",
+      "topic": "General Awareness",
+      "skill": "History",
+      "question": "Who launched the Quit India Movement in 1942?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Bhagat Singh",
+        "Lala Lajpat Rai",
+        "Mahatma Gandhi"
+      ],
+      "answer": 3,
+      "explanation": "The Quit India Movement was led by Mahatma Gandhi in August 1942.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-015",
+      "topic": "General Awareness",
+      "skill": "History",
+      "question": "The Jallianwala Bagh massacre occurred in which year?",
+      "options": [
+        "1905",
+        "1922",
+        "1919",
+        "1930"
+      ],
+      "answer": 2,
+      "explanation": "The massacre took place on 13 April 1919.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-016",
+      "topic": "General Awareness",
+      "skill": "History",
+      "question": "In which year was the Battle of Plassey fought?",
+      "options": [
+        "1799",
+        "1757",
+        "1764",
+        "1857"
+      ],
+      "answer": 1,
+      "explanation": "The Battle of Plassey was fought in 1757.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-017",
+      "topic": "General Awareness",
+      "skill": "History",
+      "question": "Who was India's first Indian Governor-General?",
+      "options": [
+        "C. Rajagopalachari",
+        "Lord Mountbatten",
+        "Rajendra Prasad",
+        "B. R. Ambedkar"
+      ],
+      "answer": 0,
+      "explanation": "C. Rajagopalachari served as the first Indian Governor-General.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-018",
+      "topic": "General Awareness",
+      "skill": "History",
+      "question": "Who wrote Vande Mataram?",
+      "options": [
+        "Rabindranath Tagore",
+        "Sarojini Naidu",
+        "Subramania Bharati",
+        "Bankim Chandra Chattopadhyay"
+      ],
+      "answer": 3,
+      "explanation": "Vande Mataram was written by Bankim Chandra Chattopadhyay.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-019",
+      "topic": "General Awareness",
+      "skill": "History",
+      "question": "Where did the Dandi March end?",
+      "options": [
+        "Bardoli",
+        "Sabarmati",
+        "Dandi",
+        "Champaran"
+      ],
+      "answer": 2,
+      "explanation": "Gandhi walked from Sabarmati to the coastal village of Dandi.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-020",
+      "topic": "General Awareness",
+      "skill": "History",
+      "question": "Who founded the Brahmo Samaj?",
+      "options": [
+        "Ishwar Chandra Vidyasagar",
+        "Raja Ram Mohan Roy",
+        "Swami Vivekananda",
+        "Swami Dayananda"
+      ],
+      "answer": 1,
+      "explanation": "Raja Ram Mohan Roy founded the movement.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-021",
+      "topic": "General Awareness",
+      "skill": "History",
+      "question": "Who founded the Mauryan Empire?",
+      "options": [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Harsha",
+        "Samudragupta"
+      ],
+      "answer": 0,
+      "explanation": "Chandragupta Maurya established the Mauryan Empire.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-022",
+      "topic": "General Awareness",
+      "skill": "History",
+      "question": "Who commissioned the Taj Mahal?",
+      "options": [
+        "Akbar",
+        "Jahangir",
+        "Aurangzeb",
+        "Shah Jahan"
+      ],
+      "answer": 3,
+      "explanation": "Shah Jahan commissioned the Taj Mahal in memory of Mumtaz Mahal.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-023",
+      "topic": "General Awareness",
+      "skill": "Geography",
+      "question": "What is India's largest state by area?",
+      "options": [
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Maharashtra"
+      ],
+      "answer": 2,
+      "explanation": "Rajasthan is India's largest state by area.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-024",
+      "topic": "General Awareness",
+      "skill": "Geography",
+      "question": "Which Indian state has the longest coastline?",
+      "options": [
+        "Tamil Nadu",
+        "Gujarat",
+        "Andhra Pradesh",
+        "Maharashtra"
+      ],
+      "answer": 1,
+      "explanation": "Gujarat has the longest state coastline.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-025",
+      "topic": "General Awareness",
+      "skill": "Geography",
+      "question": "Which river is called Dakshin Ganga?",
+      "options": [
+        "Godavari",
+        "Krishna",
+        "Kaveri",
+        "Narmada"
+      ],
+      "answer": 0,
+      "explanation": "Godavari is often called the Ganga of the South.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-026",
+      "topic": "General Awareness",
+      "skill": "Geography",
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "7",
+        "9",
+        "6",
+        "8"
+      ],
+      "answer": 3,
+      "explanation": "The Tropic of Cancer crosses eight states.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-027",
+      "topic": "General Awareness",
+      "skill": "Geography",
+      "question": "Which strait separates India and Sri Lanka?",
+      "options": [
+        "Hormuz Strait",
+        "Bering Strait",
+        "Palk Strait",
+        "Malacca Strait"
+      ],
+      "answer": 2,
+      "explanation": "Palk Strait lies between Tamil Nadu and northern Sri Lanka.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-028",
+      "topic": "General Awareness",
+      "skill": "Geography",
+      "question": "Where is Kaziranga National Park situated?",
+      "options": [
+        "Bihar",
+        "Assam",
+        "Meghalaya",
+        "West Bengal"
+      ],
+      "answer": 1,
+      "explanation": "Kaziranga National Park is located in Assam.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-029",
+      "topic": "General Awareness",
+      "skill": "Geography",
+      "question": "Which is the largest hot desert in the world?",
+      "options": [
+        "Sahara",
+        "Gobi",
+        "Thar",
+        "Kalahari"
+      ],
+      "answer": 0,
+      "explanation": "The Sahara is the largest hot desert.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-030",
+      "topic": "General Awareness",
+      "skill": "Geography",
+      "question": "Which mountain range contains Siachen Glacier?",
+      "options": [
+        "Aravalli",
+        "Satpura",
+        "Western Ghats",
+        "Karakoram"
+      ],
+      "answer": 3,
+      "explanation": "Siachen lies in the eastern Karakoram range.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-031",
+      "topic": "General Awareness",
+      "skill": "Geography",
+      "question": "Which hill region connects the Eastern and Western Ghats?",
+      "options": [
+        "Shivalik Hills",
+        "Aravalli Hills",
+        "Nilgiri Hills",
+        "Vindhya Hills"
+      ],
+      "answer": 2,
+      "explanation": "The Nilgiri Hills form a meeting region of the Ghats.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-032",
+      "topic": "General Awareness",
+      "skill": "Science",
+      "question": "Which gas makes up most of the Earth's atmosphere?",
+      "options": [
+        "Argon",
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "answer": 1,
+      "explanation": "About 78% of dry air is nitrogen.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-033",
+      "topic": "General Awareness",
+      "skill": "Science",
+      "question": "Which organ produces insulin?",
+      "options": [
+        "Pancreas",
+        "Liver",
+        "Kidney",
+        "Thyroid"
+      ],
+      "answer": 0,
+      "explanation": "Insulin is released by beta cells in the pancreas.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-034",
+      "topic": "General Awareness",
+      "skill": "Science",
+      "question": "What is the chemical formula for common salt?",
+      "options": [
+        "NaOH",
+        "HCl",
+        "CaCO3",
+        "NaCl"
+      ],
+      "answer": 3,
+      "explanation": "Common salt is sodium chloride (NaCl).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-035",
+      "topic": "General Awareness",
+      "skill": "Science",
+      "question": "What is the SI unit of electric current?",
+      "options": [
+        "Watt",
+        "Ohm",
+        "Ampere",
+        "Volt"
+      ],
+      "answer": 2,
+      "explanation": "Electric current is measured in amperes.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-036",
+      "topic": "General Awareness",
+      "skill": "Science",
+      "question": "What is the 'powerhouse of the cell'?",
+      "options": [
+        "Golgi apparatus",
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "answer": 1,
+      "explanation": "Mitochondria produce ATP through cellular respiration.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-037",
+      "topic": "General Awareness",
+      "skill": "Science",
+      "question": "Which vitamin can the skin synthesise in sunlight?",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin B12"
+      ],
+      "answer": 0,
+      "explanation": "UVB exposure stimulates production of vitamin D.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-038",
+      "topic": "General Awareness",
+      "skill": "Science",
+      "question": "Pure water has what pH at 25°C?",
+      "options": [
+        "5",
+        "9",
+        "11",
+        "7"
+      ],
+      "answer": 3,
+      "explanation": "Pure water is neutral at pH 7 at 25°C.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-039",
+      "topic": "General Awareness",
+      "skill": "Science",
+      "question": "Which instrument measures atmospheric pressure?",
+      "options": [
+        "Anemometer",
+        "Hygrometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "answer": 2,
+      "explanation": "A barometer measures atmospheric pressure.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-040",
+      "topic": "General Awareness",
+      "skill": "Science",
+      "question": "What is the approximate speed of light in vacuum?",
+      "options": [
+        "1 × 10^7 m/s",
+        "3 × 10^8 m/s",
+        "3 × 10^6 m/s",
+        "3 × 10^5 m/s"
+      ],
+      "answer": 1,
+      "explanation": "Light travels approximately 300 million metres per second.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-041",
+      "topic": "General Awareness",
+      "skill": "Science",
+      "question": "Which acid occurs in lemons?",
+      "options": [
+        "Citric acid",
+        "Lactic acid",
+        "Acetic acid",
+        "Sulphuric acid"
+      ],
+      "answer": 0,
+      "explanation": "Lemon juice contains citric acid.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-042",
+      "topic": "General Awareness",
+      "skill": "Science",
+      "question": "Which part of the brain coordinates balance?",
+      "options": [
+        "Cerebrum",
+        "Medulla",
+        "Hypothalamus",
+        "Cerebellum"
+      ],
+      "answer": 3,
+      "explanation": "The cerebellum regulates balance and coordinated movement.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-043",
+      "topic": "General Awareness",
+      "skill": "Economy",
+      "question": "What does GDP stand for?",
+      "options": [
+        "Gross Development Plan",
+        "Global Domestic Product",
+        "Gross Domestic Product",
+        "General Domestic Price"
+      ],
+      "answer": 2,
+      "explanation": "GDP is the total monetary value of final goods and services produced within an economy in a period.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-044",
+      "topic": "General Awareness",
+      "skill": "Economy",
+      "question": "Where is the RBI headquartered?",
+      "options": [
+        "Chennai",
+        "Mumbai",
+        "New Delhi",
+        "Kolkata"
+      ],
+      "answer": 1,
+      "explanation": "The RBI central office is in Mumbai.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-045",
+      "topic": "General Awareness",
+      "skill": "Economy",
+      "question": "Which institution normally issues banknotes in India?",
+      "options": [
+        "Reserve Bank of India",
+        "State Bank of India",
+        "NABARD",
+        "SEBI"
+      ],
+      "answer": 0,
+      "explanation": "The RBI issues most banknotes except the one-rupee note.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-046",
+      "topic": "General Awareness",
+      "skill": "Economy",
+      "question": "Which tax was launched in India on 1 July 2017?",
+      "options": [
+        "Wealth tax",
+        "Income tax",
+        "Corporate tax",
+        "GST"
+      ],
+      "answer": 3,
+      "explanation": "Goods and Services Tax began on 1 July 2017.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-047",
+      "topic": "General Awareness",
+      "skill": "Economy",
+      "question": "What does a repo rate refer to?",
+      "options": [
+        "Export duty rate",
+        "Savings account fixed rate",
+        "Rate for RBI lending to banks against eligible securities",
+        "Income tax rate"
+      ],
+      "answer": 2,
+      "explanation": "The policy repo rate applies to short-term liquidity against collateral.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-048",
+      "topic": "General Awareness",
+      "skill": "Economy",
+      "question": "Which organisation is the apex rural development bank?",
+      "options": [
+        "SIDBI",
+        "NABARD",
+        "SEBI",
+        "IRDAI"
+      ],
+      "answer": 1,
+      "explanation": "NABARD supports agriculture and rural development.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-049",
+      "topic": "General Awareness",
+      "skill": "Economy",
+      "question": "Which is an example of a direct tax?",
+      "options": [
+        "Income tax",
+        "GST",
+        "Customs duty",
+        "Excise duty"
+      ],
+      "answer": 0,
+      "explanation": "Income tax is imposed directly on taxable income.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-050",
+      "topic": "General Awareness",
+      "skill": "Railways",
+      "question": "In which year did India's first passenger train run?",
+      "options": [
+        "1857",
+        "1875",
+        "1901",
+        "1853"
+      ],
+      "answer": 3,
+      "explanation": "The first passenger train ran between Bori Bunder and Thane in 1853.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-051",
+      "topic": "General Awareness",
+      "skill": "Railways",
+      "question": "What is the width of Indian broad-gauge track?",
+      "options": [
+        "1000 mm",
+        "762 mm",
+        "1676 mm",
+        "1435 mm"
+      ],
+      "answer": 2,
+      "explanation": "Indian broad gauge is 1,676 mm.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-052",
+      "topic": "General Awareness",
+      "skill": "Railways",
+      "question": "What does IRCTC stand for?",
+      "options": [
+        "Indian Rail Travel Control Centre",
+        "Indian Railway Catering and Tourism Corporation",
+        "Indian Rail Cargo Transport Council",
+        "Indian Rail Coaching and Ticket Company"
+      ],
+      "answer": 1,
+      "explanation": "IRCTC means Indian Railway Catering and Tourism Corporation.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-053",
+      "topic": "General Awareness",
+      "skill": "Railways",
+      "question": "Where is Integral Coach Factory located?",
+      "options": [
+        "Chennai",
+        "Kapurthala",
+        "Varanasi",
+        "Patiala"
+      ],
+      "answer": 0,
+      "explanation": "The Integral Coach Factory is in Perambur, Chennai.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-054",
+      "topic": "General Awareness",
+      "skill": "Railways",
+      "question": "Where is Rail Coach Factory situated?",
+      "options": [
+        "Chennai",
+        "Secunderabad",
+        "Guwahati",
+        "Kapurthala"
+      ],
+      "answer": 3,
+      "explanation": "Rail Coach Factory is located at Kapurthala, Punjab.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-055",
+      "topic": "General Awareness",
+      "skill": "Railways",
+      "question": "What does RPF stand for?",
+      "options": [
+        "Rail Passenger Forum",
+        "Rapid Protection Force",
+        "Railway Protection Force",
+        "Railway Police Federation"
+      ],
+      "answer": 2,
+      "explanation": "RPF is the Railway Protection Force.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-056",
+      "topic": "General Awareness",
+      "skill": "Railways",
+      "question": "Where is Chhatrapati Shivaji Maharaj Terminus?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Pune",
+        "Nagpur"
+      ],
+      "answer": 1,
+      "explanation": "CSMT is a historic major terminus in Mumbai.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-057",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Processing Utility",
+        "Central Program User",
+        "Control Power Unit"
+      ],
+      "answer": 0,
+      "explanation": "CPU means Central Processing Unit.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-058",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "Which memory is volatile?",
+      "options": [
+        "ROM",
+        "SSD",
+        "Hard disk",
+        "RAM"
+      ],
+      "answer": 3,
+      "explanation": "RAM loses contents when power is removed.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-059",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "Which Windows shortcut copies selected text?",
+      "options": [
+        "Ctrl+X",
+        "Ctrl+Z",
+        "Ctrl+C",
+        "Ctrl+V"
+      ],
+      "answer": 2,
+      "explanation": "Ctrl+C copies selected text or items.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-060",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "What does URL stand for?",
+      "options": [
+        "Uniform Record Link",
+        "Uniform Resource Locator",
+        "Universal Radio Link",
+        "User Resource Location"
+      ],
+      "answer": 1,
+      "explanation": "A URL identifies an internet resource.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-061",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "What does HTTPS provide?",
+      "options": [
+        "Encrypted HTTP over TLS",
+        "Offline storage",
+        "Faster file compression",
+        "Antivirus scanning"
+      ],
+      "answer": 0,
+      "explanation": "HTTPS protects HTTP data using TLS.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-062",
+      "topic": "General Awareness",
+      "skill": "Environment",
+      "question": "Project Tiger was launched in which year?",
+      "options": [
+        "1986",
+        "1992",
+        "2002",
+        "1973"
+      ],
+      "answer": 3,
+      "explanation": "Project Tiger began in 1973.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-063",
+      "topic": "General Awareness",
+      "skill": "Environment",
+      "question": "Which treaty concerns wetlands of international importance?",
+      "options": [
+        "Paris Agreement",
+        "Basel Convention",
+        "Ramsar Convention",
+        "Montreal Protocol"
+      ],
+      "answer": 2,
+      "explanation": "The Ramsar Convention promotes wetland conservation.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-064",
+      "topic": "General Awareness",
+      "skill": "Environment",
+      "question": "Where is most atmospheric ozone concentrated?",
+      "options": [
+        "Mesosphere",
+        "Stratosphere",
+        "Troposphere",
+        "Exosphere"
+      ],
+      "answer": 1,
+      "explanation": "The ozone layer is mainly in the stratosphere.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-065",
+      "topic": "General Awareness",
+      "skill": "Environment",
+      "question": "Which is a renewable energy source?",
+      "options": [
+        "Wind",
+        "Coal",
+        "Petrol",
+        "Diesel"
+      ],
+      "answer": 0,
+      "explanation": "Wind energy is renewable.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-066",
+      "topic": "General Awareness",
+      "skill": "Culture",
+      "question": "Where is Konark Sun Temple located?",
+      "options": [
+        "Gujarat",
+        "Rajasthan",
+        "Kerala",
+        "Odisha"
+      ],
+      "answer": 3,
+      "explanation": "Konark Sun Temple is in Odisha.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-067",
+      "topic": "General Awareness",
+      "skill": "Culture",
+      "question": "Which classical dance belongs to Kerala?",
+      "options": [
+        "Manipuri",
+        "Bharatanatyam",
+        "Kathakali",
+        "Odissi"
+      ],
+      "answer": 2,
+      "explanation": "Kathakali is a classical dance-drama from Kerala.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-068",
+      "topic": "General Awareness",
+      "skill": "Culture",
+      "question": "Who wrote the book Gitanjali?",
+      "options": [
+        "Premchand",
+        "Rabindranath Tagore",
+        "Bankim Chandra Chattopadhyay",
+        "Kalidasa"
+      ],
+      "answer": 1,
+      "explanation": "Tagore's Gitanjali is a celebrated poetry collection.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-069",
+      "topic": "General Awareness",
+      "skill": "Culture",
+      "question": "Where is the Golden Temple located?",
+      "options": [
+        "Amritsar",
+        "Patiala",
+        "Jalandhar",
+        "Chandigarh"
+      ],
+      "answer": 0,
+      "explanation": "The Golden Temple is in Amritsar.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-070",
+      "topic": "General Awareness",
+      "skill": "Space",
+      "question": "What does ISRO stand for?",
+      "options": [
+        "Indian Science and Research Office",
+        "International Space Research Organisation",
+        "Indian Satellite Research Office",
+        "Indian Space Research Organisation"
+      ],
+      "answer": 3,
+      "explanation": "ISRO is India's national space agency.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-071",
+      "topic": "General Awareness",
+      "skill": "Space",
+      "question": "Where is Satish Dhawan Space Centre?",
+      "options": [
+        "Hyderabad",
+        "Thiruvananthapuram",
+        "Sriharikota",
+        "Bengaluru"
+      ],
+      "answer": 2,
+      "explanation": "The Satish Dhawan Space Centre is at Sriharikota, Andhra Pradesh.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-072",
+      "topic": "General Awareness",
+      "skill": "Space",
+      "question": "When did Chandrayaan-3 land on the Moon?",
+      "options": [
+        "5 September 2021",
+        "23 August 2023",
+        "15 August 2022",
+        "26 January 2024"
+      ],
+      "answer": 1,
+      "explanation": "The Vikram lander made a soft landing on 23 August 2023.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ga-073",
+      "topic": "General Awareness",
+      "skill": "Space",
+      "question": "Which Indian solar mission operates near Sun–Earth L1?",
+      "options": [
+        "Aditya-L1",
+        "Chandrayaan-2",
+        "Mangalyaan",
+        "Astrosat"
+      ],
+      "answer": 0,
+      "explanation": "Aditya-L1 is dedicated to studying the Sun.",
+      "kind": "Original practice"
+    }
+  ]
+}
