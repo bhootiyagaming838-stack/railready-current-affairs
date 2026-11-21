@@ -1,0 +1,3701 @@
+{
+  "version": 1,
+  "kind": "original-exam-style-practice",
+  "disclaimer": "Original study practice questions; none are verified PYQs.",
+  "totals": {
+    "Mathematics": 127,
+    "Reasoning": 119
+  },
+  "questions": [
+    {
+      "id": "ntpc-1",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "What is 10% of 450?",
+      "options": [
+        "45",
+        "55",
+        "35",
+        "65"
+      ],
+      "answer": 0,
+      "explanation": "450 × 10/100 = 45.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-2",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "What is 15% of 600?",
+      "options": [
+        "100",
+        "80",
+        "110",
+        "90"
+      ],
+      "answer": 3,
+      "explanation": "600 × 15/100 = 90.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-3",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "What is 20% of 750?",
+      "options": [
+        "110",
+        "230",
+        "150",
+        "190"
+      ],
+      "answer": 2,
+      "explanation": "750 × 20/100 = 150.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-4",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "What is 25% of 640?",
+      "options": [
+        "240",
+        "160",
+        "200",
+        "120"
+      ],
+      "answer": 1,
+      "explanation": "640 × 25/100 = 160.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-5",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "What is 40% of 250?",
+      "options": [
+        "100",
+        "110",
+        "90",
+        "120"
+      ],
+      "answer": 0,
+      "explanation": "250 × 40/100 = 100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-6",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "What is 12% of 500?",
+      "options": [
+        "70",
+        "50",
+        "80",
+        "60"
+      ],
+      "answer": 3,
+      "explanation": "500 × 12/100 = 60.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-7",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "What is 30% of 900?",
+      "options": [
+        "230",
+        "350",
+        "270",
+        "310"
+      ],
+      "answer": 2,
+      "explanation": "900 × 30/100 = 270.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-8",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "What is 50% of 280?",
+      "options": [
+        "160",
+        "140",
+        "150",
+        "130"
+      ],
+      "answer": 1,
+      "explanation": "280 × 50/100 = 140.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-9",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "What is 75% of 360?",
+      "options": [
+        "270",
+        "310",
+        "230",
+        "350"
+      ],
+      "answer": 0,
+      "explanation": "360 × 75/100 = 270.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-10",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "What is 5% of 800?",
+      "options": [
+        "50",
+        "30",
+        "60",
+        "40"
+      ],
+      "answer": 3,
+      "explanation": "800 × 5/100 = 40.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-11",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "What is 35% of 600?",
+      "options": [
+        "170",
+        "290",
+        "210",
+        "250"
+      ],
+      "answer": 2,
+      "explanation": "600 × 35/100 = 210.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-12",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "What is 60% of 450?",
+      "options": [
+        "350",
+        "270",
+        "310",
+        "230"
+      ],
+      "answer": 1,
+      "explanation": "450 × 60/100 = 270.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-13",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "A value of 200 increases by 10%. New value?",
+      "options": [
+        "220",
+        "260",
+        "180",
+        "300"
+      ],
+      "answer": 0,
+      "explanation": "New value = 200 × 110/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-14",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "A value of 500 increases by 20%. New value?",
+      "options": [
+        "640",
+        "560",
+        "680",
+        "600"
+      ],
+      "answer": 3,
+      "explanation": "New value = 500 × 120/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-15",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "A value of 400 increases by 15%. New value?",
+      "options": [
+        "420",
+        "540",
+        "460",
+        "500"
+      ],
+      "answer": 2,
+      "explanation": "New value = 400 × 115/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-16",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "A value of 800 increases by 25%. New value?",
+      "options": [
+        "1200",
+        "1000",
+        "1100",
+        "900"
+      ],
+      "answer": 1,
+      "explanation": "New value = 800 × 125/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-17",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "A value of 750 increases by 20%. New value?",
+      "options": [
+        "900",
+        "940",
+        "860",
+        "980"
+      ],
+      "answer": 0,
+      "explanation": "New value = 750 × 120/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-18",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "A value of 1200 increases by 10%. New value?",
+      "options": [
+        "1420",
+        "1220",
+        "1520",
+        "1320"
+      ],
+      "answer": 3,
+      "explanation": "New value = 1200 × 110/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-19",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "A value of 600 increases by 30%. New value?",
+      "options": [
+        "740",
+        "860",
+        "780",
+        "820"
+      ],
+      "answer": 2,
+      "explanation": "New value = 600 × 130/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-20",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "A value of 1000 increases by 35%. New value?",
+      "options": [
+        "1550",
+        "1350",
+        "1450",
+        "1250"
+      ],
+      "answer": 1,
+      "explanation": "New value = 1000 × 135/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-21",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "A value of 1500 increases by 12%. New value?",
+      "options": [
+        "1680",
+        "1780",
+        "1580",
+        "1880"
+      ],
+      "answer": 0,
+      "explanation": "New value = 1500 × 112/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-22",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "A value of 900 increases by 40%. New value?",
+      "options": [
+        "1360",
+        "1160",
+        "1460",
+        "1260"
+      ],
+      "answer": 3,
+      "explanation": "New value = 900 × 140/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-23",
+      "topic": "Mathematics",
+      "skill": "Discount",
+      "question": "Marked ₹500, discount 10%. Find selling price.",
+      "options": [
+        "410",
+        "530",
+        "450",
+        "490"
+      ],
+      "answer": 2,
+      "explanation": "Selling price = 500 × 90/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-24",
+      "topic": "Mathematics",
+      "skill": "Discount",
+      "question": "Marked ₹800, discount 20%. Find selling price.",
+      "options": [
+        "720",
+        "640",
+        "680",
+        "600"
+      ],
+      "answer": 1,
+      "explanation": "Selling price = 800 × 80/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-25",
+      "topic": "Mathematics",
+      "skill": "Discount",
+      "question": "Marked ₹1000, discount 25%. Find selling price.",
+      "options": [
+        "750",
+        "790",
+        "710",
+        "830"
+      ],
+      "answer": 0,
+      "explanation": "Selling price = 1000 × 75/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-26",
+      "topic": "Mathematics",
+      "skill": "Discount",
+      "question": "Marked ₹1200, discount 15%. Find selling price.",
+      "options": [
+        "1120",
+        "920",
+        "1220",
+        "1020"
+      ],
+      "answer": 3,
+      "explanation": "Selling price = 1200 × 85/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-27",
+      "topic": "Mathematics",
+      "skill": "Discount",
+      "question": "Marked ₹1500, discount 30%. Find selling price.",
+      "options": [
+        "950",
+        "1250",
+        "1050",
+        "1150"
+      ],
+      "answer": 2,
+      "explanation": "Selling price = 1500 × 70/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-28",
+      "topic": "Mathematics",
+      "skill": "Discount",
+      "question": "Marked ₹2000, discount 40%. Find selling price.",
+      "options": [
+        "1400",
+        "1200",
+        "1300",
+        "1100"
+      ],
+      "answer": 1,
+      "explanation": "Selling price = 2000 × 60/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-29",
+      "topic": "Mathematics",
+      "skill": "Discount",
+      "question": "Marked ₹600, discount 25%. Find selling price.",
+      "options": [
+        "450",
+        "490",
+        "410",
+        "530"
+      ],
+      "answer": 0,
+      "explanation": "Selling price = 600 × 75/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-30",
+      "topic": "Mathematics",
+      "skill": "Discount",
+      "question": "Marked ₹1600, discount 10%. Find selling price.",
+      "options": [
+        "1540",
+        "1340",
+        "1640",
+        "1440"
+      ],
+      "answer": 3,
+      "explanation": "Selling price = 1600 × 90/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-31",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Numbers are 2:3 and sum to 60. Find first number.",
+      "options": [
+        "20",
+        "32",
+        "24",
+        "28"
+      ],
+      "answer": 2,
+      "explanation": "One part equals 12; first = 2×12.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-32",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Numbers are 3:4 and sum to 70. Find first number.",
+      "options": [
+        "38",
+        "30",
+        "34",
+        "26"
+      ],
+      "answer": 1,
+      "explanation": "One part equals 10; first = 3×10.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-33",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Numbers are 4:5 and sum to 54. Find first number.",
+      "options": [
+        "24",
+        "28",
+        "20",
+        "32"
+      ],
+      "answer": 0,
+      "explanation": "One part equals 6; first = 4×6.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-34",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Numbers are 5:7 and sum to 96. Find first number.",
+      "options": [
+        "50",
+        "30",
+        "60",
+        "40"
+      ],
+      "answer": 3,
+      "explanation": "One part equals 8; first = 5×8.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-35",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Numbers are 7:9 and sum to 80. Find first number.",
+      "options": [
+        "31",
+        "43",
+        "35",
+        "39"
+      ],
+      "answer": 2,
+      "explanation": "One part equals 5; first = 7×5.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-36",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Numbers are 1:4 and sum to 75. Find first number.",
+      "options": [
+        "23",
+        "15",
+        "19",
+        "11"
+      ],
+      "answer": 1,
+      "explanation": "One part equals 15; first = 1×15.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-37",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Numbers are 4:7 and sum to 99. Find first number.",
+      "options": [
+        "36",
+        "40",
+        "32",
+        "44"
+      ],
+      "answer": 0,
+      "explanation": "One part equals 9; first = 4×9.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-38",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Numbers are 3:5 and sum to 128. Find first number.",
+      "options": [
+        "58",
+        "38",
+        "68",
+        "48"
+      ],
+      "answer": 3,
+      "explanation": "One part equals 16; first = 3×16.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-39",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Numbers are 5:6 and sum to 154. Find first number.",
+      "options": [
+        "60",
+        "90",
+        "70",
+        "80"
+      ],
+      "answer": 2,
+      "explanation": "One part equals 14; first = 5×14.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-40",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Numbers are 2:7 and sum to 162. Find first number.",
+      "options": [
+        "44",
+        "36",
+        "40",
+        "32"
+      ],
+      "answer": 1,
+      "explanation": "One part equals 18; first = 2×18.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-41",
+      "topic": "Mathematics",
+      "skill": "Average",
+      "question": "Average of 8, 12, 16?",
+      "options": [
+        "12",
+        "16",
+        "8",
+        "20"
+      ],
+      "answer": 0,
+      "explanation": "Add three numbers, divide by three; the result is 12.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-42",
+      "topic": "Mathematics",
+      "skill": "Average",
+      "question": "Average of 12, 18, 24?",
+      "options": [
+        "22",
+        "14",
+        "26",
+        "18"
+      ],
+      "answer": 3,
+      "explanation": "Add three numbers, divide by three; the result is 18.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-43",
+      "topic": "Mathematics",
+      "skill": "Average",
+      "question": "Average of 15, 20, 25?",
+      "options": [
+        "16",
+        "28",
+        "20",
+        "24"
+      ],
+      "answer": 2,
+      "explanation": "Add three numbers, divide by three; the result is 20.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-44",
+      "topic": "Mathematics",
+      "skill": "Average",
+      "question": "Average of 28, 36, 44?",
+      "options": [
+        "44",
+        "36",
+        "40",
+        "32"
+      ],
+      "answer": 1,
+      "explanation": "Add three numbers, divide by three; the result is 36.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-45",
+      "topic": "Mathematics",
+      "skill": "Average",
+      "question": "Average of 12, 15, 18?",
+      "options": [
+        "15",
+        "19",
+        "11",
+        "23"
+      ],
+      "answer": 0,
+      "explanation": "Add three numbers, divide by three; the result is 15.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-46",
+      "topic": "Mathematics",
+      "skill": "Average",
+      "question": "Average of 30, 40, 50?",
+      "options": [
+        "50",
+        "30",
+        "60",
+        "40"
+      ],
+      "answer": 3,
+      "explanation": "Add three numbers, divide by three; the result is 40.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-47",
+      "topic": "Mathematics",
+      "skill": "Average",
+      "question": "Average of 22, 26, 30?",
+      "options": [
+        "22",
+        "34",
+        "26",
+        "30"
+      ],
+      "answer": 2,
+      "explanation": "Add three numbers, divide by three; the result is 26.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-48",
+      "topic": "Mathematics",
+      "skill": "Average",
+      "question": "Average of 26, 32, 38?",
+      "options": [
+        "40",
+        "32",
+        "36",
+        "28"
+      ],
+      "answer": 1,
+      "explanation": "Add three numbers, divide by three; the result is 32.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-49",
+      "topic": "Mathematics",
+      "skill": "Average",
+      "question": "Average of 38, 50, 62?",
+      "options": [
+        "50",
+        "60",
+        "40",
+        "70"
+      ],
+      "answer": 0,
+      "explanation": "Add three numbers, divide by three; the result is 50.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-50",
+      "topic": "Mathematics",
+      "skill": "Average",
+      "question": "Average of 45, 60, 75?",
+      "options": [
+        "70",
+        "50",
+        "80",
+        "60"
+      ],
+      "answer": 3,
+      "explanation": "Add three numbers, divide by three; the result is 60.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-51",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Simple interest on ₹1000 at 5% p.a. for 2 years?",
+      "options": [
+        "90",
+        "120",
+        "100",
+        "110"
+      ],
+      "answer": 2,
+      "explanation": "SI = 1000×5×2/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-52",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Simple interest on ₹2000 at 6% p.a. for 3 years?",
+      "options": [
+        "440",
+        "360",
+        "400",
+        "320"
+      ],
+      "answer": 1,
+      "explanation": "SI = 2000×6×3/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-53",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Simple interest on ₹3000 at 4% p.a. for 2 years?",
+      "options": [
+        "240",
+        "280",
+        "200",
+        "320"
+      ],
+      "answer": 0,
+      "explanation": "SI = 3000×4×2/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-54",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Simple interest on ₹5000 at 8% p.a. for 3 years?",
+      "options": [
+        "1300",
+        "1100",
+        "1400",
+        "1200"
+      ],
+      "answer": 3,
+      "explanation": "SI = 5000×8×3/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-55",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Simple interest on ₹6000 at 10% p.a. for 2 years?",
+      "options": [
+        "1100",
+        "1400",
+        "1200",
+        "1300"
+      ],
+      "answer": 2,
+      "explanation": "SI = 6000×10×2/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-56",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Simple interest on ₹4000 at 7% p.a. for 5 years?",
+      "options": [
+        "1600",
+        "1400",
+        "1500",
+        "1300"
+      ],
+      "answer": 1,
+      "explanation": "SI = 4000×7×5/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-57",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Simple interest on ₹1500 at 12% p.a. for 2 years?",
+      "options": [
+        "360",
+        "400",
+        "320",
+        "440"
+      ],
+      "answer": 0,
+      "explanation": "SI = 1500×12×2/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-58",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Simple interest on ₹2500 at 8% p.a. for 4 years?",
+      "options": [
+        "840",
+        "760",
+        "880",
+        "800"
+      ],
+      "answer": 3,
+      "explanation": "SI = 2500×8×4/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-59",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Simple interest on ₹8000 at 5% p.a. for 3 years?",
+      "options": [
+        "1100",
+        "1400",
+        "1200",
+        "1300"
+      ],
+      "answer": 2,
+      "explanation": "SI = 8000×5×3/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-60",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Simple interest on ₹12000 at 6% p.a. for 2 years?",
+      "options": [
+        "1640",
+        "1440",
+        "1540",
+        "1340"
+      ],
+      "answer": 1,
+      "explanation": "SI = 12000×6×2/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-61",
+      "topic": "Mathematics",
+      "skill": "Profit & Loss",
+      "question": "Cost price ₹400, profit 10%. Selling price?",
+      "options": [
+        "440",
+        "480",
+        "400",
+        "520"
+      ],
+      "answer": 0,
+      "explanation": "Selling price = 400×110/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-62",
+      "topic": "Mathematics",
+      "skill": "Profit & Loss",
+      "question": "Cost price ₹500, profit 20%. Selling price?",
+      "options": [
+        "640",
+        "560",
+        "680",
+        "600"
+      ],
+      "answer": 3,
+      "explanation": "Selling price = 500×120/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-63",
+      "topic": "Mathematics",
+      "skill": "Profit & Loss",
+      "question": "Cost price ₹800, profit 25%. Selling price?",
+      "options": [
+        "900",
+        "1200",
+        "1000",
+        "1100"
+      ],
+      "answer": 2,
+      "explanation": "Selling price = 800×125/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-64",
+      "topic": "Mathematics",
+      "skill": "Profit & Loss",
+      "question": "Cost price ₹1000, profit 15%. Selling price?",
+      "options": [
+        "1350",
+        "1150",
+        "1250",
+        "1050"
+      ],
+      "answer": 1,
+      "explanation": "Selling price = 1000×115/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-65",
+      "topic": "Mathematics",
+      "skill": "Profit & Loss",
+      "question": "Cost price ₹1200, profit 5%. Selling price?",
+      "options": [
+        "1260",
+        "1360",
+        "1160",
+        "1460"
+      ],
+      "answer": 0,
+      "explanation": "Selling price = 1200×105/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-66",
+      "topic": "Mathematics",
+      "skill": "Profit & Loss",
+      "question": "Cost price ₹2000, profit 30%. Selling price?",
+      "options": [
+        "2700",
+        "2500",
+        "2800",
+        "2600"
+      ],
+      "answer": 3,
+      "explanation": "Selling price = 2000×130/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-67",
+      "topic": "Mathematics",
+      "skill": "Profit & Loss",
+      "question": "Cost price ₹750, profit 20%. Selling price?",
+      "options": [
+        "860",
+        "980",
+        "900",
+        "940"
+      ],
+      "answer": 2,
+      "explanation": "Selling price = 750×120/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-68",
+      "topic": "Mathematics",
+      "skill": "Profit & Loss",
+      "question": "Cost price ₹1500, profit 12%. Selling price?",
+      "options": [
+        "1880",
+        "1680",
+        "1780",
+        "1580"
+      ],
+      "answer": 1,
+      "explanation": "Selling price = 1500×112/100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-69",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Vehicle runs 40 km/h for 3 hours. Distance?",
+      "options": [
+        "120 km",
+        "130 km",
+        "110 km",
+        "140 km"
+      ],
+      "answer": 0,
+      "explanation": "Distance = 40×3 km.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-70",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Vehicle runs 60 km/h for 2 hours. Distance?",
+      "options": [
+        "130 km",
+        "110 km",
+        "140 km",
+        "120 km"
+      ],
+      "answer": 3,
+      "explanation": "Distance = 60×2 km.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-71",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Vehicle runs 45 km/h for 4 hours. Distance?",
+      "options": [
+        "140 km",
+        "260 km",
+        "180 km",
+        "220 km"
+      ],
+      "answer": 2,
+      "explanation": "Distance = 45×4 km.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-72",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Vehicle runs 72 km/h for 5 hours. Distance?",
+      "options": [
+        "440 km",
+        "360 km",
+        "400 km",
+        "320 km"
+      ],
+      "answer": 1,
+      "explanation": "Distance = 72×5 km.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-73",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Vehicle runs 50 km/h for 6 hours. Distance?",
+      "options": [
+        "300 km",
+        "340 km",
+        "260 km",
+        "380 km"
+      ],
+      "answer": 0,
+      "explanation": "Distance = 50×6 km.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-74",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Vehicle runs 35 km/h for 4 hours. Distance?",
+      "options": [
+        "150 km",
+        "130 km",
+        "160 km",
+        "140 km"
+      ],
+      "answer": 3,
+      "explanation": "Distance = 35×4 km.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-75",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Vehicle runs 80 km/h for 3 hours. Distance?",
+      "options": [
+        "200 km",
+        "320 km",
+        "240 km",
+        "280 km"
+      ],
+      "answer": 2,
+      "explanation": "Distance = 80×3 km.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-76",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Vehicle runs 30 km/h for 7 hours. Distance?",
+      "options": [
+        "290 km",
+        "210 km",
+        "250 km",
+        "170 km"
+      ],
+      "answer": 1,
+      "explanation": "Distance = 30×7 km.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-77",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Train runs 240 km at 60 km/h. Time?",
+      "options": [
+        "4 hours",
+        "6 hours",
+        "2 hours",
+        "8 hours"
+      ],
+      "answer": 0,
+      "explanation": "Time = 240/60 hours.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-78",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Train runs 180 km at 45 km/h. Time?",
+      "options": [
+        "6 hours",
+        "2 hours",
+        "8 hours",
+        "4 hours"
+      ],
+      "answer": 3,
+      "explanation": "Time = 180/45 hours.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-79",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Train runs 350 km at 70 km/h. Time?",
+      "options": [
+        "3 hours",
+        "9 hours",
+        "5 hours",
+        "7 hours"
+      ],
+      "answer": 2,
+      "explanation": "Time = 350/70 hours.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-80",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Train runs 300 km at 50 km/h. Time?",
+      "options": [
+        "10 hours",
+        "6 hours",
+        "8 hours",
+        "4 hours"
+      ],
+      "answer": 1,
+      "explanation": "Time = 300/50 hours.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-81",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Train runs 420 km at 60 km/h. Time?",
+      "options": [
+        "7 hours",
+        "9 hours",
+        "5 hours",
+        "11 hours"
+      ],
+      "answer": 0,
+      "explanation": "Time = 420/60 hours.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-82",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Train runs 160 km at 40 km/h. Time?",
+      "options": [
+        "6 hours",
+        "2 hours",
+        "8 hours",
+        "4 hours"
+      ],
+      "answer": 3,
+      "explanation": "Time = 160/40 hours.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-83",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Train runs 720 km at 90 km/h. Time?",
+      "options": [
+        "6 hours",
+        "12 hours",
+        "8 hours",
+        "10 hours"
+      ],
+      "answer": 2,
+      "explanation": "Time = 720/90 hours.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-84",
+      "topic": "Mathematics",
+      "skill": "Speed and Distance",
+      "question": "Train runs 180 km at 30 km/h. Time?",
+      "options": [
+        "10 hours",
+        "6 hours",
+        "8 hours",
+        "4 hours"
+      ],
+      "answer": 1,
+      "explanation": "Time = 180/30 hours.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-85",
+      "topic": "Mathematics",
+      "skill": "HCF",
+      "question": "HCF of 24 and 36?",
+      "options": [
+        "12",
+        "16",
+        "8",
+        "20"
+      ],
+      "answer": 0,
+      "explanation": "Greatest common factor is 12.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-86",
+      "topic": "Mathematics",
+      "skill": "HCF",
+      "question": "HCF of 18 and 30?",
+      "options": [
+        "8",
+        "4",
+        "10",
+        "6"
+      ],
+      "answer": 3,
+      "explanation": "Greatest common factor is 6.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-87",
+      "topic": "Mathematics",
+      "skill": "HCF",
+      "question": "HCF of 42 and 56?",
+      "options": [
+        "10",
+        "22",
+        "14",
+        "18"
+      ],
+      "answer": 2,
+      "explanation": "Greatest common factor is 14.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-88",
+      "topic": "Mathematics",
+      "skill": "HCF",
+      "question": "HCF of 16 and 40?",
+      "options": [
+        "12",
+        "8",
+        "10",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "Greatest common factor is 8.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-89",
+      "topic": "Mathematics",
+      "skill": "HCF",
+      "question": "HCF of 45 and 75?",
+      "options": [
+        "15",
+        "19",
+        "11",
+        "23"
+      ],
+      "answer": 0,
+      "explanation": "Greatest common factor is 15.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-90",
+      "topic": "Mathematics",
+      "skill": "HCF",
+      "question": "HCF of 36 and 60?",
+      "options": [
+        "16",
+        "8",
+        "20",
+        "12"
+      ],
+      "answer": 3,
+      "explanation": "Greatest common factor is 12.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-91",
+      "topic": "Mathematics",
+      "skill": "HCF",
+      "question": "HCF of 32 and 48?",
+      "options": [
+        "12",
+        "24",
+        "16",
+        "20"
+      ],
+      "answer": 2,
+      "explanation": "Greatest common factor is 16.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-92",
+      "topic": "Mathematics",
+      "skill": "HCF",
+      "question": "HCF of 27 and 81?",
+      "options": [
+        "35",
+        "27",
+        "31",
+        "23"
+      ],
+      "answer": 1,
+      "explanation": "Greatest common factor is 27.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-93",
+      "topic": "Mathematics",
+      "skill": "HCF",
+      "question": "HCF of 28 and 70?",
+      "options": [
+        "14",
+        "18",
+        "10",
+        "22"
+      ],
+      "answer": 0,
+      "explanation": "Greatest common factor is 14.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-94",
+      "topic": "Mathematics",
+      "skill": "HCF",
+      "question": "HCF of 64 and 96?",
+      "options": [
+        "36",
+        "28",
+        "40",
+        "32"
+      ],
+      "answer": 3,
+      "explanation": "Greatest common factor is 32.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-95",
+      "topic": "Mathematics",
+      "skill": "LCM",
+      "question": "LCM of 6 and 8?",
+      "options": [
+        "20",
+        "32",
+        "24",
+        "28"
+      ],
+      "answer": 2,
+      "explanation": "LCM = 6×8/HCF.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-96",
+      "topic": "Mathematics",
+      "skill": "LCM",
+      "question": "LCM of 9 and 12?",
+      "options": [
+        "44",
+        "36",
+        "40",
+        "32"
+      ],
+      "answer": 1,
+      "explanation": "LCM = 9×12/HCF.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-97",
+      "topic": "Mathematics",
+      "skill": "LCM",
+      "question": "LCM of 10 and 15?",
+      "options": [
+        "30",
+        "34",
+        "26",
+        "38"
+      ],
+      "answer": 0,
+      "explanation": "LCM = 10×15/HCF.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-98",
+      "topic": "Mathematics",
+      "skill": "LCM",
+      "question": "LCM of 8 and 14?",
+      "options": [
+        "66",
+        "46",
+        "76",
+        "56"
+      ],
+      "answer": 3,
+      "explanation": "LCM = 8×14/HCF.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-99",
+      "topic": "Mathematics",
+      "skill": "LCM",
+      "question": "LCM of 12 and 18?",
+      "options": [
+        "32",
+        "44",
+        "36",
+        "40"
+      ],
+      "answer": 2,
+      "explanation": "LCM = 12×18/HCF.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-100",
+      "topic": "Mathematics",
+      "skill": "LCM",
+      "question": "LCM of 15 and 20?",
+      "options": [
+        "80",
+        "60",
+        "70",
+        "50"
+      ],
+      "answer": 1,
+      "explanation": "LCM = 15×20/HCF.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-101",
+      "topic": "Mathematics",
+      "skill": "LCM",
+      "question": "LCM of 7 and 9?",
+      "options": [
+        "63",
+        "73",
+        "53",
+        "83"
+      ],
+      "answer": 0,
+      "explanation": "LCM = 7×9/HCF.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-102",
+      "topic": "Mathematics",
+      "skill": "LCM",
+      "question": "LCM of 14 and 21?",
+      "options": [
+        "52",
+        "32",
+        "62",
+        "42"
+      ],
+      "answer": 3,
+      "explanation": "LCM = 14×21/HCF.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-103",
+      "topic": "Mathematics",
+      "skill": "LCM",
+      "question": "LCM of 16 and 24?",
+      "options": [
+        "38",
+        "68",
+        "48",
+        "58"
+      ],
+      "answer": 2,
+      "explanation": "LCM = 16×24/HCF.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-104",
+      "topic": "Mathematics",
+      "skill": "LCM",
+      "question": "LCM of 18 and 30?",
+      "options": [
+        "110",
+        "90",
+        "100",
+        "80"
+      ],
+      "answer": 1,
+      "explanation": "LCM = 18×30/HCF.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-105",
+      "topic": "Mathematics",
+      "skill": "Mensuration",
+      "question": "Area of rectangle 12 cm by 8 cm?",
+      "options": [
+        "96 cm²",
+        "106 cm²",
+        "86 cm²",
+        "116 cm²"
+      ],
+      "answer": 0,
+      "explanation": "Length × breadth = 96 square centimetres.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-106",
+      "topic": "Mathematics",
+      "skill": "Mensuration",
+      "question": "Area of rectangle 20 cm by 7 cm?",
+      "options": [
+        "150 cm²",
+        "130 cm²",
+        "160 cm²",
+        "140 cm²"
+      ],
+      "answer": 3,
+      "explanation": "Length × breadth = 140 square centimetres.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-107",
+      "topic": "Mathematics",
+      "skill": "Mensuration",
+      "question": "Area of rectangle 15 cm by 9 cm?",
+      "options": [
+        "125 cm²",
+        "155 cm²",
+        "135 cm²",
+        "145 cm²"
+      ],
+      "answer": 2,
+      "explanation": "Length × breadth = 135 square centimetres.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-108",
+      "topic": "Mathematics",
+      "skill": "Mensuration",
+      "question": "Area of rectangle 16 cm by 6 cm?",
+      "options": [
+        "116 cm²",
+        "96 cm²",
+        "106 cm²",
+        "86 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Length × breadth = 96 square centimetres.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-109",
+      "topic": "Mathematics",
+      "skill": "Mensuration",
+      "question": "Area of rectangle 25 cm by 12 cm?",
+      "options": [
+        "300 cm²",
+        "340 cm²",
+        "260 cm²",
+        "380 cm²"
+      ],
+      "answer": 0,
+      "explanation": "Length × breadth = 300 square centimetres.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-110",
+      "topic": "Mathematics",
+      "skill": "Mensuration",
+      "question": "Area of rectangle 18 cm by 11 cm?",
+      "options": [
+        "238 cm²",
+        "158 cm²",
+        "278 cm²",
+        "198 cm²"
+      ],
+      "answer": 3,
+      "explanation": "Length × breadth = 198 square centimetres.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-111",
+      "topic": "Mathematics",
+      "skill": "Mensuration",
+      "question": "Area of rectangle 14 cm by 13 cm?",
+      "options": [
+        "142 cm²",
+        "262 cm²",
+        "182 cm²",
+        "222 cm²"
+      ],
+      "answer": 2,
+      "explanation": "Length × breadth = 182 square centimetres.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-112",
+      "topic": "Mathematics",
+      "skill": "Mensuration",
+      "question": "Area of rectangle 24 cm by 5 cm?",
+      "options": [
+        "140 cm²",
+        "120 cm²",
+        "130 cm²",
+        "110 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Length × breadth = 120 square centimetres.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-113",
+      "topic": "Mathematics",
+      "skill": "Mensuration",
+      "question": "Area of rectangle 30 cm by 8 cm?",
+      "options": [
+        "240 cm²",
+        "280 cm²",
+        "200 cm²",
+        "320 cm²"
+      ],
+      "answer": 0,
+      "explanation": "Length × breadth = 240 square centimetres.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-114",
+      "topic": "Mathematics",
+      "skill": "Mensuration",
+      "question": "Area of rectangle 22 cm by 9 cm?",
+      "options": [
+        "238 cm²",
+        "158 cm²",
+        "278 cm²",
+        "198 cm²"
+      ],
+      "answer": 3,
+      "explanation": "Length × breadth = 198 square centimetres.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-115",
+      "topic": "Mathematics",
+      "skill": "Algebra",
+      "question": "Solve 3x + 7 = 22.",
+      "options": [
+        "3",
+        "9",
+        "5",
+        "7"
+      ],
+      "answer": 2,
+      "explanation": "Subtract 7 then divide by 3.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-116",
+      "topic": "Mathematics",
+      "skill": "Algebra",
+      "question": "Solve 2x + 5 = 21.",
+      "options": [
+        "12",
+        "8",
+        "10",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "Subtract 5 then divide by 2.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-117",
+      "topic": "Mathematics",
+      "skill": "Algebra",
+      "question": "Solve 4x + 9 = 57.",
+      "options": [
+        "12",
+        "16",
+        "8",
+        "20"
+      ],
+      "answer": 0,
+      "explanation": "Subtract 9 then divide by 4.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-118",
+      "topic": "Mathematics",
+      "skill": "Algebra",
+      "question": "Solve 5x + 6 = 56.",
+      "options": [
+        "14",
+        "6",
+        "18",
+        "10"
+      ],
+      "answer": 3,
+      "explanation": "Subtract 6 then divide by 5.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-119",
+      "topic": "Mathematics",
+      "skill": "Algebra",
+      "question": "Solve 6x + 8 = 50.",
+      "options": [
+        "5",
+        "11",
+        "7",
+        "9"
+      ],
+      "answer": 2,
+      "explanation": "Subtract 8 then divide by 6.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-120",
+      "topic": "Mathematics",
+      "skill": "Algebra",
+      "question": "Solve 2x + 10 = 40.",
+      "options": [
+        "23",
+        "15",
+        "19",
+        "11"
+      ],
+      "answer": 1,
+      "explanation": "Subtract 10 then divide by 2.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-121",
+      "topic": "Mathematics",
+      "skill": "Algebra",
+      "question": "Solve 3x + 11 = 38.",
+      "options": [
+        "9",
+        "11",
+        "7",
+        "13"
+      ],
+      "answer": 0,
+      "explanation": "Subtract 11 then divide by 3.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-122",
+      "topic": "Mathematics",
+      "skill": "Algebra",
+      "question": "Solve 7x + 3 = 45.",
+      "options": [
+        "8",
+        "4",
+        "10",
+        "6"
+      ],
+      "answer": 3,
+      "explanation": "Subtract 3 then divide by 7.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-123",
+      "topic": "Mathematics",
+      "skill": "Time & Work",
+      "question": "A does a job in 6 days and B in 12. Time together?",
+      "options": [
+        "2 days",
+        "8 days",
+        "4 days",
+        "6 days"
+      ],
+      "answer": 2,
+      "explanation": "Combined time = (6×12)/(6+12).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-124",
+      "topic": "Mathematics",
+      "skill": "Time & Work",
+      "question": "A does a job in 8 days and B in 24. Time together?",
+      "options": [
+        "10 days",
+        "6 days",
+        "8 days",
+        "4 days"
+      ],
+      "answer": 1,
+      "explanation": "Combined time = (8×24)/(8+24).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-125",
+      "topic": "Mathematics",
+      "skill": "Time & Work",
+      "question": "A does a job in 12 days and B in 12. Time together?",
+      "options": [
+        "6 days",
+        "8 days",
+        "4 days",
+        "10 days"
+      ],
+      "answer": 0,
+      "explanation": "Combined time = (12×12)/(12+12).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-126",
+      "topic": "Mathematics",
+      "skill": "Time & Work",
+      "question": "A does a job in 10 days and B in 15. Time together?",
+      "options": [
+        "8 days",
+        "4 days",
+        "10 days",
+        "6 days"
+      ],
+      "answer": 3,
+      "explanation": "Combined time = (10×15)/(10+15).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-127",
+      "topic": "Mathematics",
+      "skill": "Time & Work",
+      "question": "A does a job in 15 days and B in 30. Time together?",
+      "options": [
+        "6 days",
+        "18 days",
+        "10 days",
+        "14 days"
+      ],
+      "answer": 2,
+      "explanation": "Combined time = (15×30)/(15+30).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-128",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 4, 7, 10, 13, 16, ?",
+      "options": [
+        "27",
+        "19",
+        "23",
+        "15"
+      ],
+      "answer": 1,
+      "explanation": "Each term increases by 3.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-129",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 10, 15, 20, 25, 30, ?",
+      "options": [
+        "35",
+        "39",
+        "31",
+        "43"
+      ],
+      "answer": 0,
+      "explanation": "Each term increases by 5.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-130",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 7, 11, 15, 19, 23, ?",
+      "options": [
+        "31",
+        "23",
+        "35",
+        "27"
+      ],
+      "answer": 3,
+      "explanation": "Each term increases by 4.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-131",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 20, 26, 32, 38, 44, ?",
+      "options": [
+        "40",
+        "70",
+        "50",
+        "60"
+      ],
+      "answer": 2,
+      "explanation": "Each term increases by 6.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-132",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 3, 10, 17, 24, 31, ?",
+      "options": [
+        "46",
+        "38",
+        "42",
+        "34"
+      ],
+      "answer": 1,
+      "explanation": "Each term increases by 7.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-133",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 11, 19, 27, 35, 43, ?",
+      "options": [
+        "51",
+        "61",
+        "41",
+        "71"
+      ],
+      "answer": 0,
+      "explanation": "Each term increases by 8.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-134",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 15, 24, 33, 42, 51, ?",
+      "options": [
+        "70",
+        "50",
+        "80",
+        "60"
+      ],
+      "answer": 3,
+      "explanation": "Each term increases by 9.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-135",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 6, 12, 18, 24, 30, ?",
+      "options": [
+        "32",
+        "44",
+        "36",
+        "40"
+      ],
+      "answer": 2,
+      "explanation": "Each term increases by 6.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-136",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 2, 13, 24, 35, 46, ?",
+      "options": [
+        "77",
+        "57",
+        "67",
+        "47"
+      ],
+      "answer": 1,
+      "explanation": "Each term increases by 11.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-137",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 25, 29, 33, 37, 41, ?",
+      "options": [
+        "45",
+        "55",
+        "35",
+        "65"
+      ],
+      "answer": 0,
+      "explanation": "Each term increases by 4.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-138",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 19, 29, 39, 49, 59, ?",
+      "options": [
+        "79",
+        "59",
+        "89",
+        "69"
+      ],
+      "answer": 3,
+      "explanation": "Each term increases by 10.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-139",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 1, 13, 25, 37, 49, ?",
+      "options": [
+        "51",
+        "81",
+        "61",
+        "71"
+      ],
+      "answer": 2,
+      "explanation": "Each term increases by 12.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-140",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 1, 4, 9, 16, ?",
+      "options": [
+        "33",
+        "25",
+        "29",
+        "21"
+      ],
+      "answer": 1,
+      "explanation": "Terms are consecutive perfect squares.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-141",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 4, 9, 16, 25, ?",
+      "options": [
+        "36",
+        "40",
+        "32",
+        "44"
+      ],
+      "answer": 0,
+      "explanation": "Terms are consecutive perfect squares.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-142",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 9, 16, 25, 36, ?",
+      "options": [
+        "59",
+        "39",
+        "69",
+        "49"
+      ],
+      "answer": 3,
+      "explanation": "Terms are consecutive perfect squares.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-143",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 16, 25, 36, 49, ?",
+      "options": [
+        "54",
+        "84",
+        "64",
+        "74"
+      ],
+      "answer": 2,
+      "explanation": "Terms are consecutive perfect squares.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-144",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 25, 36, 49, 64, ?",
+      "options": [
+        "101",
+        "81",
+        "91",
+        "71"
+      ],
+      "answer": 1,
+      "explanation": "Terms are consecutive perfect squares.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-145",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 36, 49, 64, 81, ?",
+      "options": [
+        "100",
+        "110",
+        "90",
+        "120"
+      ],
+      "answer": 0,
+      "explanation": "Terms are consecutive perfect squares.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-146",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 49, 64, 81, 100, ?",
+      "options": [
+        "131",
+        "111",
+        "141",
+        "121"
+      ],
+      "answer": 3,
+      "explanation": "Terms are consecutive perfect squares.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-147",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 64, 81, 100, 121, ?",
+      "options": [
+        "134",
+        "164",
+        "144",
+        "154"
+      ],
+      "answer": 2,
+      "explanation": "Terms are consecutive perfect squares.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-148",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 81, 100, 121, 144, ?",
+      "options": [
+        "249",
+        "169",
+        "209",
+        "129"
+      ],
+      "answer": 1,
+      "explanation": "Terms are consecutive perfect squares.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-149",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find next: 100, 121, 144, 169, ?",
+      "options": [
+        "196",
+        "236",
+        "156",
+        "276"
+      ],
+      "answer": 0,
+      "explanation": "Terms are consecutive perfect squares.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-150",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete: 2, 4, 8, 16, ?",
+      "options": [
+        "36",
+        "28",
+        "40",
+        "32"
+      ],
+      "answer": 3,
+      "explanation": "Multiply each term by 2.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-151",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete: 3, 6, 12, 24, ?",
+      "options": [
+        "38",
+        "68",
+        "48",
+        "58"
+      ],
+      "answer": 2,
+      "explanation": "Multiply each term by 2.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-152",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete: 4, 8, 16, 32, ?",
+      "options": [
+        "84",
+        "64",
+        "74",
+        "54"
+      ],
+      "answer": 1,
+      "explanation": "Multiply each term by 2.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-153",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete: 2, 6, 18, 54, ?",
+      "options": [
+        "162",
+        "202",
+        "122",
+        "242"
+      ],
+      "answer": 0,
+      "explanation": "Multiply each term by 3.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-154",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete: 5, 10, 20, 40, ?",
+      "options": [
+        "90",
+        "70",
+        "100",
+        "80"
+      ],
+      "answer": 3,
+      "explanation": "Multiply each term by 2.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-155",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete: 3, 9, 27, 81, ?",
+      "options": [
+        "203",
+        "323",
+        "243",
+        "283"
+      ],
+      "answer": 2,
+      "explanation": "Multiply each term by 3.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-156",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete: 6, 12, 24, 48, ?",
+      "options": [
+        "116",
+        "96",
+        "106",
+        "86"
+      ],
+      "answer": 1,
+      "explanation": "Multiply each term by 2.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-157",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete: 4, 12, 36, 108, ?",
+      "options": [
+        "324",
+        "364",
+        "284",
+        "404"
+      ],
+      "answer": 0,
+      "explanation": "Multiply each term by 3.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-158",
+      "topic": "Reasoning",
+      "skill": "Analogy",
+      "question": "If 4 : 16, then 7 : ?",
+      "options": [
+        "59",
+        "39",
+        "69",
+        "49"
+      ],
+      "answer": 3,
+      "explanation": "The relationship is squaring.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-159",
+      "topic": "Reasoning",
+      "skill": "Analogy",
+      "question": "If 5 : 25, then 8 : ?",
+      "options": [
+        "54",
+        "84",
+        "64",
+        "74"
+      ],
+      "answer": 2,
+      "explanation": "The relationship is squaring.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-160",
+      "topic": "Reasoning",
+      "skill": "Analogy",
+      "question": "If 6 : 36, then 9 : ?",
+      "options": [
+        "101",
+        "81",
+        "91",
+        "71"
+      ],
+      "answer": 1,
+      "explanation": "The relationship is squaring.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-161",
+      "topic": "Reasoning",
+      "skill": "Analogy",
+      "question": "If 7 : 49, then 10 : ?",
+      "options": [
+        "100",
+        "110",
+        "90",
+        "120"
+      ],
+      "answer": 0,
+      "explanation": "The relationship is squaring.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-162",
+      "topic": "Reasoning",
+      "skill": "Analogy",
+      "question": "If 8 : 64, then 12 : ?",
+      "options": [
+        "154",
+        "134",
+        "164",
+        "144"
+      ],
+      "answer": 3,
+      "explanation": "The relationship is squaring.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-163",
+      "topic": "Reasoning",
+      "skill": "Analogy",
+      "question": "If 9 : 81, then 11 : ?",
+      "options": [
+        "111",
+        "141",
+        "121",
+        "131"
+      ],
+      "answer": 2,
+      "explanation": "The relationship is squaring.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-164",
+      "topic": "Reasoning",
+      "skill": "Analogy",
+      "question": "If 3 : 9, then 15 : ?",
+      "options": [
+        "305",
+        "225",
+        "265",
+        "185"
+      ],
+      "answer": 1,
+      "explanation": "The relationship is squaring.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-165",
+      "topic": "Reasoning",
+      "skill": "Analogy",
+      "question": "If 12 : 144, then 13 : ?",
+      "options": [
+        "169",
+        "209",
+        "129",
+        "249"
+      ],
+      "answer": 0,
+      "explanation": "The relationship is squaring.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-166",
+      "topic": "Reasoning",
+      "skill": "Ranking",
+      "question": "A candidate is 11th from the left and 16th from right. Total?",
+      "options": [
+        "30",
+        "22",
+        "34",
+        "26"
+      ],
+      "answer": 3,
+      "explanation": "Total = 11 + 16 − 1.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-167",
+      "topic": "Reasoning",
+      "skill": "Ranking",
+      "question": "A candidate is 7th from the left and 14th from right. Total?",
+      "options": [
+        "16",
+        "28",
+        "20",
+        "24"
+      ],
+      "answer": 2,
+      "explanation": "Total = 7 + 14 − 1.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-168",
+      "topic": "Reasoning",
+      "skill": "Ranking",
+      "question": "A candidate is 15th from the left and 12th from right. Total?",
+      "options": [
+        "34",
+        "26",
+        "30",
+        "22"
+      ],
+      "answer": 1,
+      "explanation": "Total = 15 + 12 − 1.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-169",
+      "topic": "Reasoning",
+      "skill": "Ranking",
+      "question": "A candidate is 20th from the left and 8th from right. Total?",
+      "options": [
+        "27",
+        "31",
+        "23",
+        "35"
+      ],
+      "answer": 0,
+      "explanation": "Total = 20 + 8 − 1.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-170",
+      "topic": "Reasoning",
+      "skill": "Ranking",
+      "question": "A candidate is 9th from the left and 24th from right. Total?",
+      "options": [
+        "36",
+        "28",
+        "40",
+        "32"
+      ],
+      "answer": 3,
+      "explanation": "Total = 9 + 24 − 1.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-171",
+      "topic": "Reasoning",
+      "skill": "Ranking",
+      "question": "A candidate is 5th from the left and 17th from right. Total?",
+      "options": [
+        "17",
+        "29",
+        "21",
+        "25"
+      ],
+      "answer": 2,
+      "explanation": "Total = 5 + 17 − 1.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-172",
+      "topic": "Reasoning",
+      "skill": "Ranking",
+      "question": "A candidate is 18th from the left and 11th from right. Total?",
+      "options": [
+        "36",
+        "28",
+        "32",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "Total = 18 + 11 − 1.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-173",
+      "topic": "Reasoning",
+      "skill": "Ranking",
+      "question": "A candidate is 13th from the left and 9th from right. Total?",
+      "options": [
+        "21",
+        "25",
+        "17",
+        "29"
+      ],
+      "answer": 0,
+      "explanation": "Total = 13 + 9 − 1.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-174",
+      "topic": "Reasoning",
+      "skill": "Ranking",
+      "question": "A candidate is 6th from the left and 16th from right. Total?",
+      "options": [
+        "25",
+        "17",
+        "29",
+        "21"
+      ],
+      "answer": 3,
+      "explanation": "Total = 6 + 16 − 1.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-175",
+      "topic": "Reasoning",
+      "skill": "Ranking",
+      "question": "A candidate is 8th from the left and 25th from right. Total?",
+      "options": [
+        "28",
+        "40",
+        "32",
+        "36"
+      ],
+      "answer": 2,
+      "explanation": "Total = 8 + 25 − 1.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-176",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Next letter: A, C, E, G, ?",
+      "options": [
+        "K",
+        "I",
+        "H",
+        "J"
+      ],
+      "answer": 1,
+      "explanation": "Move forward 2 alphabet positions per step.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-177",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Next letter: B, E, H, K, ?",
+      "options": [
+        "N",
+        "M",
+        "O",
+        "P"
+      ],
+      "answer": 0,
+      "explanation": "Move forward 3 alphabet positions per step.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-178",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Next letter: C, G, K, O, ?",
+      "options": [
+        "R",
+        "T",
+        "U",
+        "S"
+      ],
+      "answer": 3,
+      "explanation": "Move forward 4 alphabet positions per step.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-179",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Next letter: D, F, H, J, ?",
+      "options": [
+        "M",
+        "N",
+        "L",
+        "K"
+      ],
+      "answer": 2,
+      "explanation": "Move forward 2 alphabet positions per step.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-180",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Next letter: E, H, K, N, ?",
+      "options": [
+        "S",
+        "Q",
+        "P",
+        "R"
+      ],
+      "answer": 1,
+      "explanation": "Move forward 3 alphabet positions per step.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-181",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Next letter: F, H, J, L, ?",
+      "options": [
+        "N",
+        "M",
+        "O",
+        "P"
+      ],
+      "answer": 0,
+      "explanation": "Move forward 2 alphabet positions per step.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-182",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Next letter: G, I, K, M, ?",
+      "options": [
+        "N",
+        "P",
+        "Q",
+        "O"
+      ],
+      "answer": 3,
+      "explanation": "Move forward 2 alphabet positions per step.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-183",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Next letter: B, F, J, N, ?",
+      "options": [
+        "S",
+        "T",
+        "R",
+        "Q"
+      ],
+      "answer": 2,
+      "explanation": "Move forward 4 alphabet positions per step.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-184",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Next letter: A, F, K, P, ?",
+      "options": [
+        "W",
+        "U",
+        "T",
+        "V"
+      ],
+      "answer": 1,
+      "explanation": "Move forward 5 alphabet positions per step.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-185",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Next letter: C, F, I, L, ?",
+      "options": [
+        "O",
+        "N",
+        "P",
+        "Q"
+      ],
+      "answer": 0,
+      "explanation": "Move forward 3 alphabet positions per step.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-186",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "Shift every letter one position forward. Code CAT.",
+      "options": [
+        "CAT",
+        "TAC",
+        "UBD",
+        "DBU"
+      ],
+      "answer": 3,
+      "explanation": "Shift letters: CAT becomes DBU.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-187",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "Shift every letter one position forward. Code DOG.",
+      "options": [
+        "GOD",
+        "HPE",
+        "EPH",
+        "DOG"
+      ],
+      "answer": 2,
+      "explanation": "Shift letters: DOG becomes EPH.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-188",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "Shift every letter one position forward. Code BIRD.",
+      "options": [
+        "ESJC",
+        "CJSE",
+        "BIRD",
+        "DRIB"
+      ],
+      "answer": 1,
+      "explanation": "Shift letters: BIRD becomes CJSE.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-189",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "Shift every letter one position forward. Code FISH.",
+      "options": [
+        "GJTI",
+        "FISH",
+        "HSIF",
+        "ITJG"
+      ],
+      "answer": 0,
+      "explanation": "Shift letters: FISH becomes GJTI.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-190",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "Shift every letter one position forward. Code BOOK.",
+      "options": [
+        "BOOK",
+        "KOOB",
+        "LPPC",
+        "CPPL"
+      ],
+      "answer": 3,
+      "explanation": "Shift letters: BOOK becomes CPPL.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-191",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "Shift every letter one position forward. Code HOME.",
+      "options": [
+        "EMOH",
+        "FNPI",
+        "IPNF",
+        "HOME"
+      ],
+      "answer": 2,
+      "explanation": "Shift letters: HOME becomes IPNF.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-192",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "Shift every letter one position forward. Code TRAIN.",
+      "options": [
+        "OJBSU",
+        "USBJO",
+        "TRAIN",
+        "NIART"
+      ],
+      "answer": 1,
+      "explanation": "Shift letters: TRAIN becomes USBJO.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-193",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "Shift every letter one position forward. Code PLANE.",
+      "options": [
+        "QMBOF",
+        "PLANE",
+        "ENALP",
+        "FOBMQ"
+      ],
+      "answer": 0,
+      "explanation": "Shift letters: PLANE becomes QMBOF.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-194",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "Shift every letter one position forward. Code RIVER.",
+      "options": [
+        "RIVER",
+        "REVIR",
+        "SFWJS",
+        "SJWFS"
+      ],
+      "answer": 3,
+      "explanation": "Shift letters: RIVER becomes SJWFS.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-195",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "Shift every letter one position forward. Code MANGO.",
+      "options": [
+        "OGNAM",
+        "PHOBN",
+        "NBOHP",
+        "MANGO"
+      ],
+      "answer": 2,
+      "explanation": "Shift letters: MANGO becomes NBOHP.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-196",
+      "topic": "Reasoning",
+      "skill": "Direction Sense",
+      "question": "Walk 3 km east then 4 km north. Shortest displacement?",
+      "options": [
+        "9 km",
+        "5 km",
+        "7 km",
+        "3 km"
+      ],
+      "answer": 1,
+      "explanation": "Pythagorean theorem: √(3²+4²).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-197",
+      "topic": "Reasoning",
+      "skill": "Direction Sense",
+      "question": "Walk 5 km east then 12 km north. Shortest displacement?",
+      "options": [
+        "13 km",
+        "17 km",
+        "9 km",
+        "21 km"
+      ],
+      "answer": 0,
+      "explanation": "Pythagorean theorem: √(5²+12²).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-198",
+      "topic": "Reasoning",
+      "skill": "Direction Sense",
+      "question": "Walk 8 km east then 6 km north. Shortest displacement?",
+      "options": [
+        "14 km",
+        "6 km",
+        "18 km",
+        "10 km"
+      ],
+      "answer": 3,
+      "explanation": "Pythagorean theorem: √(8²+6²).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-199",
+      "topic": "Reasoning",
+      "skill": "Direction Sense",
+      "question": "Walk 12 km east then 5 km north. Shortest displacement?",
+      "options": [
+        "9 km",
+        "21 km",
+        "13 km",
+        "17 km"
+      ],
+      "answer": 2,
+      "explanation": "Pythagorean theorem: √(12²+5²).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-200",
+      "topic": "Reasoning",
+      "skill": "Direction Sense",
+      "question": "Walk 9 km east then 12 km north. Shortest displacement?",
+      "options": [
+        "23 km",
+        "15 km",
+        "19 km",
+        "11 km"
+      ],
+      "answer": 1,
+      "explanation": "Pythagorean theorem: √(9²+12²).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-201",
+      "topic": "Reasoning",
+      "skill": "Direction Sense",
+      "question": "Walk 15 km east then 8 km north. Shortest displacement?",
+      "options": [
+        "17 km",
+        "21 km",
+        "13 km",
+        "25 km"
+      ],
+      "answer": 0,
+      "explanation": "Pythagorean theorem: √(15²+8²).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-202",
+      "topic": "Reasoning",
+      "skill": "Direction Sense",
+      "question": "Walk 6 km east then 8 km north. Shortest displacement?",
+      "options": [
+        "14 km",
+        "6 km",
+        "18 km",
+        "10 km"
+      ],
+      "answer": 3,
+      "explanation": "Pythagorean theorem: √(6²+8²).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-203",
+      "topic": "Reasoning",
+      "skill": "Direction Sense",
+      "question": "Walk 20 km east then 21 km north. Shortest displacement?",
+      "options": [
+        "25 km",
+        "37 km",
+        "29 km",
+        "33 km"
+      ],
+      "answer": 2,
+      "explanation": "Pythagorean theorem: √(20²+21²).",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-204",
+      "topic": "Reasoning",
+      "skill": "Calendar",
+      "question": "2 days after Monday is which day?",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Sunday",
+        "Monday"
+      ],
+      "answer": 1,
+      "explanation": "Advance 2 days from Monday.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-205",
+      "topic": "Reasoning",
+      "skill": "Calendar",
+      "question": "3 days after Tuesday is which day?",
+      "options": [
+        "Friday",
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "answer": 0,
+      "explanation": "Advance 3 days from Tuesday.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-206",
+      "topic": "Reasoning",
+      "skill": "Calendar",
+      "question": "5 days after Wednesday is which day?",
+      "options": [
+        "Sunday",
+        "Tuesday",
+        "Wednesday",
+        "Monday"
+      ],
+      "answer": 3,
+      "explanation": "Advance 5 days from Wednesday.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-207",
+      "topic": "Reasoning",
+      "skill": "Calendar",
+      "question": "4 days after Thursday is which day?",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Monday",
+        "Sunday"
+      ],
+      "answer": 2,
+      "explanation": "Advance 4 days from Thursday.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-208",
+      "topic": "Reasoning",
+      "skill": "Calendar",
+      "question": "3 days after Friday is which day?",
+      "options": [
+        "Wednesday",
+        "Monday",
+        "Sunday",
+        "Tuesday"
+      ],
+      "answer": 1,
+      "explanation": "Advance 3 days from Friday.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-209",
+      "topic": "Reasoning",
+      "skill": "Calendar",
+      "question": "2 days after Saturday is which day?",
+      "options": [
+        "Monday",
+        "Sunday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "answer": 0,
+      "explanation": "Advance 2 days from Saturday.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-210",
+      "topic": "Reasoning",
+      "skill": "Calendar",
+      "question": "6 days after Sunday is which day?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Saturday"
+      ],
+      "answer": 3,
+      "explanation": "Advance 6 days from Sunday.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-211",
+      "topic": "Reasoning",
+      "skill": "Syllogism",
+      "question": "All roses are flowers; all flowers are plants. What necessarily follows?",
+      "options": [
+        "No rose is a plant.",
+        "All plants are flowers.",
+        "All roses are plants.",
+        "All plants are roses."
+      ],
+      "answer": 2,
+      "explanation": "By transitivity, rose is contained in plant.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-212",
+      "topic": "Reasoning",
+      "skill": "Syllogism",
+      "question": "All sparrows are birds; all birds are animals. What necessarily follows?",
+      "options": [
+        "All animals are birds.",
+        "All sparrows are animals.",
+        "All animals are sparrows.",
+        "No sparrow is a animal."
+      ],
+      "answer": 1,
+      "explanation": "By transitivity, sparrow is contained in animal.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-213",
+      "topic": "Reasoning",
+      "skill": "Syllogism",
+      "question": "All mangos are fruits; all fruits are foods. What necessarily follows?",
+      "options": [
+        "All mangos are foods.",
+        "All foods are mangos.",
+        "No mango is a food.",
+        "All foods are fruits."
+      ],
+      "answer": 0,
+      "explanation": "By transitivity, mango is contained in food.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-214",
+      "topic": "Reasoning",
+      "skill": "Syllogism",
+      "question": "All buss are vehicles; all vehicles are transports. What necessarily follows?",
+      "options": [
+        "All transports are buss.",
+        "No bus is a transport.",
+        "All transports are vehicles.",
+        "All buss are transports."
+      ],
+      "answer": 3,
+      "explanation": "By transitivity, bus is contained in transport.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-215",
+      "topic": "Reasoning",
+      "skill": "Syllogism",
+      "question": "All triangles are polygons; all polygons are shapes. What necessarily follows?",
+      "options": [
+        "No triangle is a shape.",
+        "All shapes are polygons.",
+        "All triangles are shapes.",
+        "All shapes are triangles."
+      ],
+      "answer": 2,
+      "explanation": "By transitivity, triangle is contained in shape.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-216",
+      "topic": "Reasoning",
+      "skill": "Syllogism",
+      "question": "All oaks are trees; all trees are plants. What necessarily follows?",
+      "options": [
+        "All plants are trees.",
+        "All oaks are plants.",
+        "All plants are oaks.",
+        "No oak is a plant."
+      ],
+      "answer": 1,
+      "explanation": "By transitivity, oak is contained in plant.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-217",
+      "topic": "Reasoning",
+      "skill": "Syllogism",
+      "question": "All tulips are flowers; all flowers are plants. What necessarily follows?",
+      "options": [
+        "All tulips are plants.",
+        "All plants are tulips.",
+        "No tulip is a plant.",
+        "All plants are flowers."
+      ],
+      "answer": 0,
+      "explanation": "By transitivity, tulip is contained in plant.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-218",
+      "topic": "Reasoning",
+      "skill": "Syllogism",
+      "question": "All eagles are birds; all birds are animals. What necessarily follows?",
+      "options": [
+        "All animals are eagles.",
+        "No eagle is a animal.",
+        "All animals are birds.",
+        "All eagles are animals."
+      ],
+      "answer": 3,
+      "explanation": "By transitivity, eagle is contained in animal.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-219",
+      "topic": "Reasoning",
+      "skill": "Odd One Out",
+      "question": "Which is not a perfect square?",
+      "options": [
+        "25",
+        "36",
+        "52",
+        "16"
+      ],
+      "answer": 2,
+      "explanation": "52 is not a perfect square, while the others are.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-220",
+      "topic": "Reasoning",
+      "skill": "Odd One Out",
+      "question": "Which is not a perfect square?",
+      "options": [
+        "49",
+        "69",
+        "25",
+        "36"
+      ],
+      "answer": 1,
+      "explanation": "69 is not a perfect square, while the others are.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-221",
+      "topic": "Reasoning",
+      "skill": "Odd One Out",
+      "question": "Which is not a perfect square?",
+      "options": [
+        "83",
+        "36",
+        "49",
+        "64"
+      ],
+      "answer": 0,
+      "explanation": "83 is not a perfect square, while the others are.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-222",
+      "topic": "Reasoning",
+      "skill": "Odd One Out",
+      "question": "Which is not a perfect square?",
+      "options": [
+        "49",
+        "64",
+        "81",
+        "107"
+      ],
+      "answer": 3,
+      "explanation": "107 is not a perfect square, while the others are.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-223",
+      "topic": "Reasoning",
+      "skill": "Odd One Out",
+      "question": "Which is not a perfect square?",
+      "options": [
+        "81",
+        "100",
+        "124",
+        "64"
+      ],
+      "answer": 2,
+      "explanation": "124 is not a perfect square, while the others are.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-224",
+      "topic": "Reasoning",
+      "skill": "Odd One Out",
+      "question": "Which is not a perfect square?",
+      "options": [
+        "121",
+        "148",
+        "81",
+        "100"
+      ],
+      "answer": 1,
+      "explanation": "148 is not a perfect square, while the others are.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-225",
+      "topic": "Reasoning",
+      "skill": "Odd One Out",
+      "question": "Which is not a perfect square?",
+      "options": [
+        "178",
+        "100",
+        "121",
+        "144"
+      ],
+      "answer": 0,
+      "explanation": "178 is not a perfect square, while the others are.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-226",
+      "topic": "Reasoning",
+      "skill": "Odd One Out",
+      "question": "Which is not a perfect square?",
+      "options": [
+        "144",
+        "169",
+        "196",
+        "231"
+      ],
+      "answer": 3,
+      "explanation": "231 is not a perfect square, while the others are.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-227",
+      "topic": "Reasoning",
+      "skill": "Blood Relations",
+      "question": "Arun is the father of Meena; Meena is Tara's mother. Relation of Arun to Tara?",
+      "options": [
+        "Maternal uncle",
+        "Maternal grandmother",
+        "Maternal grandfather",
+        "Paternal grandfather"
+      ],
+      "answer": 2,
+      "explanation": "Parent of Tara's mother = maternal grandparent.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-228",
+      "topic": "Reasoning",
+      "skill": "Blood Relations",
+      "question": "Ravi is the father of Meena; Meena is Tara's mother. Relation of Ravi to Tara?",
+      "options": [
+        "Maternal grandmother",
+        "Maternal grandfather",
+        "Paternal grandfather",
+        "Maternal uncle"
+      ],
+      "answer": 1,
+      "explanation": "Parent of Tara's mother = maternal grandparent.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-229",
+      "topic": "Reasoning",
+      "skill": "Blood Relations",
+      "question": "Kiran is the mother of Meena; Meena is Tara's mother. Relation of Kiran to Tara?",
+      "options": [
+        "Maternal grandmother",
+        "Paternal grandfather",
+        "Maternal uncle",
+        "Maternal grandfather"
+      ],
+      "answer": 0,
+      "explanation": "Parent of Tara's mother = maternal grandparent.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-230",
+      "topic": "Reasoning",
+      "skill": "Blood Relations",
+      "question": "Sita is the mother of Meena; Meena is Tara's mother. Relation of Sita to Tara?",
+      "options": [
+        "Paternal grandfather",
+        "Maternal uncle",
+        "Maternal grandfather",
+        "Maternal grandmother"
+      ],
+      "answer": 3,
+      "explanation": "Parent of Tara's mother = maternal grandparent.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-231",
+      "topic": "Reasoning",
+      "skill": "Logical Operations",
+      "question": "Define a ★ b = (a+b)×2. Find 3 ★ 7.",
+      "options": [
+        "16",
+        "28",
+        "20",
+        "24"
+      ],
+      "answer": 2,
+      "explanation": "(3+7)×2 = 20.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-232",
+      "topic": "Reasoning",
+      "skill": "Logical Operations",
+      "question": "Define a ★ b = (a+b)×3. Find 5 ★ 11.",
+      "options": [
+        "68",
+        "48",
+        "58",
+        "38"
+      ],
+      "answer": 1,
+      "explanation": "(5+11)×3 = 48.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-233",
+      "topic": "Reasoning",
+      "skill": "Logical Operations",
+      "question": "Define a ★ b = (a+b)×4. Find 8 ★ 12.",
+      "options": [
+        "80",
+        "90",
+        "70",
+        "100"
+      ],
+      "answer": 0,
+      "explanation": "(8+12)×4 = 80.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-234",
+      "topic": "Reasoning",
+      "skill": "Logical Operations",
+      "question": "Define a ★ b = (a+b)×3. Find 6 ★ 15.",
+      "options": [
+        "73",
+        "53",
+        "83",
+        "63"
+      ],
+      "answer": 3,
+      "explanation": "(6+15)×3 = 63.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-235",
+      "topic": "Reasoning",
+      "skill": "Logical Operations",
+      "question": "Define a ★ b = (a+b)×2. Find 10 ★ 18.",
+      "options": [
+        "46",
+        "76",
+        "56",
+        "66"
+      ],
+      "answer": 2,
+      "explanation": "(10+18)×2 = 56.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-236",
+      "topic": "Reasoning",
+      "skill": "Logical Operations",
+      "question": "Define a ★ b = (a+b)×5. Find 12 ★ 22.",
+      "options": [
+        "250",
+        "170",
+        "210",
+        "130"
+      ],
+      "answer": 1,
+      "explanation": "(12+22)×5 = 170.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-237",
+      "topic": "Reasoning",
+      "skill": "Logical Operations",
+      "question": "Define a ★ b = (a+b)×7. Find 7 ★ 14.",
+      "options": [
+        "147",
+        "157",
+        "137",
+        "167"
+      ],
+      "answer": 0,
+      "explanation": "(7+14)×7 = 147.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-238",
+      "topic": "Reasoning",
+      "skill": "Logical Operations",
+      "question": "Define a ★ b = (a+b)×4. Find 9 ★ 16.",
+      "options": [
+        "110",
+        "90",
+        "120",
+        "100"
+      ],
+      "answer": 3,
+      "explanation": "(9+16)×4 = 100.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-239",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "If TRAIN is written NIART, how is STAR written?",
+      "options": [
+        "TARS",
+        "ARST",
+        "RATS",
+        "STAR"
+      ],
+      "answer": 2,
+      "explanation": "Reverse the letters to get RATS.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-240",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "If TRAIN is written NIART, how is RAIL written?",
+      "options": [
+        "None of these",
+        "LIAR",
+        "RAIL",
+        "AILR"
+      ],
+      "answer": 1,
+      "explanation": "Reverse the letters to get LIAR.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-241",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "If TRAIN is written NIART, how is CAT written?",
+      "options": [
+        "TAC",
+        "CAT",
+        "ATC",
+        "ACT"
+      ],
+      "answer": 0,
+      "explanation": "Reverse the letters to get TAC.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-242",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "If TRAIN is written NIART, how is MOON written?",
+      "options": [
+        "MOON",
+        "OONM",
+        "MNOO",
+        "NOOM"
+      ],
+      "answer": 3,
+      "explanation": "Reverse the letters to get NOOM.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-243",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "If TRAIN is written NIART, how is READ written?",
+      "options": [
+        "EADR",
+        "ADER",
+        "DAER",
+        "READ"
+      ],
+      "answer": 2,
+      "explanation": "Reverse the letters to get DAER.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-244",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "If TRAIN is written NIART, how is MATH written?",
+      "options": [
+        "AHMT",
+        "HTAM",
+        "MATH",
+        "ATHM"
+      ],
+      "answer": 1,
+      "explanation": "Reverse the letters to get HTAM.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-245",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "If TRAIN is written NIART, how is CODE written?",
+      "options": [
+        "EDOC",
+        "CODE",
+        "ODEC",
+        "CDEO"
+      ],
+      "answer": 0,
+      "explanation": "Reverse the letters to get EDOC.",
+      "kind": "Original practice"
+    },
+    {
+      "id": "ntpc-246",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "If TRAIN is written NIART, how is GAME written?",
+      "options": [
+        "GAME",
+        "AMEG",
+        "AEGM",
+        "EMAG"
+      ],
+      "answer": 3,
+      "explanation": "Reverse the letters to get EMAG.",
+      "kind": "Original practice"
+    }
+  ]
+}
