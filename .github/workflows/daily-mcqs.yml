@@ -8,6 +8,7 @@ on:
     paths:
       - 'scripts/generate_daily_mcqs.py'
       - 'scripts/validate_daily_mcqs.py'
+      - 'scripts/verify_daily_answers.py'
       - '.github/workflows/daily-mcqs.yml'
 permissions:
   contents: write
@@ -30,7 +31,9 @@ jobs:
       - name: Create 60 original new question variations for today (IST)
         run: python scripts/generate_daily_mcqs.py
       - name: Validate the new questions and answer options
-        run: python scripts/validate_daily_mcqs.py
+        run: |
+          python scripts/validate_daily_mcqs.py
+          python scripts/verify_daily_answers.py
       - name: Publish today’s questions to GitHub Pages content
         shell: bash
         run: |
@@ -71,6 +74,7 @@ jobs:
       - name: Validate today's bank and generate app icons
         run: |
           python scripts/validate_daily_mcqs.py
+          python scripts/verify_daily_answers.py
           python scripts/generate_icons.py
           node --check app.js
           node --check daily.js
