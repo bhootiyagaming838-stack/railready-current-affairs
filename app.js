@@ -110,7 +110,8 @@ function practice(){
 }
 function mockHome(){
  var ready=state.ga.length>=40&&state.math.length>=30&&state.reason.length>=30;
- return '<div class="eyebrow">COMPUTER-BASED EXAM SIMULATOR</div><h1>Test under<br><em>exam conditions.</em></h1><p class="intro">A full-length practice set following the published RRB NTPC Graduate CBT-1 pattern. Original practice questions; not an official RRB test.</p>'+
+ var resume=(state.quiz&&state.quiz.type==="mock"&&!state.quiz.finished)?'<div class="notice">You have an active timed mock. Its clock continues while you navigate.</div>'+button("Resume active mock","resume-mock","btnOutline btnFull"): "";
+ return resume+'<div class="eyebrow">COMPUTER-BASED EXAM SIMULATOR</div><h1>Test under<br><em>exam conditions.</em></h1><p class="intro">A full-length practice set following the published RRB NTPC Graduate CBT-1 pattern. Original practice questions; not an official RRB test.</p>'+
  '<div class="hero"><div><span class="caps">FULL CBT-1</span><h2>100 questions.<br>90 minutes.</h2><p>40 GA · 30 Maths · 30 Reasoning<br>+1 correct · −⅓ incorrect · 0 skipped</p>'+button(ready?'Start full mock →':'Question banks incomplete','start-mock','btnGold',ready?'':'disabled')+'</div><div class="heroOrb">90</div></div>'+
  '<div class="stats">'+numberCard('40','General Awareness','◎')+numberCard('30','Mathematics','∑')+numberCard('30','Reasoning','◇')+'</div>'+
  '<section class="card"><div class="caps">QUICKER PRACTICE</div><h2 class="cardTitle">30-question mini mock</h2><p>All three subjects, 27-minute countdown, the same marking pattern.</p>'+button('Start mini mock','start-mini','btnOutline')+'</section>'+
@@ -184,7 +185,7 @@ function finish(){
  var s=state.quiz;if(!s||s.finished)return;
  s.finished=true;var correct=0,wrong=0,skipped=0,tracked=[],sections={};
  s.questions.forEach(function(q,i){
-  var picked=s.answers[i],section=q.topic;
+  var picked=(s.type==="mock"||s.checked[i])?s.answers[i]:undefined,section=q.topic;
   var p=sections[section]||(sections[section]={correct:0,wrong:0,skipped:0});
   if(picked===undefined){skipped++;p.skipped++}
   else if(picked===q.answer){correct++;p.correct++;tracked.push({q:q,correct:true})}
@@ -194,7 +195,7 @@ function finish(){
  s.result={correct,wrong,skipped,score,sections};
  profile.history.unshift({date:today(),label:s.mode,type:s.type,total:s.questions.length,attempted:correct+wrong,correct,wrong,skipped,score,finishedAt:new Date().toISOString()});
  profile.history=profile.history.slice(0,100);
- trackResults(tracked);saveQuiz();state.viewAnswers=false;paint(true);
+ if(s.type==="mock")trackResults(tracked);else save();saveQuiz();state.viewAnswers=false;paint(true);
 }
 function results(){
  var s=state.quiz,r=s.result;if(!r)return '<div class="error">Results are unavailable.</div>';
@@ -270,8 +271,9 @@ document.addEventListener("click",function(event){
   var pool=allQuestions().filter(function(q){return (section==="All"||q.topic===section)&&(skill==="All"||(q.skill||"General")===skill)});
   startQuiz(shuffle(pool).slice(0,Math.min(pool.length,Number(el.getAttribute("data-size"))||20)),"practice",0);return;
  }
- if(action==="start-mock"){selectSet(100,"mock");return}
- if(action==="start-mini"){selectSet(30,"mini");return}
+ if(action==="resume-mock"){state.page="quiz";paint(true);return}
+ if(action==="start-mock"){if(state.quiz&&!state.quiz.finished&&!window.confirm("An attempt is in progress. Discard it and start a new mock?"))return;selectSet(100,"mock");return}
+ if(action==="start-mini"){if(state.quiz&&!state.quiz.finished&&!window.confirm("Discard your current attempt and start a mini mock?"))return;selectSet(30,"mini");return}
  if(action==="answer"){
   var s=state.quiz;if(!s||s.finished||(s.type!=="mock"&&s.checked[s.index]))return;
   s.answers[s.index]=Number(el.getAttribute("data-option"));saveQuiz();paint();return;
@@ -319,7 +321,7 @@ document.addEventListener("change",async function(event){
 });
 setInterval(function(){
  var q=state.quiz;
- if(!q||q.finished||q.type!=="mock"||state.page!=="quiz")return;
+ if(!q||q.finished||q.type!=="mock")return;
  if(q.deadline<=Date.now()){finish();return}
  var display=document.getElementById("timerDisplay");if(display)display.textContent=timerText(q);
 },1000);
