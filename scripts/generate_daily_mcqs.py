@@ -252,7 +252,7 @@ def main() -> None:
         result = left+right-1
         return numeric(R, "Ranking & Order",
                        f"A student ranks {left}th from the left and {right}th from the right. How many students are there?",
-                       result, f"Total = {left}+{right}−1 = {result}.")
+                       result, f"Add the left and right ranks and subtract one for the person counted twice: {left}+{right}−1 = {result}.")
     generate("ranking", 3, reasoning_rank)
 
     def reasoning_distance():
