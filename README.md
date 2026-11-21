@@ -1,57 +1,99 @@
-## 🆕 Automatic daily 60-MCQ practice
+# RailReady
 
-- **Daily quiz:** https://bhootiyagaming838-stack.github.io/railready-current-affairs/daily.html
-- Every day the free GitHub Actions workflow generates **60 new original exam-style MCQs: 30 Mathematics + 30 Reasoning**, each with four answer options, a computed answer key and an explanation. Questions are kept stable within each day and archived by date.
-- **Schedule:** about **7:15 AM IST** (`01:45 UTC`), but GitHub can delay or skip schedules. Use [Generate RailReady 60 Daily MCQs](https://github.com/bhootiyagaming838-stack/railready-current-affairs/actions/workflows/daily-mcqs.yml) to check its run status.
-- The workflow also updates `data/news.json.questions` so the **existing Floot RailReady app, PC app and Android APK** can fetch the 60 daily questions from **News → Headline quiz** without rebuilding. **The Floot button still says "Headline quiz" because its free build quota prevented changing the UI.** This is temporary; questions are Maths and Reasoning, not headline categorization.
-- Original news headlines are preserved in `data/news.json.notes`, and the old headline exercises in `headlineReadingQuestions` for a future UI upgrade.
-- The daily practice page has an offline last-successful-cache and stores practice results locally in the browser. It does not automatically merge scores with Floot browser storage.
-- Every run validates exact answer keys and performs a 45-day regression simulation covering **2,700 questions** with no identical question within the preceding 14 days.
-- **No paid API, OpenAI API key, or subscription is needed.** These are original algorithmic Maths and Reasoning questions, **not verified PYQs or factual current-affairs MCQs**.
+**RRB NTPC Graduate exam preparation and daily practice**
 
----
+RailReady is an independent study project providing subject-wise practice, timed mock examinations, revision tools, and automatically updated learning material. This repository maintains its public study data, scheduled content-generation workflows, a browser-based study application, and desktop/mobile wrappers for the original Floot application.
 
-# RailReady Complete Study — Free Web App
+## Applications
 
-**The complete-study edition is now built and tested in this repository.** It is not yet publicly deployed because the repository owner must enable GitHub Pages once.
+| Edition | Access | Description |
+| --- | --- | --- |
+| Original Floot application | [Open RailReady](https://railready-ntpc.floot.app/) | Original interface and existing Floot-hosted learning features. |
+| Complete Study web application | [Launch web app](https://bhootiyagaming838-stack.github.io/railready-current-affairs/) | Subject lessons, question banks, CBT-1 mock tests, revision, and local progress backup. |
+| Daily MCQ practice | [Open daily quiz](https://bhootiyagaming838-stack.github.io/railready-current-affairs/daily.html) | A new dated set of 60 original Mathematics and Reasoning questions, subject to successful scheduled publication. |
+| Android application | [Download APK](https://github.com/bhootiyagaming838-stack/railready-current-affairs/releases/tag/railready-floot-android-v1) | Personal-use WebView wrapper for the original Floot application. |
+| Windows application | [Download Windows release](https://github.com/bhootiyagaming838-stack/railready-current-affairs/releases/tag/railready-floot-windows-v1) | Portable desktop wrapper for the original Floot application. See [desktop documentation](desktop/README.md) for build details and the newer daily-quiz integration. |
 
-**Enable it:** [Settings → Pages](https://github.com/bhootiyagaming838-stack/railready-current-affairs/settings/pages) → **Build and deployment → Source: GitHub Actions**, then [Run the Deploy RailReady Complete Study App workflow](https://github.com/bhootiyagaming838-stack/railready-current-affairs/actions/workflows/deploy-study-app.yml).
+The Floot application and the GitHub Pages application are separate deployments. Improvements to the GitHub Pages edition do not automatically change the Floot interface.
 
-**After a successful deployment:** https://bhootiyagaming838-stack.github.io/railready-current-affairs/
+## Study features
 
-**Full instructions:** [Publish and install on Samsung](docs/publish-complete-study-app.md).
+The Complete Study web edition includes:
 
-**What is built:** 319 original practice MCQs (73 GA + 127 Maths + 119 Reasoning), 28 Maths and Reasoning lessons, timed 100-question CBT-1 simulator (40/30/30 split, 90 minutes, +1 / −⅓), short practice, spaced revision, bookmarks, wrong-answer review, progress backup/restore, news and PYQ source links. None of the original questions is labelled a verified PYQ.
+- **319 original practice questions:** 73 General Awareness, 127 Mathematics, and 119 Reasoning.
+- **28 topic lessons:** 14 Mathematics and 14 Reasoning lessons with key concepts, worked examples, and revision tips.
+- **CBT-1 practice mock:** 100 questions across General Awareness (40), Mathematics (30), and Reasoning (30), with a 90-minute timer and a marking scheme of +1 for a correct response and −⅓ for an incorrect response.
+- **Practice and review:** Subject filters, shorter quizzes, explanations, bookmarks, error review, and spaced repetition.
+- **Progress management:** Local study history, daily targets, and JSON backup and restore.
+- **Current affairs:** Source-linked news headlines and a separate index of previous-year paper resources.
 
-**Automated tests:** [RailReady study app CI](https://github.com/bhootiyagaming838-stack/railready-current-affairs/actions/workflows/test-study-app.yml) has passed. [First deployment run](https://github.com/bhootiyagaming838-stack/railready-current-affairs/actions/runs/44941855840) passed the app syntax and data checks but failed at Pages configuration because Pages was disabled.
+The exam format is modelled on the [RRB NTPC Graduate CEN 05/2024 notification](https://rrbahmedabad.gov.in/wp-content/uploads/2024/09/CEN-05-2024-NTPC-Graduate_a11y.pdf). RailReady is not affiliated with or endorsed by the Railway Recruitment Boards.
 
-**Earlier live Floot app:** https://railready-ntpc.floot.app — still runs its previous version; no change was published to Floot because the free daily build-action limit has been reached. The two domains do not share browser-saved progress.
+## Automatic daily updates
 
----
+Two GitHub Actions workflows maintain the public study data.
 
-# RailReady Current Affairs
+| Workflow | Planned schedule (IST) | Output |
+| --- | --- | --- |
+| [Daily current affairs](https://github.com/bhootiyagaming838-stack/railready-current-affairs/actions/workflows/daily-current-affairs.yml) | Approximately 7:00 AM | Source-linked headline feed in `data/news.json`. |
+| [Daily MCQ generation](https://github.com/bhootiyagaming838-stack/railready-current-affairs/actions/workflows/daily-mcqs.yml) | Approximately 7:15 AM | 60 original MCQs in `data/daily-mcqs.json`, with a dated archive in `data/daily-history/`. |
 
-Free, public daily headline feed for the RailReady RRB NTPC learning app.
+The daily MCQ generator produces **30 Mathematics and 30 Reasoning questions**, each with four answer options and an explanation. Questions are generated deterministically for a given date and checked before publication. A regression test simulates 45 consecutive dates and checks 2,700 generated questions for answer correctness and repetition within the preceding 14 days.
 
-## How it works
-GitHub Actions runs daily at **07:00 IST** (01:30 UTC), plus on demand via **Actions → Daily RailReady news update → Run workflow**. The Python script fetches recent Indian Railways, government schemes, economy, science national affairs, and awards/sports headlines from Google News RSS and writes `data/news.json`. The feed may be delayed or unavailable. No paid API key is required.
+The existing Floot application's News quiz consumes the `data/news.json.questions` field, which is currently supplied with the daily MCQ set for compatibility. Its existing **Headline quiz** label has not yet been updated in the Floot interface. Original headlines remain in `data/news.json.notes`.
 
-**Important:** Headlines are *not* fact-checked exam notes. Automatically generated headline-category quizzes are not verified factual current-affairs MCQs. They are reading leads with publisher links. Existing curated practice questions in RailReady remain separate. The app shows the update timestamp and should not imply a fresh update when the feed is stale.
+Scheduled GitHub Actions workflows may run late or fail. Publication status and the date displayed in the quiz should be checked before treating a set as current. These workflows do not use a paid AI API.
 
-Public JSON: https://raw.githubusercontent.com/bhootiyagaming838-stack/railready-current-affairs/main/data/news.json
+## Content accuracy and provenance
 
-The workflow requires repository Actions to be enabled and the `GITHUB_TOKEN` to have write permission. If a run fails with HTTP 403, check Settings → Actions → General → Workflow permissions → Read and write permissions.
+- Original practice questions are **not represented as verified RRB previous-year questions (PYQs)**.
+- The [PYQ source index](data/pyq-source-index.json) provides references to official notices and clearly identified third-party paper collections; it is not a collection of verified transcribed PYQs.
+- Daily generated MCQs cover computational and logical practice. They are **not automatically verified factual current-affairs questions**.
+- Current-affairs headlines are leads for further reading, not independently fact-checked exam notes. Refer to the linked publisher and official notices when verifying claims.
 
-GitHub's scheduled runs are not guaranteed to execute at the exact scheduled minute.
+## Repository structure
 
-## Next RailReady study-app upgrade — staged, not yet live
+| Path | Purpose |
+| --- | --- |
+| `index.html`, `app.js`, `app.css` | Complete Study web application. |
+| `daily.html`, `daily.js` | Daily quiz interface, answer review, and browser-local session state. |
+| `data/general-awareness-bank.json` | Original General Awareness practice questions. |
+| `data/quant-reasoning-bank.json` | Original Mathematics and Reasoning practice questions. |
+| `data/study-lessons.json` | Structured lesson content. |
+| `data/daily-mcqs.json`, `data/daily-history/` | Latest and archived daily MCQ sets. |
+| `data/news.json` | Source-linked news headlines and compatibility question feed. |
+| `scripts/` | Data generation, validation, and regression tests. |
+| `android/` | Android WebView wrapper for the Floot application. |
+| `desktop/` | Electron-based Windows wrapper for the Floot application. |
+| `.github/workflows/` | Scheduled generation, validation, publication, and application builds. |
 
-These files are prepared in GitHub for the next Floot project build:
+## Development and verification
 
-- `data/quant-reasoning-bank.json` — **246 original practice MCQs** (127 Mathematics, 119 Reasoning), with four options and explanations. None is represented as a verified PYQ.
-- `data/study-lessons.json` — **28 concise learning lessons** (14 Maths, 14 Reasoning), each with rules, worked examples and common traps.
-- `data/pyq-source-index.json` — official RRB notices, verified exam-pattern metadata and clearly marked third-party paper collections. **No individual question has yet been transcribed and verified as a PYQ.**
-- `src/studyEngine.ts` — source-ready helpers for a 100-question CBT-1 mock, 90-minute test mode, 40/30/30 section allocation, +1/−⅓ scoring, local spaced revision, and JSON backup/restore.
-- `scripts/validate_study_content.py` and its GitHub Actions workflow — automatic validation of the prepared question bank, lessons and labels.
+The study and daily quiz interfaces use static HTML, CSS, and JavaScript. The scheduled data-generation scripts use Python's standard library.
 
-**Deployment status:** These new study materials are currently stored in GitHub and have **not** been connected or published to the Floot-hosted RailReady app (`https://railready-ntpc.floot.app`). Floot's free daily build-action limit blocked editing and publishing during the current session. When project build access is available, the next step is to import the staged files, build the Maths/Reasoning learning UI and full CBT-1 mock, test it, then publish. The existing live RailReady app remains unchanged.
+From the repository root, run:
+
+```bash
+python scripts/validate_study_content.py
+python scripts/validate_daily_mcqs.py
+python scripts/verify_daily_answers.py
+python scripts/test_daily_future.py
+node scripts/test_static_app.cjs
+node scripts/test_daily_quiz.cjs
+```
+
+The daily-question checks verify option integrity, answer calculations, dated archives, and Floot feed compatibility. The interface smoke tests exercise quiz navigation, answer feedback, results, and saved sessions. GitHub Actions publishes the web edition via the [deployment workflow](https://github.com/bhootiyagaming838-stack/railready-current-affairs/actions/workflows/deploy-study-app.yml).
+
+## Installation and data storage
+
+The Android APK and Windows executable open the existing Floot application rather than packaging the complete GitHub Pages edition. Both require an internet connection and continued availability of the hosted site.
+
+Desktop and Android builds are distributed for personal use. Windows executables are unsigned and may trigger Microsoft Defender SmartScreen warnings; Android builds may require permission to install an APK from the chosen source. Download builds from the project's own GitHub releases or workflow artifacts and keep operating-system security protections enabled.
+
+Study progress is stored locally in each application's browser or WebView storage. Progress does **not** synchronize automatically between the Floot website, the Complete Study site, Android, and Windows. The Complete Study application supports a local JSON export/import workflow.
+
+Additional deployment instructions are available in [web publication documentation](docs/publish-complete-study-app.md), [Android documentation](android/README.md), and [Windows documentation](desktop/README.md).
+
+## Maintenance
+
+The project uses free hosting and automation services subject to their providers' availability, quotas, and usage policies. Review workflow logs when scheduled updates do not appear, and verify exam-specific information against official Railway Recruitment Board notices.
