@@ -1,8 +1,8 @@
 /* RailReady offline-first study cache. Network is preferred to keep dated news fresh. */
-const VERSION='railready-complete-v1';
-const SHELL=['./','./index.html','./app.css','./app.js','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest',
+const VERSION='railready-complete-v2';
+const SHELL=['./','./index.html','./app.css','./app.js','./daily.html','./daily.js','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest',
  './data/general-awareness-bank.json','./data/quant-reasoning-bank.json','./data/study-lessons.json',
- './data/pyq-source-index.json','./data/news.json'];
+ './data/pyq-source-index.json','./data/news.json','./data/daily-mcqs.json'];
 self.addEventListener('install',event=>{
  event.waitUntil(caches.open(VERSION).then(async cache=>{
   await Promise.allSettled(SHELL.map(async url=>{
