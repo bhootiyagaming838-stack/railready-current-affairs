@@ -9,6 +9,7 @@ on:
       - 'manifest.webmanifest'
       - 'icon.svg'
       - 'sw.js'
+      - 'scripts/generate_icons.py'
       - 'data/**'
       - 'scripts/validate_study_content.py'
       - '.github/workflows/deploy-study-app.yml'
@@ -32,10 +33,12 @@ jobs:
           node --check sw.js
           python scripts/validate_study_content.py
           python -m json.tool data/general-awareness-bank.json >/dev/null
+      - name: Generate installable Android icons
+        run: python scripts/generate_icons.py
       - name: Package static study app
         run: |
           mkdir -p public/data
-          cp index.html app.js app.css manifest.webmanifest icon.svg sw.js public/
+          cp index.html app.js app.css manifest.webmanifest icon.svg icon-192.png icon-512.png sw.js public/
           cp data/*.json public/data/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
