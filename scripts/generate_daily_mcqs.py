@@ -36,7 +36,7 @@ def main() -> None:
     args = ap.parse_args()
     today = dt.date.fromisoformat(args.date) if args.date else dt.datetime.now(IST).date()
     rng = random.Random(int(today.strftime("%Y%m%d")) * 104729)
-    generator_version = 2  # Fix percent calculations and out-of-range alphabet series
+    generator_version = 3  # Broaden future question variety; keep current version-2 archives stable
     created: list[dict] = []
     used: set[str] = set()
     existing: set[str] = set()
@@ -197,7 +197,7 @@ def main() -> None:
 
     def math_work():
         # A and B require 3u and 6u days respectively, so together: 2u days.
-        unit = rng.randrange(2, 25)
+        unit = rng.randrange(2, 150)
         a,b = 3*unit, 6*unit
         combined = 2*unit
         return numeric(M, "Time & Work",
@@ -235,16 +235,16 @@ def main() -> None:
     generate("geometric series", 3, reasoning_geometric)
 
     def reasoning_letters():
-        step = rng.randrange(2, 5)
-        start = rng.randrange(0, 26 - 5*step)
-        seq = [ALPHABET[start + i*step] for i in range(5)]
-        result=ALPHABET[start+5*step]
+        step = rng.randrange(2, 8)
+        start = rng.randrange(0, 26)
+        seq = [ALPHABET[(start + i*step)%26] for i in range(5)]
+        result=ALPHABET[(start+5*step)%26]
         idx=ALPHABET.index(result)
         candidates=[ALPHABET[(idx+x)%26] for x in (-2,-1,1)]
         return add(R, "Alphabet Series",
                    f"Complete the letter series: {', '.join(seq)}, ?",
                    result,candidates,
-                   f"Letters advance {step} places each step. After {seq[-1]} comes {result}.")
+                   f"Letters advance {step} places cyclically (A follows Z). After {seq[-1]} comes {result}.")
     generate("letter series", 4, reasoning_letters)
 
     def reasoning_rank():
@@ -320,7 +320,7 @@ def main() -> None:
     if archive.exists():
         # Keep answer keys stable within a day except when correcting a broken generator version.
         earlier = json.loads(archive.read_text(encoding="utf-8"))
-        if earlier.get("generatorVersion") == generator_version:
+        if earlier.get("generatorVersion") in (2, generator_version):
             out = earlier
         else:
             archive.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
