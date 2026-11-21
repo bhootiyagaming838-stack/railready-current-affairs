@@ -3,13 +3,18 @@ const {app, BrowserWindow, Menu, shell, session, dialog} = require('electron');
 const path = require('node:path');
 
 const URL_APP = 'https://railready-ntpc.floot.app/';
+const DAILY_URL = 'https://bhootiyagaming838-stack.github.io/railready-current-affairs/daily.html';
 const HOST = 'railready-ntpc.floot.app';
 let mainWindow;
 
 function allowedAppUrl(url) {
   try {
     const parsed = new URL(url);
-    return parsed.protocol === 'https:' && parsed.hostname.toLowerCase() === HOST;
+    return parsed.protocol === 'https:' && (
+      parsed.hostname.toLowerCase() === HOST ||
+      (parsed.hostname.toLowerCase() === 'bhootiyagaming838-stack.github.io' &&
+       parsed.pathname === '/railready-current-affairs/daily.html')
+    );
   } catch (_) {
     return false;
   }
@@ -61,7 +66,7 @@ function createWindow() {
     }
   });
   mainWindow.webContents.on('did-fail-load', (_event, code, desc, validatedUrl, isMainFrame) => {
-    if (isMainFrame && validatedUrl && validatedUrl.startsWith(URL_APP)) {
+    if (isMainFrame && validatedUrl && (validatedUrl.startsWith(URL_APP) || validatedUrl.startsWith(DAILY_URL))) {
       showOfflinePage(desc || 'Network error');
     }
   });
@@ -70,13 +75,16 @@ function createWindow() {
     {
       label: 'RailReady',
       submenu: [
-        {label: 'Home', click: () => mainWindow.loadURL(URL_APP).catch(() => showOfflinePage('Unable to connect'))},
+        {label: 'RailReady Floot Home', click: () => mainWindow.loadURL(URL_APP).catch(() => showOfflinePage('Unable to connect'))},
+        {label: 'Daily MCQs — 60 new every day', accelerator: 'CmdOrCtrl+D',
+         click: () => mainWindow.loadURL(DAILY_URL).catch(() => showOfflinePage('Could not load daily quiz'))},
         {label: 'Refresh', accelerator: 'CmdOrCtrl+R', click: () => {
           if (mainWindow.webContents.getURL().startsWith('file:')) mainWindow.loadURL(URL_APP).catch(() => showOfflinePage('Unable to connect'));
           else mainWindow.webContents.reload();
         }},
         {type: 'separator'},
-        {label: 'Open in Browser', click: () => safeOpenExternal(URL_APP)},
+        {label: 'Open Floot in Browser', click: () => safeOpenExternal(URL_APP)},
+        {label: 'Open Daily MCQs in Browser', click: () => safeOpenExternal(DAILY_URL)},
         {type: 'separator'},
         {role: 'quit', label: 'Exit'}
       ]
