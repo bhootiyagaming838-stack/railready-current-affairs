@@ -1,0 +1,33 @@
+name: Test RailReady Study App
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'app.js'
+      - 'sw.js'
+      - 'data/general-awareness-bank.json'
+      - 'data/quant-reasoning-bank.json'
+      - 'data/study-lessons.json'
+      - 'data/pyq-source-index.json'
+      - 'data/news.json'
+      - 'scripts/test_static_app.cjs'
+      - 'scripts/validate_study_content.py'
+      - '.github/workflows/test-study-app.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check syntax
+        run: |
+          node --check app.js
+          node --check sw.js
+          node --check scripts/test_static_app.cjs
+      - name: Validate question content and official PYQ labels
+        run: python scripts/validate_study_content.py
+      - name: Test learning, full mock, revision and news rendering
+        run: node scripts/test_static_app.cjs
