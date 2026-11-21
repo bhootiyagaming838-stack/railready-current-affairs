@@ -1,0 +1,61 @@
+name: Build RailReady Windows Desktop ZIP
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/build-floot-windows-zip.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  windows-zip:
+    runs-on: windows-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Generate desktop icon
+        shell: pwsh
+        run: |
+          python scripts/generate_icons.py
+          python desktop/make_icon.py
+      - name: Install Electron and packaging tool
+        working-directory: desktop
+        run: npm install --no-audit --no-fund --save-dev @electron/packager@19.0.0
+      - name: Validate source syntax
+        working-directory: desktop
+        run: node --check main.cjs
+      - name: Package Windows desktop application
+        working-directory: desktop
+        shell: pwsh
+        run: |
+          npx electron-packager . "RailReady NTPC" --platform=win32 --arch=x64 --out=package --overwrite --icon=icon.ico --prune=true
+          if ($LASTEXITCODE -ne 0) { throw "Desktop packaging failed" }
+      - name: Make portable ZIP
+        shell: pwsh
+        run: |
+          $folder = "desktop/package/RailReady NTPC-win32-x64"
+          if (!(Test-Path "$folder/RailReady NTPC.exe")) { throw "Windows EXE missing from package" }
+          Compress-Archive -Path "$folder" -DestinationPath "RailReady-Floot-PC-Windows.zip" -CompressionLevel Optimal
+          if ((Get-Item "RailReady-Floot-PC-Windows.zip").Length -lt 20000000) { throw "Windows package unusually small" }
+          Get-FileHash "RailReady-Floot-PC-Windows.zip" -Algorithm SHA256
+      - name: Upload ZIP artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: RailReady-Windows-PC-ZIP
+          path: RailReady-Floot-PC-Windows.zip
+          if-no-files-found: error
+          retention-days: 30
+      - name: Create direct-download Windows ZIP release
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $tag = "railready-floot-windows-zip-v1"
+          gh release view $tag 2>$null
+          if ($LASTEXITCODE -ne 0) {
+            gh release create $tag "RailReady-Floot-PC-Windows.zip" --title "RailReady NTPC - Free Windows PC App ZIP" --notes "Download ZIP, extract the folder, then double-click RailReady NTPC.exe. It opens the original Floot RailReady website and needs internet. Unsigned personal-use Windows desktop app." --target $env:GITHUB_SHA
+            if ($LASTEXITCODE -ne 0) { throw "Release creation failed" }
+          }
