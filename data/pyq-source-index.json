@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "verifiedTranscribedQuestions": 0,
+  "warning": "The app must NOT label original model-generated questions as RRB previous-year questions. Transcribe a question as verified only after checking an authentic shift-specific paper and corresponding official answer key. The links below are source-navigation resources, not proof that individual questions in the separate practice bank are PYQs.",
+  "resources": [
+    {
+      "id": "rrb-2024-official-notification",
+      "title": "RRB NTPC Graduate CEN 05/2024 – official detailed notification and CBT pattern",
+      "provider": "Railway Recruitment Boards",
+      "type": "official exam document",
+      "year": 2024,
+      "url": "https://rrbahmedabad.gov.in/wp-content/uploads/2024/09/CEN-05-2024-NTPC-Graduate_a11y.pdf",
+      "description": "Official syllabus and CBT-1/CBT-2 marking and question distribution; not a PYQ paper"
+    },
+    {
+      "id": "rrb-kolkata-2025-response-key",
+      "title": "RRB Kolkata – CEN 05/2024 CBT-1 question, response and answer-key notice",
+      "provider": "RRB Kolkata",
+      "type": "official examination notice",
+      "year": 2025,
+      "url": "https://www.rrbkolkata.gov.in/cen052024.php",
+      "description": "Contains notice dated 30 June 2025 on viewing CBT-1 questions, responses and keys; candidate access to the question portal may require login"
+    },
+    {
+      "id": "rrb-bhubaneswar-2025-notice",
+      "title": "RRB Bhubaneswar – NTPC Graduate CEN 05/2024 notices",
+      "provider": "RRB Bhubaneswar",
+      "type": "official examination notice",
+      "year": 2025,
+      "url": "https://www.rrbbbs.gov.in/cen.php?prmt=TXpFPQ%3D%3D",
+      "description": "Official notice listing CBT-1 question/response/answer-key access"
+    },
+    {
+      "id": "thirdparty-shift-2025-06-12-2",
+      "title": "RRB NTPC Graduate CBT-1, 12 June 2025, Shift 2",
+      "provider": "Prepp",
+      "type": "third-party paper reproduction",
+      "year": 2025,
+      "url": "https://prepp.in/paper/rrb-ntpc-cbt-1-question-paper-12-jun-2025-shift-2-686ec91d03863dcbc2d6f8a7",
+      "description": "Third-party paper collection; independently cross-check questions and answer keys before labelling verified"
+    },
+    {
+      "id": "thirdparty-shift-2025-06-24-1",
+      "title": "RRB NTPC Graduate CBT-1, 24 June 2025, Shift 1",
+      "provider": "AirGurukul",
+      "type": "third-party paper reproduction",
+      "year": 2025,
+      "url": "https://www.airgurukul.com/library/pyp/rrb-ntpc-graduate-cbt1-2025/rrb-ntpc-graduate-cbt1-2025-24-jun-2025-shift-1",
+      "description": "Third-party paper collection; official verification required for individual Q&As"
+    }
+  ],
+  "examPattern": {
+    "exam": "RRB NTPC Graduate CBT-1",
+    "source": "https://rrbahmedabad.gov.in/wp-content/uploads/2024/09/CEN-05-2024-NTPC-Graduate_a11y.pdf",
+    "questions": 100,
+    "minutes": 90,
+    "marksCorrect": 1,
+    "marksWrong": -0.3333333333333333,
+    "breakdown": [
+      {
+        "topic": "General Awareness",
+        "count": 40
+      },
+      {
+        "topic": "Mathematics",
+        "count": 30
+      },
+      {
+        "topic": "General Intelligence & Reasoning",
+        "count": 30
+      }
+    ]
+  }
+}
