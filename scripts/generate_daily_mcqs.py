@@ -120,7 +120,7 @@ def main() -> None:
     generate("discounts", 3, math_discount)
 
     def math_average():
-        middle = rng.randrange(15, 140)
+        middle = rng.randrange(25, 140)
         gap = rng.randrange(2, 21)
         numbers = (middle - gap, middle, middle + gap)
         return numeric(M, "Averages",
