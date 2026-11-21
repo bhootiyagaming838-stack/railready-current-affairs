@@ -183,7 +183,7 @@ function advance(){
 }
 function finish(){
  var s=state.quiz;if(!s||s.finished)return;
- s.finished=true;var correct=0,wrong=0,skipped=0,tracked=[],sections={};
+ s.finished=true;state.page="quiz";var correct=0,wrong=0,skipped=0,tracked=[],sections={};
  s.questions.forEach(function(q,i){
   var picked=(s.type==="mock"||s.checked[i])?s.answers[i]:undefined,section=q.topic;
   var p=sections[section]||(sections[section]={correct:0,wrong:0,skipped:0});
@@ -251,8 +251,8 @@ function paint(scroll){
  if(scroll)window.scrollTo({top:0,behavior:"instant"});
 }
 function go(page){state.page=page;if(page==="learn")state.lessonId=null;paint(true)}
-function markQuestion(){
- var s=state.quiz;if(!s)return;var q=s.questions[s.index];
+function markQuestion(requestedId){
+ var s=state.quiz;if(!s)return;var q=s.questions.find(function(x){return x.id===requestedId})||s.questions[s.index];
  if(profile.bookmarks[q.id]){delete profile.bookmarks[q.id]}else{profile.bookmarks[q.id]=q;if(!profile.revisions[q.id])profile.revisions[q.id]={questionId:q.id,stage:0,dueDate:plusDays(today(),1),lastReviewed:today()}}
  save();paint();
 }
@@ -290,7 +290,7 @@ document.addEventListener("click",function(event){
  if(action==="jump"){var s=state.quiz;if(!s)return;s.index=Number(el.getAttribute("data-index"));saveQuiz();paint(true);return}
  if(action==="mark"){var s=state.quiz;if(!s)return;s.marked[s.index]=!s.marked[s.index];saveQuiz();advance();return}
  if(action==="submit"){if(window.confirm("Submit your mock now? Unanswered questions will be counted as skipped."))finish();return}
- if(action==="bookmark"){markQuestion();return}
+ if(action==="bookmark"){markQuestion(el.getAttribute("data-id"));return}
  if(action==="toggle-review"){state.viewAnswers=!state.viewAnswers;paint();return}
  if(action==="news-category"){state.newsCategory=el.getAttribute("data-category")||"All";state.newsLimit=12;paint();return}
  if(action==="news-more"){state.newsLimit+=12;paint();return}
