@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "RailReady – RRB NTPC Study",
+  "short_name": "RailReady",
+  "description": "Offline-capable RRB NTPC preparation: Maths, Reasoning, mocks, revision and current affairs.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f1",
+  "theme_color": "#176c55",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
