@@ -25,8 +25,30 @@ for(const s of data.series){
   assert.equal(q.options[q.answer],e.value,'incorrect answer '+q.id);
  }
 }
+
+// Time-sensitive facts must carry a date and official or primary source.
+assert.match(data.checkedAt, /^20\\d{2}-\\d{2}-\\d{2}$/);
+const currentSeries=data.series.filter(s=>s.current);
+assert(currentSeries.length>=5,'expected dated current officeholders / recent event results');
+for(const s of currentSeries){
+ assert.match(s.current.asOf,/^20\\d{2}-\\d{2}-\\d{2}$/);
+ assert(s.current.source.startsWith('https://'));
+ assert(['officeholder','latest-event'].includes(s.current.kind));
+}
+assert(data.currentHighlights?.length>=2,'expected current Indian and UNESCO institutional officeholders');
+const unescoDG=data.series.find(s=>s.id==='unesco-directors');
+const unescoGC=data.series.find(s=>s.id==='unesco-general-conference-presidents');
+assert(unescoDG&&unescoGC,'UNESCO Director-General and General Conference roles must be separate');
+assert.equal(unescoDG.entries[0].value,'Julian Huxley');
+assert.equal(unescoDG.entries[1].value,'Jaime Torres Bodet');
+assert.equal(unescoDG.current.value,'Khaled El-Enany');
+assert.equal(unescoGC.entries[0].value,'Léon Blum');
+assert.equal(unescoGC.entries[1].value,'Manuel Gual Vidal');
+assert.equal(unescoGC.current.value,'Khondker Mohammad Talha');
+assert.notEqual(unescoDG.current.value,unescoGC.current.value);
+
 const html=fs.readFileSync('world-gk.html','utf8');
-assert(html.includes('world-gk.js')&&html.includes('viewOrders'),'world GK page missing study elements');
+assert(html.includes('world-gk.js')&&html.includes('viewOrders')&&html.includes('currentHighlights'),'world GK page missing study or current elements');
 const categories=[...new Set(data.questions.filter(q=>q.topic!=='First & Last GK').map(q=>q.skill))];
 assert(categories.includes('World Geography')&&categories.includes('World Organisations')&&categories.includes('World Science'));
 console.log('World GK validated: '+data.series.length+' series, '+data.questions.length+' questions, '+categories.length+' topic areas.');
