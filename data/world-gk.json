@@ -1531,12 +1531,12 @@
       "skill": "World Organisations",
       "question": "In UN Secretaries-General, which was the first entry?",
       "options": [
-        "George Washington",
-        "Yuri Gagarin",
+        "Kurt Waldheim",
         "Trygve Lie",
-        "Dag Hammarskjöld"
+        "Dag Hammarskjöld",
+        "U Thant"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "First UN Secretary-General; Norway, 1946–1952. Scope: Ongoing UN office; only the first and second holders are fixed.",
       "kind": "Original sequence practice",
       "seriesId": "un-secretaries",
@@ -1549,10 +1549,10 @@
       "skill": "World Organisations",
       "question": "In UN Secretaries-General, which was the second entry?",
       "options": [
-        "Yuri Gagarin",
-        "Dag Hammarskjöld",
         "Trygve Lie",
-        "George Washington"
+        "Dag Hammarskjöld",
+        "U Thant",
+        "Kurt Waldheim"
       ],
       "answer": 1,
       "explanation": "Second UN Secretary-General; Sweden, 1953–1961. Scope: Ongoing UN office; only the first and second holders are fixed.",
@@ -1567,12 +1567,12 @@
       "skill": "World Organisations",
       "question": "In UNESCO Directors-General, which was the first entry?",
       "options": [
-        "Julian Huxley",
         "Jaime Torres Bodet",
-        "George Washington",
-        "Yuri Gagarin"
+        "Luther Evans",
+        "René Maheu",
+        "Julian Huxley"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "First UNESCO Director-General, 1946–1948. Scope: Ongoing UNESCO office; the final holder is not defined.",
       "kind": "Original sequence practice",
       "seriesId": "unesco-directors",
@@ -1585,9 +1585,9 @@
       "skill": "World Organisations",
       "question": "In UNESCO Directors-General, which was the second entry?",
       "options": [
+        "Luther Evans",
+        "René Maheu",
         "Julian Huxley",
-        "George Washington",
-        "Yuri Gagarin",
         "Jaime Torres Bodet"
       ],
       "answer": 3,
@@ -1603,12 +1603,12 @@
       "skill": "World History",
       "question": "In United States Presidents, which was the first entry?",
       "options": [
-        "John Adams",
-        "Yuri Gagarin",
-        "STS-1 (Columbia)",
-        "George Washington"
+        "Thomas Jefferson",
+        "James Madison",
+        "George Washington",
+        "John Adams"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "First US President, 1789–1797. Scope: Ongoing American presidency, beginning in 1789.",
       "kind": "Original sequence practice",
       "seriesId": "us-presidents",
@@ -1621,10 +1621,10 @@
       "skill": "World History",
       "question": "In United States Presidents, which was the second entry?",
       "options": [
-        "Yuri Gagarin",
-        "STS-1 (Columbia)",
+        "James Madison",
+        "George Washington",
         "John Adams",
-        "George Washington"
+        "Thomas Jefferson"
       ],
       "answer": 2,
       "explanation": "Second US President, 1797–1801. Scope: Ongoing American presidency, beginning in 1789.",
@@ -1639,12 +1639,12 @@
       "skill": "World Sports",
       "question": "In Modern Summer Olympics host cities, which was the first entry?",
       "options": [
-        "Paris, France (1900)",
-        "George Washington",
-        "Yuri Gagarin",
-        "Athens, Greece (1896)"
+        "St. Louis, USA (1904)",
+        "London, UK (1908)",
+        "Athens, Greece (1896)",
+        "Paris, France (1900)"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "First modern Summer Olympic Games. Scope: Modern Summer Olympics from 1896 onward; ongoing series.",
       "kind": "Original sequence practice",
       "seriesId": "olympic-hosts",
@@ -1657,10 +1657,10 @@
       "skill": "World Sports",
       "question": "In Modern Summer Olympics host cities, which was the second entry?",
       "options": [
-        "George Washington",
-        "Yuri Gagarin",
+        "London, UK (1908)",
+        "Athens, Greece (1896)",
         "Paris, France (1900)",
-        "Athens, Greece (1896)"
+        "St. Louis, USA (1904)"
       ],
       "answer": 2,
       "explanation": "Second modern Summer Olympics; first with women competitors. Scope: Modern Summer Olympics from 1896 onward; ongoing series.",
@@ -1675,12 +1675,12 @@
       "skill": "World Sports",
       "question": "In Men's FIFA World Cup champions, which was the first entry?",
       "options": [
-        "Italy (1934)",
-        "George Washington",
-        "Yuri Gagarin",
-        "Uruguay (1930)"
+        "West Germany (1954)",
+        "Brazil (1958)",
+        "Uruguay (1930)",
+        "Italy (1934)"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Winner of the inaugural men's FIFA World Cup. Scope: Men's FIFA World Cup since 1930; ongoing event.",
       "kind": "Original sequence practice",
       "seriesId": "world-cup-winners",
@@ -1693,10 +1693,10 @@
       "skill": "World Sports",
       "question": "In Men's FIFA World Cup champions, which was the second entry?",
       "options": [
-        "George Washington",
-        "Yuri Gagarin",
+        "Brazil (1958)",
+        "Uruguay (1930)",
         "Italy (1934)",
-        "Uruguay (1930)"
+        "West Germany (1954)"
       ],
       "answer": 2,
       "explanation": "Winner of the second men's FIFA World Cup. Scope: Men's FIFA World Cup since 1930; ongoing event.",
@@ -1711,12 +1711,12 @@
       "skill": "World Science",
       "question": "In Nobel Physics award years, which was the first entry?",
       "options": [
-        "Hendrik Lorentz and Pieter Zeeman (1902)",
-        "George Washington",
-        "Yuri Gagarin",
-        "Wilhelm Conrad Röntgen (1901)"
+        "Henri Becquerel (1903)",
+        "Albert Einstein (1921)",
+        "Wilhelm Conrad Röntgen (1901)",
+        "Hendrik Lorentz and Pieter Zeeman (1902)"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "The first Nobel Physics award recognised X-rays. Scope: Count award years, not separate laureates; prize continues.",
       "kind": "Original sequence practice",
       "seriesId": "nobel-physics",
@@ -1729,10 +1729,10 @@
       "skill": "World Science",
       "question": "In Nobel Physics award years, which was the second entry?",
       "options": [
-        "George Washington",
-        "Yuri Gagarin",
+        "Albert Einstein (1921)",
+        "Wilhelm Conrad Röntgen (1901)",
         "Hendrik Lorentz and Pieter Zeeman (1902)",
-        "Wilhelm Conrad Röntgen (1901)"
+        "Henri Becquerel (1903)"
       ],
       "answer": 2,
       "explanation": "The second Nobel Physics award was shared. Scope: Count award years, not separate laureates; prize continues.",
@@ -1747,12 +1747,12 @@
       "skill": "World Science",
       "question": "In Humans to reach space, which was the first entry?",
       "options": [
-        "Yuri Gagarin",
         "Yuri Gagarin (1961)",
         "Alan Shepard (1961)",
-        "George Washington"
+        "Gherman Titov (1961)",
+        "John Glenn (1962)"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "First human in space, on Vostok 1, 12 April 1961. Scope: Human spaceflight including suborbital flights; the series is ongoing.",
       "kind": "Original sequence practice",
       "seriesId": "human-space",
@@ -1766,9 +1766,9 @@
       "question": "In Humans to reach space, which was the second entry?",
       "options": [
         "Alan Shepard (1961)",
-        "Yuri Gagarin (1961)",
-        "George Washington",
-        "Yuri Gagarin"
+        "Gherman Titov (1961)",
+        "John Glenn (1962)",
+        "Yuri Gagarin (1961)"
       ],
       "answer": 0,
       "explanation": "Second human in space; first American; suborbital flight, 5 May 1961. Scope: Human spaceflight including suborbital flights; the series is ongoing.",
@@ -1783,12 +1783,12 @@
       "skill": "World Science",
       "question": "In Women in space, which was the first entry?",
       "options": [
-        "Yuri Gagarin",
         "Valentina Tereshkova (1963)",
         "Svetlana Savitskaya (1982)",
-        "George Washington"
+        "Sally Ride (1983)",
+        "Judith Resnik (1984)"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "First woman to travel to space, on Vostok 6. Scope: Ongoing human spaceflight history.",
       "kind": "Original sequence practice",
       "seriesId": "women-space",
@@ -1802,9 +1802,9 @@
       "question": "In Women in space, which was the second entry?",
       "options": [
         "Svetlana Savitskaya (1982)",
-        "Valentina Tereshkova (1963)",
-        "George Washington",
-        "Yuri Gagarin"
+        "Sally Ride (1983)",
+        "Judith Resnik (1984)",
+        "Valentina Tereshkova (1963)"
       ],
       "answer": 0,
       "explanation": "Second woman in space; later first woman to perform a spacewalk. Scope: Ongoing human spaceflight history.",
@@ -1819,12 +1819,12 @@
       "skill": "World Science",
       "question": "In Apollo crewed Moon-landing missions, which was the first entry?",
       "options": [
-        "Apollo 17 (1972)",
         "Apollo 11 (1969)",
         "Apollo 12 (1969)",
-        "Apollo 16 (1972)"
+        "Apollo 16 (1972)",
+        "Apollo 17 (1972)"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "First Apollo crewed lunar landing, Armstrong and Aldrin. Scope: Six completed lunar landings in the Apollo programme (1969–1972). Apollo 13 did not land.",
       "kind": "Original sequence practice",
       "seriesId": "apollo-landings",
@@ -1838,9 +1838,9 @@
       "question": "In Apollo crewed Moon-landing missions, which was the second entry?",
       "options": [
         "Apollo 12 (1969)",
-        "Apollo 11 (1969)",
         "Apollo 16 (1972)",
-        "Apollo 17 (1972)"
+        "Apollo 17 (1972)",
+        "Apollo 11 (1969)"
       ],
       "answer": 0,
       "explanation": "Second Apollo crewed lunar landing, Conrad and Bean. Scope: Six completed lunar landings in the Apollo programme (1969–1972). Apollo 13 did not land.",
@@ -1855,12 +1855,12 @@
       "skill": "World Science",
       "question": "In Apollo crewed Moon-landing missions, which was the second-last entry?",
       "options": [
-        "Apollo 11 (1969)",
-        "Apollo 12 (1969)",
+        "Apollo 16 (1972)",
         "Apollo 17 (1972)",
-        "Apollo 16 (1972)"
+        "Apollo 11 (1969)",
+        "Apollo 12 (1969)"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Fifth of six successful crewed Apollo lunar landings. Scope: Six completed lunar landings in the Apollo programme (1969–1972). Apollo 13 did not land.",
       "kind": "Original sequence practice",
       "seriesId": "apollo-landings",
@@ -1873,12 +1873,12 @@
       "skill": "World Science",
       "question": "In Apollo crewed Moon-landing missions, which was the last entry?",
       "options": [
-        "Apollo 12 (1969)",
-        "Apollo 16 (1972)",
         "Apollo 17 (1972)",
-        "Apollo 11 (1969)"
+        "Apollo 11 (1969)",
+        "Apollo 12 (1969)",
+        "Apollo 16 (1972)"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "Sixth and final Apollo crewed lunar landing. Scope: Six completed lunar landings in the Apollo programme (1969–1972). Apollo 13 did not land.",
       "kind": "Original sequence practice",
       "seriesId": "apollo-landings",
@@ -1891,12 +1891,12 @@
       "skill": "World Science",
       "question": "In NASA Space Shuttle missions, which was the first entry?",
       "options": [
-        "STS-2 (Columbia)",
         "STS-134 (Endeavour)",
         "STS-135 (Atlantis)",
-        "STS-1 (Columbia)"
+        "STS-1 (Columbia)",
+        "STS-2 (Columbia)"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "First orbital Shuttle mission, April 1981. Scope: Completed 1981–2011 Shuttle flight programme.",
       "kind": "Original sequence practice",
       "seriesId": "space-shuttle",
@@ -1909,10 +1909,10 @@
       "skill": "World Science",
       "question": "In NASA Space Shuttle missions, which was the second entry?",
       "options": [
-        "STS-134 (Endeavour)",
         "STS-135 (Atlantis)",
+        "STS-1 (Columbia)",
         "STS-2 (Columbia)",
-        "STS-1 (Columbia)"
+        "STS-134 (Endeavour)"
       ],
       "answer": 2,
       "explanation": "Second orbital Shuttle mission, November 1981. Scope: Completed 1981–2011 Shuttle flight programme.",
@@ -1927,12 +1927,12 @@
       "skill": "World Science",
       "question": "In NASA Space Shuttle missions, which was the second-last entry?",
       "options": [
-        "STS-135 (Atlantis)",
-        "STS-134 (Endeavour)",
         "STS-1 (Columbia)",
-        "STS-2 (Columbia)"
+        "STS-2 (Columbia)",
+        "STS-134 (Endeavour)",
+        "STS-135 (Atlantis)"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Penultimate Space Shuttle mission, 2011. Scope: Completed 1981–2011 Shuttle flight programme.",
       "kind": "Original sequence practice",
       "seriesId": "space-shuttle",
@@ -1945,12 +1945,12 @@
       "skill": "World Science",
       "question": "In NASA Space Shuttle missions, which was the last entry?",
       "options": [
-        "STS-135 (Atlantis)",
-        "STS-1 (Columbia)",
         "STS-2 (Columbia)",
-        "STS-134 (Endeavour)"
+        "STS-134 (Endeavour)",
+        "STS-135 (Atlantis)",
+        "STS-1 (Columbia)"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Final Space Shuttle mission, July 2011. Scope: Completed 1981–2011 Shuttle flight programme.",
       "kind": "Original sequence practice",
       "seriesId": "space-shuttle",
@@ -1963,12 +1963,12 @@
       "skill": "World History",
       "question": "In Five recognised Tudor monarchs, which was the first entry?",
       "options": [
-        "Mary I",
         "Elizabeth I",
         "Henry VII",
-        "Henry VIII"
+        "Henry VIII",
+        "Mary I"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "First Tudor monarch, 1485–1509. Scope: English Tudor monarchy, 1485–1603; excludes the contested nine-day reign of Lady Jane Grey.",
       "kind": "Original sequence practice",
       "seriesId": "tudor-monarchs",
@@ -1981,10 +1981,10 @@
       "skill": "World History",
       "question": "In Five recognised Tudor monarchs, which was the second entry?",
       "options": [
-        "Elizabeth I",
-        "Henry VIII",
         "Henry VII",
-        "Mary I"
+        "Henry VIII",
+        "Mary I",
+        "Elizabeth I"
       ],
       "answer": 1,
       "explanation": "Second Tudor monarch, 1509–1547. Scope: English Tudor monarchy, 1485–1603; excludes the contested nine-day reign of Lady Jane Grey.",
@@ -1999,12 +1999,12 @@
       "skill": "World History",
       "question": "In Five recognised Tudor monarchs, which was the second-last entry?",
       "options": [
-        "Mary I",
-        "Henry VII",
         "Henry VIII",
-        "Elizabeth I"
+        "Mary I",
+        "Elizabeth I",
+        "Henry VII"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Penultimate widely recognised Tudor monarch, 1553–1558. Scope: English Tudor monarchy, 1485–1603; excludes the contested nine-day reign of Lady Jane Grey.",
       "kind": "Original sequence practice",
       "seriesId": "tudor-monarchs",
@@ -2017,12 +2017,12 @@
       "skill": "World History",
       "question": "In Five recognised Tudor monarchs, which was the last entry?",
       "options": [
-        "Henry VII",
-        "Henry VIII",
         "Mary I",
-        "Elizabeth I"
+        "Elizabeth I",
+        "Henry VII",
+        "Henry VIII"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "Final Tudor monarch, 1558–1603. Scope: English Tudor monarchy, 1485–1603; excludes the contested nine-day reign of Lady Jane Grey.",
       "kind": "Original sequence practice",
       "seriesId": "tudor-monarchs",
