@@ -46,16 +46,23 @@ function setTab(tab){
 }
 function initFilters(){
  const d=state.data;
- byId("orderFilters").innerHTML=["All","First","Second","Second-last","Last"].map(p=>'<button class="pill '+(p===state.pos?"active":"")+'" data-pos="'+esc(p)+'">'+esc(p==="All"?"All positions":p)+'</button>').join("");
- byId("orderCategoryFilters").innerHTML=["All",...new Set(d.series.map(s=>s.category))].map(c=>'<button class="pill '+(c===state.category?"active":"")+'" data-ordercat="'+esc(c)+'">'+esc(c)+'</button>').join("");
+ byId("orderFilters").innerHTML=["All","First","Second","Current","Second-last","Last"].map(p=>'<button class="pill '+(p===state.pos?"active":"")+'" data-pos="'+esc(p)+'">'+esc(p==="All"?"All positions":p)+'</button>').join("");
+ byId("orderCategoryFilters").innerHTML=["All",...new Set([...d.series.map(s=>s.category),...(d.currentHighlights||[]).map(s=>s.category)])].map(c=>'<button class="pill '+(c===state.category?"active":"")+'" data-ordercat="'+esc(c)+'">'+esc(c)+'</button>').join("");
  const cats=["All",...new Set(d.questions.filter(q=>q.topic!=="First & Last GK").map(q=>q.skill))];
  byId("bankFilters").innerHTML=cats.map(c=>'<button class="pill '+(c===state.bankCategory?"active":"")+'" data-bankcat="'+esc(c)+'">'+esc(c)+'</button>').join("");
 }
 function renderOrders(){
  if(!state.data)return;
- const series=state.data.series.filter(s=>(state.category==="All"||s.category===state.category)&&s.entries.some(e=>state.pos==="All"||e.position===state.pos));
+ const series=state.data.series.filter(s=>(state.category==="All"||s.category===state.category)&&(state.pos==="Current"?!!s.current:state.pos==="All"||s.entries.some(e=>e.position===state.pos)));
  byId("orderCount").textContent=series.length+" series";
- byId("seriesList").innerHTML=series.map(s=>'<article class="card"><div class="row"><div><span class="category">'+esc(s.category)+'</span><h2>'+esc(s.title)+'</h2></div><span class="count">'+s.entries.length+' facts</span></div><p>'+esc(s.scope)+'</p><div class="factGrid">'+s.entries.filter(e=>state.pos==="All"||e.position===state.pos).map(e=>'<div class="fact"><span class="position">'+esc(e.position)+'</span><strong>'+esc(e.value)+'</strong><p>'+esc(e.note)+'</p></div>').join("")+'</div><div class="hint"><b>Memory tip:</b> '+esc(s.tip)+'</div><div class="cardFooter"><a href="'+url(s.source)+'" target="_blank" rel="noopener noreferrer">Source ↗</a>'+btn("Quiz on this topic →","series",'data-series="'+esc(s.id)+'"')+'</div></article>').join("");
+ byId("seriesList").innerHTML=series.map(s=>'<article class="card"><div class="row"><div><span class="category">'+esc(s.category)+'</span><h2>'+esc(s.title)+'</h2></div><span class="count">'+s.entries.length+' facts</span></div><p>'+esc(s.scope)+'</p><div class="factGrid">'+s.entries.filter(e=>state.pos==="All"||e.position===state.pos).map(e=>'<div class="fact"><span class="position">'+esc(e.position)+'</span><strong>'+esc(e.value)+'</strong><p>'+esc(e.note)+'</p></div>').join("")+(s.current&&(state.pos==="All"||state.pos==="Current")?'<div class="fact currentFact"><span class="position">'+(s.current.kind==="latest-event"?"Latest completed":"Current")+" · "+esc(s.current.asOf)+'</span><strong>'+esc(s.current.value)+'</strong><p>'+esc(s.current.detail)+'</p><a href="'+url(s.current.source)+'" target="_blank" rel="noopener noreferrer">Official source ↗</a></div>':"")+'</div><div class="hint"><b>Memory tip:</b> '+esc(s.tip)+'</div><div class="cardFooter"><a href="'+url(s.source)+'" target="_blank" rel="noopener noreferrer">Source ↗</a>'+btn("Quiz on this topic →","series",'data-series="'+esc(s.id)+'"')+'</div></article>').join("");
+ const currentRoot=byId("currentHighlights");
+ if(currentRoot){
+  const shown=(state.data.currentHighlights||[]).filter(x=>state.category==="All"||x.category===state.category);
+  currentRoot.classList.toggle("hidden",!(state.pos==="All"||state.pos==="Current")||shown.length===0);
+  const slot=byId("currentHighlightsList");
+  if(slot)slot.innerHTML=shown.map(x=>'<article class="fact currentFact"><span class="position">Current · '+esc(x.asOf)+'</span><h3>'+esc(x.role)+'</h3><strong>'+esc(x.value)+'</strong><p>'+esc(x.detail)+'</p><a href="'+url(x.source)+'" target="_blank" rel="noopener noreferrer">Official source ↗</a></article>').join("");
+ }
  byId("orderFilters").querySelectorAll("button").forEach(b=>b.classList.toggle("active",b.dataset.pos===state.pos));
  byId("orderCategoryFilters").querySelectorAll("button").forEach(b=>b.classList.toggle("active",b.dataset.ordercat===state.category));
 }
