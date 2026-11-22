@@ -1,0 +1,2033 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-23",
+  "basis": "RRB NTPC CEN 05/2024 syllabus and sample published 2016/2025 question papers",
+  "disclaimer": "These are ORIGINAL exam-style practice questions, NOT verified RRB previous-year questions. Sequence boundaries are explicit.",
+  "sources": [
+    "https://www.rrbcdg.gov.in/uploads/202405/Detailed%20CEN%2005-2024%20NTPC.pdf",
+    "https://cdn1.byjus.com/wp-content/uploads/2019/11/RRB-NTPC-Previous-Year-Question-Paper-2016-General-Awareness.pdf",
+    "https://cdn.qmaths.in/pdfs/rrb-ntpc-graduate-2025/cbt1/topics/v1/RRB-NTPC-Graduate-2025-CBT1-EN-General-Awareness-TopicWise.pdf"
+  ],
+  "series": [
+    {
+      "id": "un-secretaries",
+      "title": "UN Secretaries-General",
+      "category": "World Organisations",
+      "scope": "Ongoing UN office; only the first and second holders are fixed.",
+      "tip": "First Trygve Lie (Norway); second Dag Hammarskjöld (Sweden).",
+      "source": "https://www.un.org/sg/en/content/former-secretaries-general",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Trygve Lie",
+          "note": "First UN Secretary-General; Norway, 1946–1952."
+        },
+        {
+          "position": "Second",
+          "value": "Dag Hammarskjöld",
+          "note": "Second UN Secretary-General; Sweden, 1953–1961."
+        }
+      ]
+    },
+    {
+      "id": "unesco-directors",
+      "title": "UNESCO Directors-General",
+      "category": "World Organisations",
+      "scope": "Ongoing UNESCO office; the final holder is not defined.",
+      "tip": "Julian Huxley (1946–1948) → Jaime Torres Bodet (1948–1952).",
+      "source": "https://www.unesco.org/en/former-directors-general",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Julian Huxley",
+          "note": "First UNESCO Director-General, 1946–1948."
+        },
+        {
+          "position": "Second",
+          "value": "Jaime Torres Bodet",
+          "note": "Second UNESCO Director-General, 1948–1952."
+        }
+      ]
+    },
+    {
+      "id": "us-presidents",
+      "title": "United States Presidents",
+      "category": "World History",
+      "scope": "Ongoing American presidency, beginning in 1789.",
+      "tip": "Washington (1789–1797) → John Adams (1797–1801).",
+      "source": "https://www.whitehouse.gov/about-the-white-house/presidents/",
+      "entries": [
+        {
+          "position": "First",
+          "value": "George Washington",
+          "note": "First US President, 1789–1797."
+        },
+        {
+          "position": "Second",
+          "value": "John Adams",
+          "note": "Second US President, 1797–1801."
+        }
+      ]
+    },
+    {
+      "id": "olympic-hosts",
+      "title": "Modern Summer Olympics host cities",
+      "category": "World Sports",
+      "scope": "Modern Summer Olympics from 1896 onward; ongoing series.",
+      "tip": "Athens 1896 → Paris 1900; women first competed at Paris 1900.",
+      "source": "https://www.olympics.com/ioc/history",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Athens, Greece (1896)",
+          "note": "First modern Summer Olympic Games."
+        },
+        {
+          "position": "Second",
+          "value": "Paris, France (1900)",
+          "note": "Second modern Summer Olympics; first with women competitors."
+        }
+      ]
+    },
+    {
+      "id": "world-cup-winners",
+      "title": "Men's FIFA World Cup champions",
+      "category": "World Sports",
+      "scope": "Men's FIFA World Cup since 1930; ongoing event.",
+      "tip": "Uruguay won 1930; Italy won 1934.",
+      "source": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1930-1978-uruguay-italy-germany-brazil-england-argentina",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Uruguay (1930)",
+          "note": "Winner of the inaugural men's FIFA World Cup."
+        },
+        {
+          "position": "Second",
+          "value": "Italy (1934)",
+          "note": "Winner of the second men's FIFA World Cup."
+        }
+      ]
+    },
+    {
+      "id": "nobel-physics",
+      "title": "Nobel Physics award years",
+      "category": "World Science",
+      "scope": "Count award years, not separate laureates; prize continues.",
+      "tip": "1901 Röntgen; 1902 jointly Lorentz and Zeeman.",
+      "source": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Wilhelm Conrad Röntgen (1901)",
+          "note": "The first Nobel Physics award recognised X-rays."
+        },
+        {
+          "position": "Second",
+          "value": "Hendrik Lorentz and Pieter Zeeman (1902)",
+          "note": "The second Nobel Physics award was shared."
+        }
+      ]
+    },
+    {
+      "id": "human-space",
+      "title": "Humans to reach space",
+      "category": "World Science",
+      "scope": "Human spaceflight including suborbital flights; the series is ongoing.",
+      "tip": "First Gagarin (orbital); second Shepard (suborbital).",
+      "source": "https://www.nasa.gov/former-astronaut-alan-shepard/",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Yuri Gagarin (1961)",
+          "note": "First human in space, on Vostok 1, 12 April 1961."
+        },
+        {
+          "position": "Second",
+          "value": "Alan Shepard (1961)",
+          "note": "Second human in space; first American; suborbital flight, 5 May 1961."
+        }
+      ]
+    },
+    {
+      "id": "women-space",
+      "title": "Women in space",
+      "category": "World Science",
+      "scope": "Ongoing human spaceflight history.",
+      "tip": "Tereshkova (1963) → Savitskaya (1982).",
+      "source": "https://www.nasa.gov/history/sally-ride-and-valentina-tereshkova-changing-the-course-of-human-space-exploration/",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Valentina Tereshkova (1963)",
+          "note": "First woman to travel to space, on Vostok 6."
+        },
+        {
+          "position": "Second",
+          "value": "Svetlana Savitskaya (1982)",
+          "note": "Second woman in space; later first woman to perform a spacewalk."
+        }
+      ]
+    },
+    {
+      "id": "apollo-landings",
+      "title": "Apollo crewed Moon-landing missions",
+      "category": "World Science",
+      "scope": "Six completed lunar landings in the Apollo programme (1969–1972). Apollo 13 did not land.",
+      "tip": "Apollo 11, 12, 14, 15, 16, 17: the six successful landings.",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo.html",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Apollo 11 (1969)",
+          "note": "First Apollo crewed lunar landing, Armstrong and Aldrin."
+        },
+        {
+          "position": "Second",
+          "value": "Apollo 12 (1969)",
+          "note": "Second Apollo crewed lunar landing, Conrad and Bean."
+        },
+        {
+          "position": "Second-last",
+          "value": "Apollo 16 (1972)",
+          "note": "Fifth of six successful crewed Apollo lunar landings."
+        },
+        {
+          "position": "Last",
+          "value": "Apollo 17 (1972)",
+          "note": "Sixth and final Apollo crewed lunar landing."
+        }
+      ]
+    },
+    {
+      "id": "space-shuttle",
+      "title": "NASA Space Shuttle missions",
+      "category": "World Science",
+      "scope": "Completed 1981–2011 Shuttle flight programme.",
+      "tip": "First STS-1, second STS-2, penultimate STS-134, last STS-135.",
+      "source": "https://www.nasa.gov/space-shuttle/",
+      "entries": [
+        {
+          "position": "First",
+          "value": "STS-1 (Columbia)",
+          "note": "First orbital Shuttle mission, April 1981."
+        },
+        {
+          "position": "Second",
+          "value": "STS-2 (Columbia)",
+          "note": "Second orbital Shuttle mission, November 1981."
+        },
+        {
+          "position": "Second-last",
+          "value": "STS-134 (Endeavour)",
+          "note": "Penultimate Space Shuttle mission, 2011."
+        },
+        {
+          "position": "Last",
+          "value": "STS-135 (Atlantis)",
+          "note": "Final Space Shuttle mission, July 2011."
+        }
+      ]
+    },
+    {
+      "id": "tudor-monarchs",
+      "title": "Five recognised Tudor monarchs",
+      "category": "World History",
+      "scope": "English Tudor monarchy, 1485–1603; excludes the contested nine-day reign of Lady Jane Grey.",
+      "tip": "Henry VII → Henry VIII → Edward VI → Mary I → Elizabeth I.",
+      "source": "https://www.english-heritage.org.uk/learn/story-of-england/tudors/introduction/",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Henry VII",
+          "note": "First Tudor monarch, 1485–1509."
+        },
+        {
+          "position": "Second",
+          "value": "Henry VIII",
+          "note": "Second Tudor monarch, 1509–1547."
+        },
+        {
+          "position": "Second-last",
+          "value": "Mary I",
+          "note": "Penultimate widely recognised Tudor monarch, 1553–1558."
+        },
+        {
+          "position": "Last",
+          "value": "Elizabeth I",
+          "note": "Final Tudor monarch, 1558–1603."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "rrb-world-001",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "Which South American mountain chain is the world's longest continental mountain range?",
+      "options": [
+        "Andes",
+        "Alps",
+        "Rockies",
+        "Himalayas"
+      ],
+      "answer": 0,
+      "explanation": "The Andes run along the western side of South America.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-002",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "Which is the world's largest hot desert?",
+      "options": [
+        "Atacama",
+        "Sahara",
+        "Gobi",
+        "Kalahari"
+      ],
+      "answer": 1,
+      "explanation": "The Sahara in North Africa is the largest hot desert.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-003",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "What is Earth's largest desert when polar deserts are included?",
+      "options": [
+        "Arabian Desert",
+        "Gobi",
+        "Antarctic Desert",
+        "Sahara"
+      ],
+      "answer": 2,
+      "explanation": "Antarctica is the largest desert by total area because it receives little precipitation.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-004",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "Which is the smallest continent by land area?",
+      "options": [
+        "Antarctica",
+        "Europe",
+        "South America",
+        "Australia"
+      ],
+      "answer": 3,
+      "explanation": "Australia is the smallest continent.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-005",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "Which is the largest ocean on Earth?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": 0,
+      "explanation": "The Pacific is the world's largest ocean.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-006",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "The Mariana Trench is located in which ocean?",
+      "options": [
+        "Arctic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean"
+      ],
+      "answer": 1,
+      "explanation": "The Mariana Trench lies in the western Pacific Ocean.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-007",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "Which strait connects the Mediterranean Sea with the Atlantic Ocean?",
+      "options": [
+        "Bering Strait",
+        "Palk Strait",
+        "Strait of Gibraltar",
+        "Strait of Hormuz"
+      ],
+      "answer": 2,
+      "explanation": "The Strait of Gibraltar joins the Mediterranean and Atlantic.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-008",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "Which water bodies are connected by the Suez Canal?",
+      "options": [
+        "Black Sea and Caspian Sea",
+        "Atlantic Ocean and Pacific Ocean",
+        "Baltic Sea and North Sea",
+        "Mediterranean Sea and Red Sea"
+      ],
+      "answer": 3,
+      "explanation": "Egypt's Suez Canal connects the Mediterranean and Red seas.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-009",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "The Panama Canal links which oceans?",
+      "options": [
+        "Atlantic and Pacific",
+        "Indian and Pacific",
+        "Atlantic and Arctic",
+        "Indian and Southern"
+      ],
+      "answer": 0,
+      "explanation": "The Panama Canal connects Atlantic and Pacific shipping routes.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-010",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "Mount Kilimanjaro lies in which country?",
+      "options": [
+        "Uganda",
+        "Tanzania",
+        "Kenya",
+        "Ethiopia"
+      ],
+      "answer": 1,
+      "explanation": "Mount Kilimanjaro, Africa's highest mountain, is in Tanzania.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-011",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "Which continent contains the Atacama Desert?",
+      "options": [
+        "Africa",
+        "Europe",
+        "South America",
+        "Asia"
+      ],
+      "answer": 2,
+      "explanation": "The Atacama Desert is primarily in northern Chile, South America.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-012",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "Which country has Ottawa as its capital?",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "United States",
+        "Canada"
+      ],
+      "answer": 3,
+      "explanation": "Ottawa is the capital city of Canada.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-013",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "The Great Barrier Reef is off the coast of which country?",
+      "options": [
+        "Australia",
+        "Mexico",
+        "South Africa",
+        "Japan"
+      ],
+      "answer": 0,
+      "explanation": "The Great Barrier Reef lies off Queensland, Australia.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-014",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "Which lake is widely recognised as the world's deepest freshwater lake?",
+      "options": [
+        "Lake Tanganyika",
+        "Lake Baikal",
+        "Lake Victoria",
+        "Lake Superior"
+      ],
+      "answer": 1,
+      "explanation": "Lake Baikal in Siberia is the world's deepest freshwater lake.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-015",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "Which continent is crossed by both the Equator and the Tropic of Capricorn?",
+      "options": [
+        "Antarctica",
+        "North America",
+        "Africa",
+        "Europe"
+      ],
+      "answer": 2,
+      "explanation": "Africa is crossed by the Equator and the Tropic of Capricorn.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-016",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "Into which sea does the River Nile empty?",
+      "options": [
+        "Red Sea",
+        "Arabian Sea",
+        "Black Sea",
+        "Mediterranean Sea"
+      ],
+      "answer": 3,
+      "explanation": "The Nile flows north into the Mediterranean Sea.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-017",
+      "topic": "General Awareness",
+      "skill": "World Geography",
+      "question": "The Ring of Fire is chiefly associated with which ocean basin?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": 0,
+      "explanation": "The Pacific Ring of Fire is a belt of volcanic and seismic activity.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-018",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "Where is the headquarters of the United Nations?",
+      "options": [
+        "Vienna",
+        "New York City",
+        "Geneva",
+        "Paris"
+      ],
+      "answer": 1,
+      "explanation": "UN headquarters is in New York City, United States.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-019",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "Where is the headquarters of the World Health Organization?",
+      "options": [
+        "Rome",
+        "The Hague",
+        "Geneva",
+        "Paris"
+      ],
+      "answer": 2,
+      "explanation": "The WHO headquarters is in Geneva, Switzerland.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-020",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "UNESCO is headquartered in which city?",
+      "options": [
+        "New York",
+        "London",
+        "Nairobi",
+        "Paris"
+      ],
+      "answer": 3,
+      "explanation": "UNESCO headquarters is in Paris, France.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-021",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "Where is the International Court of Justice located?",
+      "options": [
+        "The Hague",
+        "Geneva",
+        "Vienna",
+        "Rome"
+      ],
+      "answer": 0,
+      "explanation": "The ICJ sits at the Peace Palace in The Hague, Netherlands.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-022",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "The International Monetary Fund is headquartered in which city?",
+      "options": [
+        "Geneva",
+        "Washington, D.C.",
+        "London",
+        "Paris"
+      ],
+      "answer": 1,
+      "explanation": "The IMF has its headquarters in Washington, D.C.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-023",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "Which city hosts the headquarters of the World Trade Organization?",
+      "options": [
+        "New York",
+        "Brussels",
+        "Geneva",
+        "Rome"
+      ],
+      "answer": 2,
+      "explanation": "The WTO is headquartered in Geneva, Switzerland.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-024",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "Where is the headquarters of the Food and Agriculture Organization?",
+      "options": [
+        "Geneva",
+        "Paris",
+        "Vienna",
+        "Rome"
+      ],
+      "answer": 3,
+      "explanation": "The FAO is based in Rome, Italy.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-025",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "Where is the headquarters of the International Labour Organization?",
+      "options": [
+        "Geneva",
+        "New York",
+        "The Hague",
+        "Berlin"
+      ],
+      "answer": 0,
+      "explanation": "The ILO headquarters is in Geneva, Switzerland.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-026",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "How many permanent members does the UN Security Council have?",
+      "options": [
+        "Ten",
+        "Five",
+        "Four",
+        "Six"
+      ],
+      "answer": 1,
+      "explanation": "China, France, Russia, the United Kingdom and the United States are permanent members.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-027",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "Which organization is the UN's principal judicial organ?",
+      "options": [
+        "Permanent Court of Arbitration",
+        "World Trade Organization",
+        "International Court of Justice",
+        "International Criminal Court"
+      ],
+      "answer": 2,
+      "explanation": "The ICJ is the principal judicial organ of the United Nations.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-028",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "The ASEAN Secretariat is located in which city?",
+      "options": [
+        "Bangkok",
+        "Manila",
+        "Hanoi",
+        "Jakarta"
+      ],
+      "answer": 3,
+      "explanation": "ASEAN's Secretariat is based in Jakarta, Indonesia.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-029",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "Where is the SAARC Secretariat headquartered?",
+      "options": [
+        "Kathmandu",
+        "New Delhi",
+        "Dhaka",
+        "Colombo"
+      ],
+      "answer": 0,
+      "explanation": "SAARC's Secretariat is in Kathmandu, Nepal.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-030",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "The International Atomic Energy Agency is based in which city?",
+      "options": [
+        "Copenhagen",
+        "Vienna",
+        "Geneva",
+        "Washington, D.C."
+      ],
+      "answer": 1,
+      "explanation": "IAEA headquarters is in Vienna, Austria.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-031",
+      "topic": "General Awareness",
+      "skill": "World Organisations",
+      "question": "UNICEF is mainly associated with which field?",
+      "options": [
+        "Ocean shipping",
+        "Civil aviation regulation",
+        "Children's welfare",
+        "International trade disputes"
+      ],
+      "answer": 2,
+      "explanation": "UNICEF supports children's rights and welfare worldwide.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-032",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which SI unit measures force?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Pascal",
+        "Newton"
+      ],
+      "answer": 3,
+      "explanation": "Force is measured in newtons (N).",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-033",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which SI unit measures power?",
+      "options": [
+        "Watt",
+        "Volt",
+        "Ampere",
+        "Ohm"
+      ],
+      "answer": 0,
+      "explanation": "Power is measured in watts.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-034",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which law is represented by V = IR?",
+      "options": [
+        "Boyle's law",
+        "Ohm's law",
+        "Newton's second law",
+        "Hooke's law"
+      ],
+      "answer": 1,
+      "explanation": "Ohm's law relates voltage, current and resistance.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-035",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which device measures atmospheric pressure?",
+      "options": [
+        "Thermometer",
+        "Anemometer",
+        "Barometer",
+        "Hygrometer"
+      ],
+      "answer": 2,
+      "explanation": "A barometer measures atmospheric pressure.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-036",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which lens is used to correct myopia (short-sightedness)?",
+      "options": [
+        "Convex lens",
+        "Cylindrical lens",
+        "Bifocal-only lens",
+        "Concave lens"
+      ],
+      "answer": 3,
+      "explanation": "A diverging, concave lens is used to correct myopia.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-037",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which gas is most abundant in Earth's dry atmosphere?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": 0,
+      "explanation": "Nitrogen accounts for about 78% of dry air.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-038",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which pigment is essential to capture light for photosynthesis?",
+      "options": [
+        "Keratin",
+        "Chlorophyll",
+        "Melanin",
+        "Haemoglobin"
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll absorbs light used for photosynthesis.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-039",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which cell organelle is the main site of aerobic ATP production?",
+      "options": [
+        "Golgi apparatus",
+        "Ribosome",
+        "Mitochondrion",
+        "Nucleus"
+      ],
+      "answer": 2,
+      "explanation": "Mitochondria produce most ATP during aerobic respiration.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-040",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "A deficiency of which vitamin causes beriberi?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B1"
+      ],
+      "answer": 3,
+      "explanation": "Beriberi results from thiamine (vitamin B1) deficiency.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-041",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which vitamin deficiency is associated with scurvy?",
+      "options": [
+        "Vitamin C",
+        "Vitamin B12",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": 0,
+      "explanation": "Scurvy results from vitamin C deficiency.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-042",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "What is the pH of a neutral aqueous solution at 25°C?",
+      "options": [
+        "14",
+        "7",
+        "1",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "Pure water is neutral at pH 7 at 25°C.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-043",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which ion is responsible for acidic properties in aqueous solutions?",
+      "options": [
+        "Sodium ion",
+        "Calcium ion",
+        "Hydrogen ion",
+        "Chloride ion"
+      ],
+      "answer": 2,
+      "explanation": "Acids increase H+ (or hydronium, H3O+) in aqueous solutions.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-044",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Sound waves cannot travel through which medium?",
+      "options": [
+        "Air",
+        "Water",
+        "Steel",
+        "Vacuum"
+      ],
+      "answer": 3,
+      "explanation": "Sound requires matter through which to propagate.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-045",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "What happens to wavelength when frequency increases at constant wave speed?",
+      "options": [
+        "It decreases",
+        "It increases",
+        "It does not change",
+        "It becomes zero"
+      ],
+      "answer": 0,
+      "explanation": "At constant speed, wavelength = speed / frequency.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-046",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which scientist discovered the electron?",
+      "options": [
+        "Niels Bohr",
+        "J. J. Thomson",
+        "Ernest Rutherford",
+        "James Chadwick"
+      ],
+      "answer": 1,
+      "explanation": "J. J. Thomson identified the electron in cathode-ray experiments.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-047",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which element has atomic number 6?",
+      "options": [
+        "Oxygen",
+        "Boron",
+        "Carbon",
+        "Nitrogen"
+      ],
+      "answer": 2,
+      "explanation": "Carbon has six protons and atomic number 6.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-048",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "What is the molecular formula of glucose?",
+      "options": [
+        "CO2",
+        "CH4",
+        "C2H5OH",
+        "C6H12O6"
+      ],
+      "answer": 3,
+      "explanation": "Glucose has the molecular formula C6H12O6.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-049",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "Which tissue transports water upward in vascular plants?",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Parenchyma",
+        "Epidermis"
+      ],
+      "answer": 0,
+      "explanation": "Xylem conducts water and dissolved minerals.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-050",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "The ozone layer is primarily found in which atmospheric layer?",
+      "options": [
+        "Thermosphere",
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere"
+      ],
+      "answer": 1,
+      "explanation": "Most atmospheric ozone is concentrated in the stratosphere.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-051",
+      "topic": "General Awareness",
+      "skill": "World Science",
+      "question": "What is the approximate speed of light in vacuum?",
+      "options": [
+        "340 m/s",
+        "1.5 × 10^6 m/s",
+        "3 × 10^8 m/s",
+        "3 × 10^6 m/s"
+      ],
+      "answer": 2,
+      "explanation": "Light travels at roughly 300,000 km/s in vacuum.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-052",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "What does CPU stand for?",
+      "options": [
+        "Computer Primary Unit",
+        "Central Program Utility",
+        "Control Processing Utility",
+        "Central Processing Unit"
+      ],
+      "answer": 3,
+      "explanation": "The CPU is the main processing hardware of a computer.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-053",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "What does BIOS stand for?",
+      "options": [
+        "Basic Input/Output System",
+        "Binary Internal Operating Storage",
+        "Basic Internet Operating Server",
+        "Built-In Operating Software"
+      ],
+      "answer": 0,
+      "explanation": "BIOS is firmware used in hardware initialization and boot.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-054",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "What does LAN stand for?",
+      "options": [
+        "Limited Internet Area",
+        "Local Area Network",
+        "Long Access Node",
+        "Linked Area Number"
+      ],
+      "answer": 1,
+      "explanation": "A LAN connects devices over a limited local area.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-055",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "What does URL stand for?",
+      "options": [
+        "Unique Record Login",
+        "Uniform Remote Language",
+        "Uniform Resource Locator",
+        "Universal Route Link"
+      ],
+      "answer": 2,
+      "explanation": "A URL identifies a resource's location on a network.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-056",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "Which Windows keyboard shortcut closes the active application window?",
+      "options": [
+        "Ctrl + C",
+        "Alt + Tab",
+        "Ctrl + Z",
+        "Alt + F4"
+      ],
+      "answer": 3,
+      "explanation": "Alt+F4 closes the currently active window/application.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-057",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "Which Windows shortcut switches between open applications?",
+      "options": [
+        "Alt + Tab",
+        "Ctrl + A",
+        "Ctrl + S",
+        "Win + L"
+      ],
+      "answer": 0,
+      "explanation": "Alt+Tab switches between open windows.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-058",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "Which type of computer memory normally loses data when power is off?",
+      "options": [
+        "Flash storage",
+        "RAM",
+        "ROM",
+        "SSD"
+      ],
+      "answer": 1,
+      "explanation": "Random-access memory is typically volatile.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-059",
+      "topic": "General Awareness",
+      "skill": "Computers",
+      "question": "Which file format is used for fixed-layout electronic documents?",
+      "options": [
+        "BMP",
+        "EXE",
+        "PDF",
+        "CSV"
+      ],
+      "answer": 2,
+      "explanation": "Portable Document Format is used for fixed-layout documents.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-060",
+      "topic": "General Awareness",
+      "skill": "World History",
+      "question": "In which year did the French Revolution begin?",
+      "options": [
+        "1776",
+        "1815",
+        "1917",
+        "1789"
+      ],
+      "answer": 3,
+      "explanation": "The French Revolution began in 1789.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-061",
+      "topic": "General Awareness",
+      "skill": "World History",
+      "question": "The Magna Carta was sealed in England in which year?",
+      "options": [
+        "1215",
+        "1066",
+        "1492",
+        "1688"
+      ],
+      "answer": 0,
+      "explanation": "King John sealed Magna Carta in 1215.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-062",
+      "topic": "General Awareness",
+      "skill": "World History",
+      "question": "Which country is generally considered the birthplace of the Industrial Revolution?",
+      "options": [
+        "Japan",
+        "Great Britain",
+        "Spain",
+        "Russia"
+      ],
+      "answer": 1,
+      "explanation": "Industrialization began in Britain in the eighteenth century.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-063",
+      "topic": "General Awareness",
+      "skill": "World History",
+      "question": "In which year did the First World War begin?",
+      "options": [
+        "1939",
+        "1945",
+        "1914",
+        "1905"
+      ],
+      "answer": 2,
+      "explanation": "World War I began in 1914.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-064",
+      "topic": "General Awareness",
+      "skill": "World History",
+      "question": "In which year did the Second World War end?",
+      "options": [
+        "1918",
+        "1939",
+        "1955",
+        "1945"
+      ],
+      "answer": 3,
+      "explanation": "World War II ended in 1945.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-065",
+      "topic": "General Awareness",
+      "skill": "World History",
+      "question": "In what year did the Berlin Wall fall?",
+      "options": [
+        "1989",
+        "1979",
+        "1991",
+        "1961"
+      ],
+      "answer": 0,
+      "explanation": "The Berlin Wall opened in November 1989.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-066",
+      "topic": "General Awareness",
+      "skill": "World History",
+      "question": "Who is widely associated with the European movable-type printing press?",
+      "options": [
+        "Isaac Newton",
+        "Johannes Gutenberg",
+        "Leonardo da Vinci",
+        "Galileo Galilei"
+      ],
+      "answer": 1,
+      "explanation": "Gutenberg developed movable-type printing technology in Europe.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-067",
+      "topic": "General Awareness",
+      "skill": "World History",
+      "question": "Which country is most closely associated with the beginning of the European Renaissance?",
+      "options": [
+        "Russia",
+        "Finland",
+        "Italy",
+        "Norway"
+      ],
+      "answer": 2,
+      "explanation": "The European Renaissance began in Italian city-states.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-068",
+      "topic": "General Awareness",
+      "skill": "World Sports",
+      "question": "Which national teams played the first recognised international cricket match in 1844?",
+      "options": [
+        "England and Australia",
+        "India and England",
+        "Australia and New Zealand",
+        "United States and Canada"
+      ],
+      "answer": 3,
+      "explanation": "The 1844 match was played by the United States and Canada.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-069",
+      "topic": "General Awareness",
+      "skill": "World Sports",
+      "question": "Which country won the inaugural men's FIFA World Cup in 1930?",
+      "options": [
+        "Uruguay",
+        "Italy",
+        "Brazil",
+        "Argentina"
+      ],
+      "answer": 0,
+      "explanation": "Uruguay hosted and won the first men's FIFA World Cup.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-070",
+      "topic": "General Awareness",
+      "skill": "World Sports",
+      "question": "Which city hosted the first modern Summer Olympics in 1896?",
+      "options": [
+        "Stockholm",
+        "Athens",
+        "Paris",
+        "London"
+      ],
+      "answer": 1,
+      "explanation": "The first modern Summer Olympics were held in Athens, Greece.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-071",
+      "topic": "General Awareness",
+      "skill": "World Sports",
+      "question": "At which Summer Olympics did women first compete?",
+      "options": [
+        "London 1908",
+        "Berlin 1936",
+        "Paris 1900",
+        "Athens 1896"
+      ],
+      "answer": 2,
+      "explanation": "Women first participated in the 1900 Paris Games.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-072",
+      "topic": "General Awareness",
+      "skill": "World Sports",
+      "question": "Which surface is used at Wimbledon tennis championships?",
+      "options": [
+        "Clay",
+        "Hardcourt",
+        "Carpet",
+        "Grass"
+      ],
+      "answer": 3,
+      "explanation": "Wimbledon is traditionally played on grass courts.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-073",
+      "topic": "General Awareness",
+      "skill": "World Sports",
+      "question": "Which national team won the 2022 men's FIFA World Cup?",
+      "options": [
+        "Argentina",
+        "France",
+        "Croatia",
+        "Brazil"
+      ],
+      "answer": 0,
+      "explanation": "Argentina won the 2022 tournament in Qatar.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-074",
+      "topic": "General Awareness",
+      "skill": "Environment",
+      "question": "Which international agreement was adopted in 2015 to address climate change?",
+      "options": [
+        "CITES",
+        "Paris Agreement",
+        "Montreal Protocol",
+        "Ramsar Convention"
+      ],
+      "answer": 1,
+      "explanation": "The Paris Agreement was adopted at COP21 in 2015.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-075",
+      "topic": "General Awareness",
+      "skill": "Environment",
+      "question": "Which treaty aims to protect the ozone layer by phasing out ozone-depleting substances?",
+      "options": [
+        "Ramsar Convention",
+        "Basel Convention",
+        "Montreal Protocol",
+        "Kyoto Protocol"
+      ],
+      "answer": 2,
+      "explanation": "The 1987 Montreal Protocol addresses ozone-depleting substances.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-076",
+      "topic": "General Awareness",
+      "skill": "Environment",
+      "question": "Which international convention focuses on wetland conservation?",
+      "options": [
+        "CITES",
+        "UNFCCC",
+        "CBD",
+        "Ramsar Convention"
+      ],
+      "answer": 3,
+      "explanation": "The Ramsar Convention protects wetlands of international importance.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "rrb-world-077",
+      "topic": "General Awareness",
+      "skill": "Environment",
+      "question": "Which convention regulates international trade in endangered wildlife species?",
+      "options": [
+        "CITES",
+        "Paris Agreement",
+        "Montreal Protocol",
+        "UNCLOS"
+      ],
+      "answer": 0,
+      "explanation": "CITES regulates international trade in listed wild fauna and flora.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-078",
+      "topic": "General Awareness",
+      "skill": "Environment",
+      "question": "Which is the principal greenhouse gas emitted from burning fossil fuels?",
+      "options": [
+        "Helium",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "answer": 1,
+      "explanation": "Fossil-fuel combustion emits carbon dioxide.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-world-079",
+      "topic": "General Awareness",
+      "skill": "Environment",
+      "question": "What is a main cause of ocean acidification?",
+      "options": [
+        "Salinity from rain",
+        "Volcanic ash only",
+        "Absorption of carbon dioxide",
+        "Increased nitrogen gas"
+      ],
+      "answer": 2,
+      "explanation": "Seawater absorbs atmospheric CO2, forming carbonic acid.",
+      "kind": "Original RRB-pattern practice",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "rrb-order-un-secretaries-first",
+      "topic": "First & Last GK",
+      "skill": "World Organisations",
+      "question": "In UN Secretaries-General, which was the first entry?",
+      "options": [
+        "George Washington",
+        "Yuri Gagarin",
+        "Trygve Lie",
+        "Dag Hammarskjöld"
+      ],
+      "answer": 2,
+      "explanation": "First UN Secretary-General; Norway, 1946–1952. Scope: Ongoing UN office; only the first and second holders are fixed.",
+      "kind": "Original sequence practice",
+      "seriesId": "un-secretaries",
+      "position": "First",
+      "source": "https://www.un.org/sg/en/content/former-secretaries-general"
+    },
+    {
+      "id": "rrb-order-un-secretaries-second",
+      "topic": "First & Last GK",
+      "skill": "World Organisations",
+      "question": "In UN Secretaries-General, which was the second entry?",
+      "options": [
+        "Yuri Gagarin",
+        "Dag Hammarskjöld",
+        "Trygve Lie",
+        "George Washington"
+      ],
+      "answer": 1,
+      "explanation": "Second UN Secretary-General; Sweden, 1953–1961. Scope: Ongoing UN office; only the first and second holders are fixed.",
+      "kind": "Original sequence practice",
+      "seriesId": "un-secretaries",
+      "position": "Second",
+      "source": "https://www.un.org/sg/en/content/former-secretaries-general"
+    },
+    {
+      "id": "rrb-order-unesco-directors-first",
+      "topic": "First & Last GK",
+      "skill": "World Organisations",
+      "question": "In UNESCO Directors-General, which was the first entry?",
+      "options": [
+        "Julian Huxley",
+        "Jaime Torres Bodet",
+        "George Washington",
+        "Yuri Gagarin"
+      ],
+      "answer": 0,
+      "explanation": "First UNESCO Director-General, 1946–1948. Scope: Ongoing UNESCO office; the final holder is not defined.",
+      "kind": "Original sequence practice",
+      "seriesId": "unesco-directors",
+      "position": "First",
+      "source": "https://www.unesco.org/en/former-directors-general"
+    },
+    {
+      "id": "rrb-order-unesco-directors-second",
+      "topic": "First & Last GK",
+      "skill": "World Organisations",
+      "question": "In UNESCO Directors-General, which was the second entry?",
+      "options": [
+        "Julian Huxley",
+        "George Washington",
+        "Yuri Gagarin",
+        "Jaime Torres Bodet"
+      ],
+      "answer": 3,
+      "explanation": "Second UNESCO Director-General, 1948–1952. Scope: Ongoing UNESCO office; the final holder is not defined.",
+      "kind": "Original sequence practice",
+      "seriesId": "unesco-directors",
+      "position": "Second",
+      "source": "https://www.unesco.org/en/former-directors-general"
+    },
+    {
+      "id": "rrb-order-us-presidents-first",
+      "topic": "First & Last GK",
+      "skill": "World History",
+      "question": "In United States Presidents, which was the first entry?",
+      "options": [
+        "John Adams",
+        "Yuri Gagarin",
+        "STS-1 (Columbia)",
+        "George Washington"
+      ],
+      "answer": 3,
+      "explanation": "First US President, 1789–1797. Scope: Ongoing American presidency, beginning in 1789.",
+      "kind": "Original sequence practice",
+      "seriesId": "us-presidents",
+      "position": "First",
+      "source": "https://www.whitehouse.gov/about-the-white-house/presidents/"
+    },
+    {
+      "id": "rrb-order-us-presidents-second",
+      "topic": "First & Last GK",
+      "skill": "World History",
+      "question": "In United States Presidents, which was the second entry?",
+      "options": [
+        "Yuri Gagarin",
+        "STS-1 (Columbia)",
+        "John Adams",
+        "George Washington"
+      ],
+      "answer": 2,
+      "explanation": "Second US President, 1797–1801. Scope: Ongoing American presidency, beginning in 1789.",
+      "kind": "Original sequence practice",
+      "seriesId": "us-presidents",
+      "position": "Second",
+      "source": "https://www.whitehouse.gov/about-the-white-house/presidents/"
+    },
+    {
+      "id": "rrb-order-olympic-hosts-first",
+      "topic": "First & Last GK",
+      "skill": "World Sports",
+      "question": "In Modern Summer Olympics host cities, which was the first entry?",
+      "options": [
+        "Paris, France (1900)",
+        "George Washington",
+        "Yuri Gagarin",
+        "Athens, Greece (1896)"
+      ],
+      "answer": 3,
+      "explanation": "First modern Summer Olympic Games. Scope: Modern Summer Olympics from 1896 onward; ongoing series.",
+      "kind": "Original sequence practice",
+      "seriesId": "olympic-hosts",
+      "position": "First",
+      "source": "https://www.olympics.com/ioc/history"
+    },
+    {
+      "id": "rrb-order-olympic-hosts-second",
+      "topic": "First & Last GK",
+      "skill": "World Sports",
+      "question": "In Modern Summer Olympics host cities, which was the second entry?",
+      "options": [
+        "George Washington",
+        "Yuri Gagarin",
+        "Paris, France (1900)",
+        "Athens, Greece (1896)"
+      ],
+      "answer": 2,
+      "explanation": "Second modern Summer Olympics; first with women competitors. Scope: Modern Summer Olympics from 1896 onward; ongoing series.",
+      "kind": "Original sequence practice",
+      "seriesId": "olympic-hosts",
+      "position": "Second",
+      "source": "https://www.olympics.com/ioc/history"
+    },
+    {
+      "id": "rrb-order-world-cup-winners-first",
+      "topic": "First & Last GK",
+      "skill": "World Sports",
+      "question": "In Men's FIFA World Cup champions, which was the first entry?",
+      "options": [
+        "Italy (1934)",
+        "George Washington",
+        "Yuri Gagarin",
+        "Uruguay (1930)"
+      ],
+      "answer": 3,
+      "explanation": "Winner of the inaugural men's FIFA World Cup. Scope: Men's FIFA World Cup since 1930; ongoing event.",
+      "kind": "Original sequence practice",
+      "seriesId": "world-cup-winners",
+      "position": "First",
+      "source": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1930-1978-uruguay-italy-germany-brazil-england-argentina"
+    },
+    {
+      "id": "rrb-order-world-cup-winners-second",
+      "topic": "First & Last GK",
+      "skill": "World Sports",
+      "question": "In Men's FIFA World Cup champions, which was the second entry?",
+      "options": [
+        "George Washington",
+        "Yuri Gagarin",
+        "Italy (1934)",
+        "Uruguay (1930)"
+      ],
+      "answer": 2,
+      "explanation": "Winner of the second men's FIFA World Cup. Scope: Men's FIFA World Cup since 1930; ongoing event.",
+      "kind": "Original sequence practice",
+      "seriesId": "world-cup-winners",
+      "position": "Second",
+      "source": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1930-1978-uruguay-italy-germany-brazil-england-argentina"
+    },
+    {
+      "id": "rrb-order-nobel-physics-first",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In Nobel Physics award years, which was the first entry?",
+      "options": [
+        "Hendrik Lorentz and Pieter Zeeman (1902)",
+        "George Washington",
+        "Yuri Gagarin",
+        "Wilhelm Conrad Röntgen (1901)"
+      ],
+      "answer": 3,
+      "explanation": "The first Nobel Physics award recognised X-rays. Scope: Count award years, not separate laureates; prize continues.",
+      "kind": "Original sequence practice",
+      "seriesId": "nobel-physics",
+      "position": "First",
+      "source": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/"
+    },
+    {
+      "id": "rrb-order-nobel-physics-second",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In Nobel Physics award years, which was the second entry?",
+      "options": [
+        "George Washington",
+        "Yuri Gagarin",
+        "Hendrik Lorentz and Pieter Zeeman (1902)",
+        "Wilhelm Conrad Röntgen (1901)"
+      ],
+      "answer": 2,
+      "explanation": "The second Nobel Physics award was shared. Scope: Count award years, not separate laureates; prize continues.",
+      "kind": "Original sequence practice",
+      "seriesId": "nobel-physics",
+      "position": "Second",
+      "source": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/"
+    },
+    {
+      "id": "rrb-order-human-space-first",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In Humans to reach space, which was the first entry?",
+      "options": [
+        "Yuri Gagarin",
+        "Yuri Gagarin (1961)",
+        "Alan Shepard (1961)",
+        "George Washington"
+      ],
+      "answer": 1,
+      "explanation": "First human in space, on Vostok 1, 12 April 1961. Scope: Human spaceflight including suborbital flights; the series is ongoing.",
+      "kind": "Original sequence practice",
+      "seriesId": "human-space",
+      "position": "First",
+      "source": "https://www.nasa.gov/former-astronaut-alan-shepard/"
+    },
+    {
+      "id": "rrb-order-human-space-second",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In Humans to reach space, which was the second entry?",
+      "options": [
+        "Alan Shepard (1961)",
+        "Yuri Gagarin (1961)",
+        "George Washington",
+        "Yuri Gagarin"
+      ],
+      "answer": 0,
+      "explanation": "Second human in space; first American; suborbital flight, 5 May 1961. Scope: Human spaceflight including suborbital flights; the series is ongoing.",
+      "kind": "Original sequence practice",
+      "seriesId": "human-space",
+      "position": "Second",
+      "source": "https://www.nasa.gov/former-astronaut-alan-shepard/"
+    },
+    {
+      "id": "rrb-order-women-space-first",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In Women in space, which was the first entry?",
+      "options": [
+        "Yuri Gagarin",
+        "Valentina Tereshkova (1963)",
+        "Svetlana Savitskaya (1982)",
+        "George Washington"
+      ],
+      "answer": 1,
+      "explanation": "First woman to travel to space, on Vostok 6. Scope: Ongoing human spaceflight history.",
+      "kind": "Original sequence practice",
+      "seriesId": "women-space",
+      "position": "First",
+      "source": "https://www.nasa.gov/history/sally-ride-and-valentina-tereshkova-changing-the-course-of-human-space-exploration/"
+    },
+    {
+      "id": "rrb-order-women-space-second",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In Women in space, which was the second entry?",
+      "options": [
+        "Svetlana Savitskaya (1982)",
+        "Valentina Tereshkova (1963)",
+        "George Washington",
+        "Yuri Gagarin"
+      ],
+      "answer": 0,
+      "explanation": "Second woman in space; later first woman to perform a spacewalk. Scope: Ongoing human spaceflight history.",
+      "kind": "Original sequence practice",
+      "seriesId": "women-space",
+      "position": "Second",
+      "source": "https://www.nasa.gov/history/sally-ride-and-valentina-tereshkova-changing-the-course-of-human-space-exploration/"
+    },
+    {
+      "id": "rrb-order-apollo-landings-first",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In Apollo crewed Moon-landing missions, which was the first entry?",
+      "options": [
+        "Apollo 17 (1972)",
+        "Apollo 11 (1969)",
+        "Apollo 12 (1969)",
+        "Apollo 16 (1972)"
+      ],
+      "answer": 1,
+      "explanation": "First Apollo crewed lunar landing, Armstrong and Aldrin. Scope: Six completed lunar landings in the Apollo programme (1969–1972). Apollo 13 did not land.",
+      "kind": "Original sequence practice",
+      "seriesId": "apollo-landings",
+      "position": "First",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo.html"
+    },
+    {
+      "id": "rrb-order-apollo-landings-second",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In Apollo crewed Moon-landing missions, which was the second entry?",
+      "options": [
+        "Apollo 12 (1969)",
+        "Apollo 11 (1969)",
+        "Apollo 16 (1972)",
+        "Apollo 17 (1972)"
+      ],
+      "answer": 0,
+      "explanation": "Second Apollo crewed lunar landing, Conrad and Bean. Scope: Six completed lunar landings in the Apollo programme (1969–1972). Apollo 13 did not land.",
+      "kind": "Original sequence practice",
+      "seriesId": "apollo-landings",
+      "position": "Second",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo.html"
+    },
+    {
+      "id": "rrb-order-apollo-landings-secondlast",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In Apollo crewed Moon-landing missions, which was the second-last entry?",
+      "options": [
+        "Apollo 11 (1969)",
+        "Apollo 12 (1969)",
+        "Apollo 17 (1972)",
+        "Apollo 16 (1972)"
+      ],
+      "answer": 3,
+      "explanation": "Fifth of six successful crewed Apollo lunar landings. Scope: Six completed lunar landings in the Apollo programme (1969–1972). Apollo 13 did not land.",
+      "kind": "Original sequence practice",
+      "seriesId": "apollo-landings",
+      "position": "Second-last",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo.html"
+    },
+    {
+      "id": "rrb-order-apollo-landings-last",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In Apollo crewed Moon-landing missions, which was the last entry?",
+      "options": [
+        "Apollo 12 (1969)",
+        "Apollo 16 (1972)",
+        "Apollo 17 (1972)",
+        "Apollo 11 (1969)"
+      ],
+      "answer": 2,
+      "explanation": "Sixth and final Apollo crewed lunar landing. Scope: Six completed lunar landings in the Apollo programme (1969–1972). Apollo 13 did not land.",
+      "kind": "Original sequence practice",
+      "seriesId": "apollo-landings",
+      "position": "Last",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo.html"
+    },
+    {
+      "id": "rrb-order-space-shuttle-first",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In NASA Space Shuttle missions, which was the first entry?",
+      "options": [
+        "STS-2 (Columbia)",
+        "STS-134 (Endeavour)",
+        "STS-135 (Atlantis)",
+        "STS-1 (Columbia)"
+      ],
+      "answer": 3,
+      "explanation": "First orbital Shuttle mission, April 1981. Scope: Completed 1981–2011 Shuttle flight programme.",
+      "kind": "Original sequence practice",
+      "seriesId": "space-shuttle",
+      "position": "First",
+      "source": "https://www.nasa.gov/space-shuttle/"
+    },
+    {
+      "id": "rrb-order-space-shuttle-second",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In NASA Space Shuttle missions, which was the second entry?",
+      "options": [
+        "STS-134 (Endeavour)",
+        "STS-135 (Atlantis)",
+        "STS-2 (Columbia)",
+        "STS-1 (Columbia)"
+      ],
+      "answer": 2,
+      "explanation": "Second orbital Shuttle mission, November 1981. Scope: Completed 1981–2011 Shuttle flight programme.",
+      "kind": "Original sequence practice",
+      "seriesId": "space-shuttle",
+      "position": "Second",
+      "source": "https://www.nasa.gov/space-shuttle/"
+    },
+    {
+      "id": "rrb-order-space-shuttle-secondlast",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In NASA Space Shuttle missions, which was the second-last entry?",
+      "options": [
+        "STS-135 (Atlantis)",
+        "STS-134 (Endeavour)",
+        "STS-1 (Columbia)",
+        "STS-2 (Columbia)"
+      ],
+      "answer": 1,
+      "explanation": "Penultimate Space Shuttle mission, 2011. Scope: Completed 1981–2011 Shuttle flight programme.",
+      "kind": "Original sequence practice",
+      "seriesId": "space-shuttle",
+      "position": "Second-last",
+      "source": "https://www.nasa.gov/space-shuttle/"
+    },
+    {
+      "id": "rrb-order-space-shuttle-last",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "In NASA Space Shuttle missions, which was the last entry?",
+      "options": [
+        "STS-135 (Atlantis)",
+        "STS-1 (Columbia)",
+        "STS-2 (Columbia)",
+        "STS-134 (Endeavour)"
+      ],
+      "answer": 0,
+      "explanation": "Final Space Shuttle mission, July 2011. Scope: Completed 1981–2011 Shuttle flight programme.",
+      "kind": "Original sequence practice",
+      "seriesId": "space-shuttle",
+      "position": "Last",
+      "source": "https://www.nasa.gov/space-shuttle/"
+    },
+    {
+      "id": "rrb-order-tudor-monarchs-first",
+      "topic": "First & Last GK",
+      "skill": "World History",
+      "question": "In Five recognised Tudor monarchs, which was the first entry?",
+      "options": [
+        "Mary I",
+        "Elizabeth I",
+        "Henry VII",
+        "Henry VIII"
+      ],
+      "answer": 2,
+      "explanation": "First Tudor monarch, 1485–1509. Scope: English Tudor monarchy, 1485–1603; excludes the contested nine-day reign of Lady Jane Grey.",
+      "kind": "Original sequence practice",
+      "seriesId": "tudor-monarchs",
+      "position": "First",
+      "source": "https://www.english-heritage.org.uk/learn/story-of-england/tudors/introduction/"
+    },
+    {
+      "id": "rrb-order-tudor-monarchs-second",
+      "topic": "First & Last GK",
+      "skill": "World History",
+      "question": "In Five recognised Tudor monarchs, which was the second entry?",
+      "options": [
+        "Elizabeth I",
+        "Henry VIII",
+        "Henry VII",
+        "Mary I"
+      ],
+      "answer": 1,
+      "explanation": "Second Tudor monarch, 1509–1547. Scope: English Tudor monarchy, 1485–1603; excludes the contested nine-day reign of Lady Jane Grey.",
+      "kind": "Original sequence practice",
+      "seriesId": "tudor-monarchs",
+      "position": "Second",
+      "source": "https://www.english-heritage.org.uk/learn/story-of-england/tudors/introduction/"
+    },
+    {
+      "id": "rrb-order-tudor-monarchs-secondlast",
+      "topic": "First & Last GK",
+      "skill": "World History",
+      "question": "In Five recognised Tudor monarchs, which was the second-last entry?",
+      "options": [
+        "Mary I",
+        "Henry VII",
+        "Henry VIII",
+        "Elizabeth I"
+      ],
+      "answer": 0,
+      "explanation": "Penultimate widely recognised Tudor monarch, 1553–1558. Scope: English Tudor monarchy, 1485–1603; excludes the contested nine-day reign of Lady Jane Grey.",
+      "kind": "Original sequence practice",
+      "seriesId": "tudor-monarchs",
+      "position": "Second-last",
+      "source": "https://www.english-heritage.org.uk/learn/story-of-england/tudors/introduction/"
+    },
+    {
+      "id": "rrb-order-tudor-monarchs-last",
+      "topic": "First & Last GK",
+      "skill": "World History",
+      "question": "In Five recognised Tudor monarchs, which was the last entry?",
+      "options": [
+        "Henry VII",
+        "Henry VIII",
+        "Mary I",
+        "Elizabeth I"
+      ],
+      "answer": 3,
+      "explanation": "Final Tudor monarch, 1558–1603. Scope: English Tudor monarchy, 1485–1603; excludes the contested nine-day reign of Lady Jane Grey.",
+      "kind": "Original sequence practice",
+      "seriesId": "tudor-monarchs",
+      "position": "Last",
+      "source": "https://www.english-heritage.org.uk/learn/story-of-england/tudors/introduction/"
+    }
+  ]
+}
