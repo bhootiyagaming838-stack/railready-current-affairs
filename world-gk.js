@@ -74,16 +74,17 @@ function selectBalanced(data,india){
  const world=data.questions.filter(q=>q.topic!=="First & Last GK");
  const seq=data.questions.filter(q=>q.topic==="First & Last GK");
  const plan=[
-  [world.filter(q=>q.skill==="World Science"),7],
-  [india.filter(q=>q.skill==="Polity"||q.skill==="History"),7],
-  [[...world.filter(q=>q.skill==="World Geography"),...india.filter(q=>q.skill==="Geography")],6],
-  [world.filter(q=>q.skill==="Computers"),4],
-  [world.filter(q=>q.skill==="World Organisations"),3],
+  [india.filter(q=>q.skill==="Polity"||q.skill==="History"),12],
+  [world.filter(q=>q.skill==="World Science"),8],
+  [india.filter(q=>q.skill==="Geography"),4],
+  [world.filter(q=>q.skill==="World Geography"),2],
+  [world.filter(q=>q.skill==="Computers"),3],
   [india.filter(q=>q.skill==="Economy"),3],
-  [world.filter(q=>q.skill==="World History"),2],
-  [world.filter(q=>q.skill==="World Sports"),2],
+  [world.filter(q=>q.skill==="World Organisations"),2],
+  [world.filter(q=>q.skill==="World History"),1],
+  [world.filter(q=>q.skill==="World Sports"),1],
   [world.filter(q=>q.skill==="Environment"),2],
-  [seq,4]
+  [seq,2]
  ];
  const ids=new Set(),result=[];
  for(const [pool,n] of plan){let added=0;for(const q of pickRandom(pool)){if(added>=n)break;if(ids.has(q.id))continue;result.push(q);ids.add(q.id);added++}}
@@ -136,7 +137,7 @@ function renderStudyTab(){
  const inDrill=state.tab==="drill",area=byId(inDrill?"drillArea":"quizArea");if(!area)return;
  const s=state.session;
  if(!s|| (inDrill&&s.mode!=="drill") || (!inDrill&&s.mode==="drill")){
-  area.innerHTML='<div class="card"><div class="caps">'+(inDrill?"RRB CBT-1 GA SECTION":"20-QUESTION MIXED PRACTICE")+'</div><h2>'+(inDrill?"40-question RRB-standard General Awareness drill":"Practice India + World GK together")+'</h2><p>'+(inDrill?"A balanced selection across science, Indian polity/history, Indian and world geography, computers, international organisations, sports, environment and firsts. The 36-minute timer is for practice; RRB has not assigned this time limit to the GA section.":"Original four-option exam-style questions with clear explanations and −⅓ for incorrect answers.")+'</p><p class="note">Your scores stay on this device. Not actual RRB PYQ text.</p>'+btn("Start "+(inDrill?"40-question timed drill":"20-question quiz")+" →","start",'data-mode="'+(inDrill?"drill":"quiz")+'"')+'</div>'+recentHistory();
+  area.innerHTML='<div class="card"><div class="caps">'+(inDrill?"RRB CBT-1 GA SECTION":"20-QUESTION MIXED PRACTICE")+'</div><h2>'+(inDrill?"40-question RRB-inspired static General Awareness drill":"Practice India + World GK together")+'</h2><p>'+(inDrill?"A static-GA selection weighting Indian history/polity, Class 10 science, geography, computers, economy, environment and a smaller international/firsts component. This excludes current affairs, which must be revised separately. The 36-minute timer is for practice; RRB has not assigned this time limit to the GA section.":"Original four-option exam-style questions with clear explanations and −⅓ for incorrect answers.")+'</p><p class="note">Your scores stay on this device. Not actual RRB PYQ text.</p>'+btn("Start "+(inDrill?"40-question timed drill":"20-question quiz")+" →","start",'data-mode="'+(inDrill?"drill":"quiz")+'"')+'</div>'+recentHistory();
   return;
  }
  if(s.completed){
