@@ -47,6 +47,16 @@ input[type="search"]{width:min(100%,350px)}
 .note{font-size:12px;color:var(--muted)}.hidden{display:none!important}footer{max-width:1190px;padding:25px;margin:auto;color:var(--muted);font-size:12px}
 @media(max-width:780px){main{padding:27px 16px 85px}.hero{align-items:flex-start;padding:22px;flex-direction:column}.stat{text-align:left}.factGrid,.choices,.qBank{grid-template-columns:repeat(2,minmax(0,1fr))}.card{padding:18px}.fact strong{font-size:18px}.fact{padding:11px}}
 @media(max-width:530px){.factGrid,.choices,.qBank{grid-template-columns:1fr}.factGrid{gap:8px}header .wrap{padding:12px 16px}.brand{font-size:19px}.headerLink{font-size:11px}h1{font-size:40px}.row h2{font-size:22px}.quizTop{flex-wrap:wrap}.tabs .tab{flex:1 1 110px}.fact strong{font-size:19px}}
+
+.currentFact{border-color:#a7d5b9!important;background:#e9f6ed!important}
+.currentFact .position{background:#d2ecd9;color:#135d42}
+.currentFact a{font-size:12px;color:#176c55;font-weight:800;display:inline-block;margin-top:7px}
+.currentFact p{line-height:1.6}
+.currentFact h3{font:700 17px/1.25 system-ui,sans-serif;margin:9px 0;color:#18543e}
+.currentList{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:15px}
+.currentList .fact{padding:16px}
+@media(max-width:670px){.currentList{grid-template-columns:1fr}}
+
 </style>
 </head>
 <body>
@@ -55,7 +65,7 @@ input[type="search"]{width:min(100%,350px)}
 <div class="caps">RRB NTPC · CBT-1 GENERAL AWARENESS</div>
 <h1>GK beyond India.<br><em>Built around RRB questions.</em></h1>
 <p class="intro">World geography, global organisations, Class 10 science, computer basics and important firsts. Study clear facts or practise original MCQs built around patterns seen in previous RRB NTPC papers.</p>
-<div class="hero"><div><div class="caps" style="color:#f1d396">NEW · WORLDWIDE GK</div><h2>First · Second · Second-last · Last</h2><p>We show penultimate and last positions only for clearly completed historical sequences. Ongoing institutions have no fixed final officeholder.</p></div><div class="stat" id="heroCount">Loading…</div></div>
+<div class="hero"><div><div class="caps" style="color:#f1d396">NEW · WORLDWIDE GK</div><h2>First · Second · Current · Second-last · Last</h2><p>We show penultimate and last positions only for clearly completed historical sequences. Ongoing institutions have no fixed final officeholder.</p></div><div class="stat" id="heroCount">Loading…</div></div>
 <div id="loadStatus" class="info">Loading syllabus-based GK questions…</div>
 <div class="tabs" role="tablist" aria-label="GK section">
 <button class="tab active" data-tab="orders" role="tab" aria-selected="true">First & Last GK</button>
@@ -64,9 +74,10 @@ input[type="search"]{width:min(100%,350px)}
 <button class="tab" data-tab="drill" role="tab" aria-selected="false">40-Q RRB GA Drill</button>
 </div>
 <section id="viewOrders">
-<div class="row"><h2>International firsts and historical orders</h2><span id="orderCount" class="count"></span></div>
+<div class="row"><h2>International firsts, latest officeholders and historical orders</h2><span id="orderCount" class="count"></span></div>
 <div class="pills" id="orderFilters"></div><div class="pills" id="orderCategoryFilters"></div>
-<p class="note">Questions and facts include source links. Figures tied to ongoing offices deliberately omit the word “last.”</p>
+<p class="note">Facts include official reference links. Current officeholders and recent champions are clearly dated; “last” is used only for completed sequences.</p>
+<div id="currentHighlights" class="card hidden"><div class="row"><h2>Current officeholders · 23 November 2026</h2><span class="count">Source-verified</span></div><p class="note">“Current” means checked on the stated date, not a live, continuously verified record. This also distinguishes UNESCO’s Director-General from its General Conference President.</p><div id="currentHighlightsList" class="currentList"></div></div>
 <div id="seriesList"></div>
 </section>
 <section id="viewLibrary" class="hidden">
