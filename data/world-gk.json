@@ -66,6 +66,34 @@
       }
     },
     {
+      "id": "unesco-general-conference-presidents",
+      "title": "Presidents of UNESCO's General Conference",
+      "category": "World Organisations",
+      "scope": "Presidency of UNESCO's General Conference, not the Director-General; an ongoing office. First/second are based on successive General Conference sessions.",
+      "tip": "1946 Léon Blum (France) → 1947 Manuel Gual Vidal (Mexico) → 43rd-session president Khondker M. Talha (Bangladesh, 2025).",
+      "source": "https://www.unesco.se/wp-content/uploads/2015/06/Infobroschyr-Unescos-styrelse.pdf",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Léon Blum",
+          "note": "France; President of UNESCO's first General Conference (1946, Paris)."
+        },
+        {
+          "position": "Second",
+          "value": "Manuel Gual Vidal",
+          "note": "Mexico; President of UNESCO's second General Conference (1947, Mexico City)."
+        }
+      ],
+      "current": {
+        "kind": "officeholder",
+        "label": "President of the 43rd UNESCO General Conference",
+        "value": "Khondker Mohammad Talha",
+        "detail": "Bangladesh; 43rd-session President elected in 2025, distinct from Director-General Khaled El-Enany.",
+        "asOf": "2026-11-23",
+        "source": "https://www.unesco.org/en/articles/bangladesh-elected-president-unescos-43rd-general-conference"
+      }
+    },
+    {
       "id": "us-presidents",
       "title": "United States Presidents",
       "category": "World History",
@@ -2984,6 +3012,63 @@
       "kind": "Source-verified time-sensitive practice",
       "source": "https://www.olympics.com/ioc/paris-2024",
       "asOf": "2026-11-23"
+    },
+    {
+      "id": "rrb-unesco-gc-first",
+      "topic": "Current GK",
+      "skill": "World Organisations",
+      "question": "Who was the President of UNESCO's first General Conference (1946)?",
+      "options": [
+        "Manuel Gual Vidal",
+        "Léon Blum",
+        "Julian Huxley",
+        "Khondker Mohammad Talha"
+      ],
+      "answer": 1,
+      "explanation": "Léon Blum of France presided over the first UNESCO General Conference in Paris in 1946.",
+      "kind": "Source-backed UNESCO officeholder practice",
+      "asOf": "2026-11-23",
+      "source": "https://www.unesco.org/en/articles/reaffirming-unescos-enduring-mission-reviving-spirit-peace-through-intellectual-cooperation",
+      "seriesId": "unesco-general-conference-presidents",
+      "position": "First"
+    },
+    {
+      "id": "rrb-unesco-gc-second",
+      "topic": "Current GK",
+      "skill": "World Organisations",
+      "question": "Who presided over UNESCO's second General Conference (1947)?",
+      "options": [
+        "Léon Blum",
+        "Julian Huxley",
+        "Manuel Gual Vidal",
+        "Khondker Mohammad Talha"
+      ],
+      "answer": 2,
+      "explanation": "Manuel Gual Vidal of Mexico presided over the 1947 UNESCO General Conference in Mexico City.",
+      "kind": "Source-backed UNESCO officeholder practice",
+      "asOf": "2026-11-23",
+      "source": "https://www.unesco.se/wp-content/uploads/2015/06/Infobroschyr-Unescos-styrelse.pdf",
+      "seriesId": "unesco-general-conference-presidents",
+      "position": "Second"
+    },
+    {
+      "id": "rrb-unesco-gc-current",
+      "topic": "Current GK",
+      "skill": "World Organisations",
+      "question": "Who is the President of UNESCO's 43rd General Conference (as of 23 November 2026)?",
+      "options": [
+        "Khaled El-Enany",
+        "Khondker Mohammad Talha",
+        "Audrey Azoulay",
+        "Léon Blum"
+      ],
+      "answer": 1,
+      "explanation": "Khondker Mohammad Talha from Bangladesh presides over the 43rd session; this is not the UNESCO Director-General.",
+      "kind": "Source-backed UNESCO officeholder practice",
+      "asOf": "2026-11-23",
+      "source": "https://www.unesco.org/en/articles/bangladesh-elected-president-unescos-43rd-general-conference",
+      "seriesId": "unesco-general-conference-presidents",
+      "position": "Current"
     }
   ],
   "currentHighlights": [
