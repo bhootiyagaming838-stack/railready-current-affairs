@@ -7,6 +7,8 @@ on:
       - 'app.js'
       - 'daily.html'
       - 'daily.js'
+      - 'world-gk.html'
+      - 'world-gk.js'
       - 'app.css'
       - 'manifest.webmanifest'
       - 'icon.svg'
@@ -14,6 +16,7 @@ on:
       - 'scripts/generate_icons.py'
       - 'data/**'
       - 'scripts/validate_study_content.py'
+      - 'scripts/test_world_gk.cjs'
       - '.github/workflows/deploy-study-app.yml'
   workflow_dispatch:
 permissions:
@@ -33,6 +36,8 @@ jobs:
         run: |
           node --check app.js
           node --check daily.js
+          node --check world-gk.js
+          node scripts/test_world_gk.cjs
           python scripts/validate_daily_mcqs.py
           python scripts/verify_daily_answers.py
           node scripts/test_daily_quiz.cjs
@@ -44,7 +49,7 @@ jobs:
       - name: Package static study app
         run: |
           mkdir -p public/data
-          cp index.html daily.html daily.js app.js app.css manifest.webmanifest icon.svg icon-192.png icon-512.png sw.js public/
+          cp index.html daily.html daily.js world-gk.html world-gk.js app.js app.css manifest.webmanifest icon.svg icon-192.png icon-512.png sw.js public/
           cp data/*.json public/data/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
