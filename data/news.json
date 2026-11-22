@@ -2166,5 +2166,6 @@
   "dailyQuestionDate": "2026-11-22",
   "dailyQuestionCount": 60,
   "kind": "headline-feed",
-  "disclaimer": "News headlines require source verification. The quiz field currently supplies original Maths and Reasoning daily practice; these are not verified RRB PYQs or current-affairs facts."
+  "disclaimer": "News headlines require source verification. The quiz field currently supplies original Maths and Reasoning daily practice; these are not verified RRB PYQs or current-affairs facts.",
+  "dailyQuestionLabel": "60 original daily Maths and Reasoning MCQs — not verified PYQs"
 }
