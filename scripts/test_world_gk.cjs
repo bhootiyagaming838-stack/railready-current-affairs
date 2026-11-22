@@ -27,11 +27,11 @@ for(const s of data.series){
 }
 
 // Time-sensitive facts must carry a date and official or primary source.
-assert.match(data.checkedAt, /^20\\d{2}-\\d{2}-\\d{2}$/);
+assert.match(data.checkedAt, /^20\d{2}-\d{2}-\d{2}$/);
 const currentSeries=data.series.filter(s=>s.current);
 assert(currentSeries.length>=5,'expected dated current officeholders / recent event results');
 for(const s of currentSeries){
- assert.match(s.current.asOf,/^20\\d{2}-\\d{2}-\\d{2}$/);
+ assert.match(s.current.asOf,/^20\d{2}-\d{2}-\d{2}$/);
  assert(s.current.source.startsWith('https://'));
  assert(['officeholder','latest-event'].includes(s.current.kind));
 }
