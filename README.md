@@ -11,6 +11,7 @@ RailReady is an independent study project providing subject-wise practice, timed
 | Original Floot application | [Open RailReady](https://railready-ntpc.floot.app/) | Original interface and existing Floot-hosted learning features. |
 | Complete Study web application | [Launch web app](https://bhootiyagaming838-stack.github.io/railready-current-affairs/) | Subject lessons, question banks, CBT-1 mock tests, revision, and local progress backup. |
 | Daily MCQ practice | [Open daily quiz](https://bhootiyagaming838-stack.github.io/railready-current-affairs/daily.html) | A new dated set of 60 original Mathematics and Reasoning questions, subject to successful scheduled publication. |
+| World GK & RRB-pattern GA | [Study World GK](https://bhootiyagaming838-stack.github.io/railready-current-affairs/world-gk.html) | 79 original world-science/geography/computer/international questions, 28 international chronological GK questions, first/second/second-last/last notes, and a balanced 40-question GA drill. |
 | Android application | [Download APK](https://github.com/bhootiyagaming838-stack/railready-current-affairs/releases/tag/railready-floot-android-v1) | Personal-use WebView wrapper for the original Floot application. |
 | Windows application | [Download Windows release](https://github.com/bhootiyagaming838-stack/railready-current-affairs/releases/tag/railready-floot-windows-v1) | Portable desktop wrapper for the original Floot application. See [desktop documentation](desktop/README.md) for build details and the newer daily-quiz integration. |
 
@@ -56,6 +57,7 @@ Scheduled GitHub Actions workflows may run late or fail. Publication status and 
 | Path | Purpose |
 | --- | --- |
 | `index.html`, `app.js`, `app.css` | Complete Study web application. |
+| `world-gk.html`, `world-gk.js`, `data/world-gk.json` | International General Awareness, historical first/last notes, RRB-pattern drills, and original multiple-choice questions. |
 | `daily.html`, `daily.js` | Daily quiz interface, answer review, and browser-local session state. |
 | `data/general-awareness-bank.json` | Original General Awareness practice questions. |
 | `data/quant-reasoning-bank.json` | Original Mathematics and Reasoning practice questions. |
