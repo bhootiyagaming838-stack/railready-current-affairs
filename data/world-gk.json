@@ -258,6 +258,246 @@
           "note": "Final Tudor monarch, 1558–1603."
         }
       ]
+    },
+    {
+      "id": "five-oceans",
+      "title": "Five Oceans Ranked by Area",
+      "category": "World Geography",
+      "scope": "Five oceans ranked largest to smallest by area; NOAA definition.",
+      "tip": "Pacific → Atlantic → Indian → Southern → Arctic.",
+      "source": "https://www.noaa.gov/jetstream/ocean",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Pacific Ocean",
+          "note": "Largest ocean, approximately 166 million km²."
+        },
+        {
+          "position": "Second",
+          "value": "Atlantic Ocean",
+          "note": "Second-largest ocean, around 82 million km²."
+        },
+        {
+          "position": "Second-last",
+          "value": "Southern Ocean",
+          "note": "Fourth of the five oceans by surface area."
+        },
+        {
+          "position": "Last",
+          "value": "Arctic Ocean",
+          "note": "Smallest ocean by area, around 12.2 million km²."
+        }
+      ]
+    },
+    {
+      "id": "continents-ranked",
+      "title": "Seven Continents by Area",
+      "category": "World Geography",
+      "scope": "Standard seven-continent model, sorted largest to smallest by land area.",
+      "tip": "Asia → Africa → North America → South America → Antarctica → Europe → Australia.",
+      "source": "https://education.nationalgeographic.org/resource/Continent/",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Asia",
+          "note": "The world's largest continent by land area."
+        },
+        {
+          "position": "Second",
+          "value": "Africa",
+          "note": "The world's second-largest continent."
+        },
+        {
+          "position": "Second-last",
+          "value": "Europe",
+          "note": "The sixth-largest continent by land area."
+        },
+        {
+          "position": "Last",
+          "value": "Australia",
+          "note": "Smallest of seven continents in the conventional model."
+        }
+      ]
+    },
+    {
+      "id": "planets-sun",
+      "title": "Eight Planets Ordered from the Sun",
+      "category": "World Science",
+      "scope": "The eight planets of the Solar System in increasing average distance from the Sun.",
+      "tip": "Mercury → Venus → Earth → Mars → Jupiter → Saturn → Uranus → Neptune.",
+      "source": "https://science.nasa.gov/resource/solar-system-sizes/",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Mercury",
+          "note": "Closest planet to the Sun."
+        },
+        {
+          "position": "Second",
+          "value": "Venus",
+          "note": "Second planet from the Sun."
+        },
+        {
+          "position": "Second-last",
+          "value": "Uranus",
+          "note": "Seventh of eight planets from the Sun."
+        },
+        {
+          "position": "Last",
+          "value": "Neptune",
+          "note": "Eighth and farthest planet from the Sun."
+        }
+      ]
+    },
+    {
+      "id": "planets-diameter",
+      "title": "Eight Planets Ranked by Diameter",
+      "category": "World Science",
+      "scope": "Eight planets of the Solar System ranked largest to smallest by diameter.",
+      "tip": "Jupiter → Saturn → Uranus → Neptune → Earth → Venus → Mars → Mercury.",
+      "source": "https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Jupiter",
+          "note": "Largest planet in the Solar System."
+        },
+        {
+          "position": "Second",
+          "value": "Saturn",
+          "note": "Second-largest planet by diameter."
+        },
+        {
+          "position": "Second-last",
+          "value": "Mars",
+          "note": "Second-smallest planet of the eight."
+        },
+        {
+          "position": "Last",
+          "value": "Mercury",
+          "note": "Smallest planet in the Solar System."
+        }
+      ]
+    },
+    {
+      "id": "women-unga",
+      "title": "Women Presidents of the UN General Assembly",
+      "category": "World Organisations",
+      "scope": "First two women to preside over the UN General Assembly; the office continues.",
+      "tip": "Vijaya Lakshmi Pandit of India (1953) → Angie Brooks of Liberia (1969).",
+      "source": "https://un.dk/gender-equality-and-the-un-general-assembly-facts-and-history-to-know/",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Vijaya Lakshmi Pandit",
+          "note": "India; first woman elected General Assembly President, 1953."
+        },
+        {
+          "position": "Second",
+          "value": "Angie Elizabeth Brooks",
+          "note": "Liberia; second woman President of the UN General Assembly, 1969."
+        }
+      ]
+    },
+    {
+      "id": "women-nobel",
+      "title": "First Women Nobel Laureates",
+      "category": "World History",
+      "scope": "First two women awarded any Nobel Prize, counted chronologically across all subjects.",
+      "tip": "Marie Curie Physics 1903; Bertha von Suttner Peace 1905.",
+      "source": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes/all/",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Marie Curie",
+          "note": "First woman to win a Nobel Prize; Physics, 1903."
+        },
+        {
+          "position": "Second",
+          "value": "Bertha von Suttner",
+          "note": "Second woman to win a Nobel Prize; Peace, 1905."
+        }
+      ]
+    },
+    {
+      "id": "julio-claudian",
+      "title": "Julio-Claudian Roman Emperors",
+      "category": "World History",
+      "scope": "The five Julio-Claudian emperors of ancient Rome, a dynasty ending in 68 CE.",
+      "tip": "Augustus → Tiberius → Caligula → Claudius → Nero.",
+      "source": "https://www.metmuseum.org/essays/the-julio-claudian-dynasty-27-b-c-68-a-d",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Augustus",
+          "note": "First Roman emperor; ruled 27 BCE–14 CE."
+        },
+        {
+          "position": "Second",
+          "value": "Tiberius",
+          "note": "Second Julio-Claudian emperor, 14–37 CE."
+        },
+        {
+          "position": "Second-last",
+          "value": "Claudius",
+          "note": "Fourth emperor of the dynasty, 41–54 CE."
+        },
+        {
+          "position": "Last",
+          "value": "Nero",
+          "note": "Final Julio-Claudian emperor; his rule ended in 68 CE."
+        }
+      ]
+    },
+    {
+      "id": "orbital-space",
+      "title": "First Humans to Orbit Earth",
+      "category": "World Science",
+      "scope": "Orbital flights only; unlike the wider 'humans to reach space' category, suborbital flights are excluded.",
+      "tip": "Gagarin's Vostok 1 (April 1961) → Titov's Vostok 2 (August 1961).",
+      "source": "https://www.hsfc.gov.in/AstronautCorner?lang=en",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Yuri Gagarin",
+          "note": "First human to complete an orbit of Earth; 12 April 1961."
+        },
+        {
+          "position": "Second",
+          "value": "Gherman Titov",
+          "note": "Second human to orbit Earth, aboard Vostok 2 on 6 August 1961."
+        }
+      ]
+    },
+    {
+      "id": "sovereign-areas",
+      "title": "Sovereign States Ranked by Area",
+      "category": "World Geography",
+      "scope": "Independent sovereign states ranked by total area from largest to smallest; convention includes Vatican City.",
+      "tip": "Russia → Canada … Monaco → Vatican City.",
+      "source": "https://www.thefactbook.org/world/area-rankings",
+      "entries": [
+        {
+          "position": "First",
+          "value": "Russia",
+          "note": "The world's largest country by area."
+        },
+        {
+          "position": "Second",
+          "value": "Canada",
+          "note": "The world's second-largest country by area."
+        },
+        {
+          "position": "Second-last",
+          "value": "Monaco",
+          "note": "The world's second-smallest sovereign state by area."
+        },
+        {
+          "position": "Last",
+          "value": "Vatican City",
+          "note": "The world's smallest sovereign state by area."
+        }
+      ]
     }
   ],
   "questions": [
@@ -2028,6 +2268,546 @@
       "seriesId": "tudor-monarchs",
       "position": "Last",
       "source": "https://www.english-heritage.org.uk/learn/story-of-england/tudors/introduction/"
+    },
+    {
+      "id": "rrb-order-five-oceans-first",
+      "topic": "First & Last GK",
+      "skill": "World Geography",
+      "question": "Which was the first ocean by area (largest to smallest)?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Southern Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": 0,
+      "explanation": "Largest ocean, approximately 166 million km². Scope: Five oceans ranked largest to smallest by area; NOAA definition.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "five-oceans",
+      "position": "First",
+      "source": "https://www.noaa.gov/jetstream/ocean"
+    },
+    {
+      "id": "rrb-order-five-oceans-second",
+      "topic": "First & Last GK",
+      "skill": "World Geography",
+      "question": "Which was the second ocean by area (largest to smallest)?",
+      "options": [
+        "Arctic Ocean",
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Southern Ocean"
+      ],
+      "answer": 1,
+      "explanation": "Second-largest ocean, around 82 million km². Scope: Five oceans ranked largest to smallest by area; NOAA definition.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "five-oceans",
+      "position": "Second",
+      "source": "https://www.noaa.gov/jetstream/ocean"
+    },
+    {
+      "id": "rrb-order-five-oceans-secondlast",
+      "topic": "First & Last GK",
+      "skill": "World Geography",
+      "question": "Which was the second-last ocean by area (largest to smallest)?",
+      "options": [
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean",
+        "Pacific Ocean"
+      ],
+      "answer": 2,
+      "explanation": "Fourth of the five oceans by surface area. Scope: Five oceans ranked largest to smallest by area; NOAA definition.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "five-oceans",
+      "position": "Second-last",
+      "source": "https://www.noaa.gov/jetstream/ocean"
+    },
+    {
+      "id": "rrb-order-five-oceans-last",
+      "topic": "First & Last GK",
+      "skill": "World Geography",
+      "question": "Which was the last ocean by area (largest to smallest)?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Southern Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": 3,
+      "explanation": "Smallest ocean by area, around 12.2 million km². Scope: Five oceans ranked largest to smallest by area; NOAA definition.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "five-oceans",
+      "position": "Last",
+      "source": "https://www.noaa.gov/jetstream/ocean"
+    },
+    {
+      "id": "rrb-order-continents-ranked-first",
+      "topic": "First & Last GK",
+      "skill": "World Geography",
+      "question": "Which was the first continent by area (largest to smallest)?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "Australia"
+      ],
+      "answer": 0,
+      "explanation": "The world's largest continent by land area. Scope: Standard seven-continent model, sorted largest to smallest by land area.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "continents-ranked",
+      "position": "First",
+      "source": "https://education.nationalgeographic.org/resource/Continent/"
+    },
+    {
+      "id": "rrb-order-continents-ranked-second",
+      "topic": "First & Last GK",
+      "skill": "World Geography",
+      "question": "Which was the second continent by area (largest to smallest)?",
+      "options": [
+        "Australia",
+        "Africa",
+        "Asia",
+        "Europe"
+      ],
+      "answer": 1,
+      "explanation": "The world's second-largest continent. Scope: Standard seven-continent model, sorted largest to smallest by land area.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "continents-ranked",
+      "position": "Second",
+      "source": "https://education.nationalgeographic.org/resource/Continent/"
+    },
+    {
+      "id": "rrb-order-continents-ranked-secondlast",
+      "topic": "First & Last GK",
+      "skill": "World Geography",
+      "question": "Which was the second-last continent by area (largest to smallest)?",
+      "options": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Asia"
+      ],
+      "answer": 2,
+      "explanation": "The sixth-largest continent by land area. Scope: Standard seven-continent model, sorted largest to smallest by land area.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "continents-ranked",
+      "position": "Second-last",
+      "source": "https://education.nationalgeographic.org/resource/Continent/"
+    },
+    {
+      "id": "rrb-order-continents-ranked-last",
+      "topic": "First & Last GK",
+      "skill": "World Geography",
+      "question": "Which was the last continent by area (largest to smallest)?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "Australia"
+      ],
+      "answer": 3,
+      "explanation": "Smallest of seven continents in the conventional model. Scope: Standard seven-continent model, sorted largest to smallest by land area.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "continents-ranked",
+      "position": "Last",
+      "source": "https://education.nationalgeographic.org/resource/Continent/"
+    },
+    {
+      "id": "rrb-order-planets-sun-first",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "Which was the first planet in increasing distance from the Sun?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Uranus",
+        "Neptune"
+      ],
+      "answer": 0,
+      "explanation": "Closest planet to the Sun. Scope: The eight planets of the Solar System in increasing average distance from the Sun.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "planets-sun",
+      "position": "First",
+      "source": "https://science.nasa.gov/resource/solar-system-sizes/"
+    },
+    {
+      "id": "rrb-order-planets-sun-second",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "Which was the second planet in increasing distance from the Sun?",
+      "options": [
+        "Neptune",
+        "Venus",
+        "Mercury",
+        "Uranus"
+      ],
+      "answer": 1,
+      "explanation": "Second planet from the Sun. Scope: The eight planets of the Solar System in increasing average distance from the Sun.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "planets-sun",
+      "position": "Second",
+      "source": "https://science.nasa.gov/resource/solar-system-sizes/"
+    },
+    {
+      "id": "rrb-order-planets-sun-secondlast",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "Which was the second-last planet in increasing distance from the Sun?",
+      "options": [
+        "Venus",
+        "Neptune",
+        "Uranus",
+        "Mercury"
+      ],
+      "answer": 2,
+      "explanation": "Seventh of eight planets from the Sun. Scope: The eight planets of the Solar System in increasing average distance from the Sun.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "planets-sun",
+      "position": "Second-last",
+      "source": "https://science.nasa.gov/resource/solar-system-sizes/"
+    },
+    {
+      "id": "rrb-order-planets-sun-last",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "Which was the last planet in increasing distance from the Sun?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Uranus",
+        "Neptune"
+      ],
+      "answer": 3,
+      "explanation": "Eighth and farthest planet from the Sun. Scope: The eight planets of the Solar System in increasing average distance from the Sun.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "planets-sun",
+      "position": "Last",
+      "source": "https://science.nasa.gov/resource/solar-system-sizes/"
+    },
+    {
+      "id": "rrb-order-planets-diameter-first",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "Which was the first planet by diameter (largest to smallest)?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Mars",
+        "Mercury"
+      ],
+      "answer": 0,
+      "explanation": "Largest planet in the Solar System. Scope: Eight planets of the Solar System ranked largest to smallest by diameter.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "planets-diameter",
+      "position": "First",
+      "source": "https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/"
+    },
+    {
+      "id": "rrb-order-planets-diameter-second",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "Which was the second planet by diameter (largest to smallest)?",
+      "options": [
+        "Mercury",
+        "Saturn",
+        "Jupiter",
+        "Mars"
+      ],
+      "answer": 1,
+      "explanation": "Second-largest planet by diameter. Scope: Eight planets of the Solar System ranked largest to smallest by diameter.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "planets-diameter",
+      "position": "Second",
+      "source": "https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/"
+    },
+    {
+      "id": "rrb-order-planets-diameter-secondlast",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "Which was the second-last planet by diameter (largest to smallest)?",
+      "options": [
+        "Saturn",
+        "Mercury",
+        "Mars",
+        "Jupiter"
+      ],
+      "answer": 2,
+      "explanation": "Second-smallest planet of the eight. Scope: Eight planets of the Solar System ranked largest to smallest by diameter.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "planets-diameter",
+      "position": "Second-last",
+      "source": "https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/"
+    },
+    {
+      "id": "rrb-order-planets-diameter-last",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "Which was the last planet by diameter (largest to smallest)?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Mars",
+        "Mercury"
+      ],
+      "answer": 3,
+      "explanation": "Smallest planet in the Solar System. Scope: Eight planets of the Solar System ranked largest to smallest by diameter.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "planets-diameter",
+      "position": "Last",
+      "source": "https://science.nasa.gov/solar-system/planet-sizes-and-locations-in-our-solar-system/"
+    },
+    {
+      "id": "rrb-order-women-unga-first",
+      "topic": "First & Last GK",
+      "skill": "World Organisations",
+      "question": "Who was the first woman President of the UN General Assembly in chronological order?",
+      "options": [
+        "Vijaya Lakshmi Pandit",
+        "Angie Elizabeth Brooks",
+        "Sheikha Haya Rashed Al Khalifa",
+        "María Fernanda Espinosa"
+      ],
+      "answer": 0,
+      "explanation": "India; first woman elected General Assembly President, 1953. Scope: First two women to preside over the UN General Assembly; the office continues.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "women-unga",
+      "position": "First",
+      "source": "https://un.dk/gender-equality-and-the-un-general-assembly-facts-and-history-to-know/"
+    },
+    {
+      "id": "rrb-order-women-unga-second",
+      "topic": "First & Last GK",
+      "skill": "World Organisations",
+      "question": "Who was the second woman President of the UN General Assembly in chronological order?",
+      "options": [
+        "María Fernanda Espinosa",
+        "Angie Elizabeth Brooks",
+        "Vijaya Lakshmi Pandit",
+        "Sheikha Haya Rashed Al Khalifa"
+      ],
+      "answer": 1,
+      "explanation": "Liberia; second woman President of the UN General Assembly, 1969. Scope: First two women to preside over the UN General Assembly; the office continues.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "women-unga",
+      "position": "Second",
+      "source": "https://un.dk/gender-equality-and-the-un-general-assembly-facts-and-history-to-know/"
+    },
+    {
+      "id": "rrb-order-women-nobel-first",
+      "topic": "First & Last GK",
+      "skill": "World History",
+      "question": "Who was the first woman Nobel Prize laureate in chronological order?",
+      "options": [
+        "Selma Lagerlöf",
+        "Jane Addams",
+        "Marie Curie",
+        "Bertha von Suttner"
+      ],
+      "answer": 2,
+      "explanation": "First woman to win a Nobel Prize; Physics, 1903. Scope: First two women awarded any Nobel Prize, counted chronologically across all subjects.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "women-nobel",
+      "position": "First",
+      "source": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes/all/"
+    },
+    {
+      "id": "rrb-order-women-nobel-second",
+      "topic": "First & Last GK",
+      "skill": "World History",
+      "question": "Who was the second woman Nobel Prize laureate in chronological order?",
+      "options": [
+        "Marie Curie",
+        "Selma Lagerlöf",
+        "Jane Addams",
+        "Bertha von Suttner"
+      ],
+      "answer": 3,
+      "explanation": "Second woman to win a Nobel Prize; Peace, 1905. Scope: First two women awarded any Nobel Prize, counted chronologically across all subjects.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "women-nobel",
+      "position": "Second",
+      "source": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes/all/"
+    },
+    {
+      "id": "rrb-order-julio-claudian-first",
+      "topic": "First & Last GK",
+      "skill": "World History",
+      "question": "Who was the first Julio-Claudian emperor in chronological order?",
+      "options": [
+        "Augustus",
+        "Tiberius",
+        "Claudius",
+        "Nero"
+      ],
+      "answer": 0,
+      "explanation": "First Roman emperor; ruled 27 BCE–14 CE. Scope: The five Julio-Claudian emperors of ancient Rome, a dynasty ending in 68 CE.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "julio-claudian",
+      "position": "First",
+      "source": "https://www.metmuseum.org/essays/the-julio-claudian-dynasty-27-b-c-68-a-d"
+    },
+    {
+      "id": "rrb-order-julio-claudian-second",
+      "topic": "First & Last GK",
+      "skill": "World History",
+      "question": "Who was the second Julio-Claudian emperor in chronological order?",
+      "options": [
+        "Nero",
+        "Tiberius",
+        "Augustus",
+        "Claudius"
+      ],
+      "answer": 1,
+      "explanation": "Second Julio-Claudian emperor, 14–37 CE. Scope: The five Julio-Claudian emperors of ancient Rome, a dynasty ending in 68 CE.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "julio-claudian",
+      "position": "Second",
+      "source": "https://www.metmuseum.org/essays/the-julio-claudian-dynasty-27-b-c-68-a-d"
+    },
+    {
+      "id": "rrb-order-julio-claudian-secondlast",
+      "topic": "First & Last GK",
+      "skill": "World History",
+      "question": "Who was the second-last Julio-Claudian emperor in chronological order?",
+      "options": [
+        "Tiberius",
+        "Nero",
+        "Claudius",
+        "Augustus"
+      ],
+      "answer": 2,
+      "explanation": "Fourth emperor of the dynasty, 41–54 CE. Scope: The five Julio-Claudian emperors of ancient Rome, a dynasty ending in 68 CE.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "julio-claudian",
+      "position": "Second-last",
+      "source": "https://www.metmuseum.org/essays/the-julio-claudian-dynasty-27-b-c-68-a-d"
+    },
+    {
+      "id": "rrb-order-julio-claudian-last",
+      "topic": "First & Last GK",
+      "skill": "World History",
+      "question": "Who was the last Julio-Claudian emperor in chronological order?",
+      "options": [
+        "Augustus",
+        "Tiberius",
+        "Claudius",
+        "Nero"
+      ],
+      "answer": 3,
+      "explanation": "Final Julio-Claudian emperor; his rule ended in 68 CE. Scope: The five Julio-Claudian emperors of ancient Rome, a dynasty ending in 68 CE.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "julio-claudian",
+      "position": "Last",
+      "source": "https://www.metmuseum.org/essays/the-julio-claudian-dynasty-27-b-c-68-a-d"
+    },
+    {
+      "id": "rrb-order-orbital-space-first",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "Which was the first human to complete an Earth-orbiting spaceflight?",
+      "options": [
+        "Yuri Gagarin",
+        "Gherman Titov",
+        "Alan Shepard",
+        "John Glenn"
+      ],
+      "answer": 0,
+      "explanation": "First human to complete an orbit of Earth; 12 April 1961. Scope: Orbital flights only; unlike the wider 'humans to reach space' category, suborbital flights are excluded.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "orbital-space",
+      "position": "First",
+      "source": "https://www.hsfc.gov.in/AstronautCorner?lang=en"
+    },
+    {
+      "id": "rrb-order-orbital-space-second",
+      "topic": "First & Last GK",
+      "skill": "World Science",
+      "question": "Which was the second human to complete an Earth-orbiting spaceflight?",
+      "options": [
+        "John Glenn",
+        "Gherman Titov",
+        "Yuri Gagarin",
+        "Alan Shepard"
+      ],
+      "answer": 1,
+      "explanation": "Second human to orbit Earth, aboard Vostok 2 on 6 August 1961. Scope: Orbital flights only; unlike the wider 'humans to reach space' category, suborbital flights are excluded.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "orbital-space",
+      "position": "Second",
+      "source": "https://www.hsfc.gov.in/AstronautCorner?lang=en"
+    },
+    {
+      "id": "rrb-order-sovereign-areas-first",
+      "topic": "First & Last GK",
+      "skill": "World Geography",
+      "question": "Which was the first sovereign state by total area (largest to smallest)?",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Russia",
+        "Canada"
+      ],
+      "answer": 2,
+      "explanation": "The world's largest country by area. Scope: Independent sovereign states ranked by total area from largest to smallest; convention includes Vatican City.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "sovereign-areas",
+      "position": "First",
+      "source": "https://www.thefactbook.org/world/area-rankings"
+    },
+    {
+      "id": "rrb-order-sovereign-areas-second",
+      "topic": "First & Last GK",
+      "skill": "World Geography",
+      "question": "Which was the second sovereign state by total area (largest to smallest)?",
+      "options": [
+        "Russia",
+        "Monaco",
+        "Vatican City",
+        "Canada"
+      ],
+      "answer": 3,
+      "explanation": "The world's second-largest country by area. Scope: Independent sovereign states ranked by total area from largest to smallest; convention includes Vatican City.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "sovereign-areas",
+      "position": "Second",
+      "source": "https://www.thefactbook.org/world/area-rankings"
+    },
+    {
+      "id": "rrb-order-sovereign-areas-secondlast",
+      "topic": "First & Last GK",
+      "skill": "World Geography",
+      "question": "Which was the second-last sovereign state by total area (largest to smallest)?",
+      "options": [
+        "Monaco",
+        "Russia",
+        "Canada",
+        "Vatican City"
+      ],
+      "answer": 0,
+      "explanation": "The world's second-smallest sovereign state by area. Scope: Independent sovereign states ranked by total area from largest to smallest; convention includes Vatican City.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "sovereign-areas",
+      "position": "Second-last",
+      "source": "https://www.thefactbook.org/world/area-rankings"
+    },
+    {
+      "id": "rrb-order-sovereign-areas-last",
+      "topic": "First & Last GK",
+      "skill": "World Geography",
+      "question": "Which was the last sovereign state by total area (largest to smallest)?",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Russia",
+        "Canada"
+      ],
+      "answer": 1,
+      "explanation": "The world's smallest sovereign state by area. Scope: Independent sovereign states ranked by total area from largest to smallest; convention includes Vatican City.",
+      "kind": "Original syllabus/PYQ-pattern practice",
+      "seriesId": "sovereign-areas",
+      "position": "Last",
+      "source": "https://www.thefactbook.org/world/area-rankings"
     }
   ]
 }
