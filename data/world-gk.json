@@ -27,7 +27,15 @@
           "value": "Dag Hammarskjöld",
           "note": "Second UN Secretary-General; Sweden, 1953–1961."
         }
-      ]
+      ],
+      "current": {
+        "label": "Current UN Secretary-General",
+        "value": "António Guterres",
+        "detail": "Portugal; ninth Secretary-General, in office since 1 January 2017. Current term concludes on 31 December 2026.",
+        "source": "https://ask.un.org/faq?qid=14625",
+        "kind": "officeholder",
+        "asOf": "2026-11-23"
+      }
     },
     {
       "id": "unesco-directors",
@@ -47,7 +55,15 @@
           "value": "Jaime Torres Bodet",
           "note": "Second UNESCO Director-General, 1948–1952."
         }
-      ]
+      ],
+      "current": {
+        "label": "Current UNESCO Director-General",
+        "value": "Khaled El-Enany",
+        "detail": "Egypt; 12th UNESCO Director-General, assumed office on 15 November 2025. This is not the President of UNESCO's General Conference.",
+        "source": "https://www.unesco.org/en/director-general",
+        "kind": "officeholder",
+        "asOf": "2026-11-23"
+      }
     },
     {
       "id": "us-presidents",
@@ -67,7 +83,15 @@
           "value": "John Adams",
           "note": "Second US President, 1797–1801."
         }
-      ]
+      ],
+      "current": {
+        "label": "Current US President",
+        "value": "Donald J. Trump",
+        "detail": "47th President of the United States, in office since 20 January 2025. He also served as the 45th President.",
+        "source": "https://www.whitehouse.gov/administration/",
+        "kind": "officeholder",
+        "asOf": "2026-11-23"
+      }
     },
     {
       "id": "olympic-hosts",
@@ -87,7 +111,15 @@
           "value": "Paris, France (1900)",
           "note": "Second modern Summer Olympics; first with women competitors."
         }
-      ]
+      ],
+      "current": {
+        "label": "Latest completed Summer Olympics",
+        "value": "Paris, France (2024)",
+        "detail": "The latest completed edition of the Summer Olympic Games as of 23 November 2026. This is the most recent host, not a 'last-ever' host.",
+        "source": "https://www.olympics.com/ioc/paris-2024",
+        "kind": "latest-event",
+        "asOf": "2026-11-23"
+      }
     },
     {
       "id": "world-cup-winners",
@@ -107,7 +139,15 @@
           "value": "Italy (1934)",
           "note": "Winner of the second men's FIFA World Cup."
         }
-      ]
+      ],
+      "current": {
+        "label": "Latest men's FIFA World Cup champion",
+        "value": "Spain (2026)",
+        "detail": "Spain defeated Argentina 1–0 after extra time in the 19 July 2026 final, securing its second men's World Cup title.",
+        "source": "https://www.fifa.com/en/articles/final-tournament-standings",
+        "kind": "latest-event",
+        "asOf": "2026-11-23"
+      }
     },
     {
       "id": "nobel-physics",
@@ -2808,6 +2848,176 @@
       "seriesId": "sovereign-areas",
       "position": "Last",
       "source": "https://www.thefactbook.org/world/area-rankings"
+    },
+    {
+      "id": "rrb-asof-unesco-director-current",
+      "topic": "Current GK",
+      "skill": "World Organisations",
+      "question": "Who is the Director-General of UNESCO as of 23 November 2026?",
+      "options": [
+        "Khaled El-Enany",
+        "Audrey Azoulay",
+        "Julian Huxley",
+        "Jaime Torres Bodet"
+      ],
+      "answer": 0,
+      "explanation": "Khaled El-Enany (Egypt) became UNESCO's 12th Director-General on 15 November 2025. UNESCO's General Conference President is a separate position.",
+      "kind": "Source-verified time-sensitive practice",
+      "source": "https://www.unesco.org/en/director-general",
+      "asOf": "2026-11-23"
+    },
+    {
+      "id": "rrb-asof-un-current",
+      "topic": "Current GK",
+      "skill": "World Organisations",
+      "question": "Who is the United Nations Secretary-General as of 23 November 2026?",
+      "options": [
+        "Ban Ki-moon",
+        "António Guterres",
+        "Kofi Annan",
+        "U Thant"
+      ],
+      "answer": 1,
+      "explanation": "António Guterres (Portugal) is the ninth UN Secretary-General, serving since 2017; his present term is due to conclude 31 December 2026.",
+      "kind": "Source-verified time-sensitive practice",
+      "source": "https://ask.un.org/faq?qid=14625",
+      "asOf": "2026-11-23"
+    },
+    {
+      "id": "rrb-asof-unesco-gc-current",
+      "topic": "Current GK",
+      "skill": "World Organisations",
+      "question": "Who presides over UNESCO's 43rd General Conference session as of November 2026?",
+      "options": [
+        "Khondker Mohammad Talha",
+        "Khaled El-Enany",
+        "Audrey Azoulay",
+        "Simona Mirela Miculescu"
+      ],
+      "answer": 0,
+      "explanation": "Bangladesh's Khondker M. Talha presides over the 43rd General Conference; he is not UNESCO's Director-General.",
+      "kind": "Source-verified time-sensitive practice",
+      "source": "https://www.unesco.org/en/articles/bangladesh-elected-president-unescos-43rd-general-conference",
+      "asOf": "2026-11-23"
+    },
+    {
+      "id": "rrb-asof-us-current",
+      "topic": "Current GK",
+      "skill": "World History",
+      "question": "Who is the President of the United States as of 23 November 2026?",
+      "options": [
+        "Joe Biden",
+        "Barack Obama",
+        "Donald J. Trump",
+        "George W. Bush"
+      ],
+      "answer": 2,
+      "explanation": "Donald J. Trump is the current US President (47th) as of 23 November 2026.",
+      "kind": "Source-verified time-sensitive practice",
+      "source": "https://www.whitehouse.gov/administration/",
+      "asOf": "2026-11-23"
+    },
+    {
+      "id": "rrb-asof-india-president-current",
+      "topic": "Current GK",
+      "skill": "Indian Polity",
+      "question": "Who is the President of India as of 23 November 2026?",
+      "options": [
+        "Pratibha Patil",
+        "Ram Nath Kovind",
+        "Droupadi Murmu",
+        "Sarvepalli Radhakrishnan"
+      ],
+      "answer": 2,
+      "explanation": "Droupadi Murmu assumed office as India's 15th President on 25 July 2022.",
+      "kind": "Source-verified time-sensitive practice",
+      "source": "https://www.presidentofindia.gov.in/about-presidents-secretariat",
+      "asOf": "2026-11-23"
+    },
+    {
+      "id": "rrb-asof-india-speaker-current",
+      "topic": "Current GK",
+      "skill": "Indian Polity",
+      "question": "Who is the Speaker of the Lok Sabha as of 23 November 2026?",
+      "options": [
+        "G. V. Mavalankar",
+        "Om Birla",
+        "Sumitra Mahajan",
+        "Meira Kumar"
+      ],
+      "answer": 1,
+      "explanation": "Om Birla is the current Speaker of Lok Sabha as confirmed by the Digital Sansad FAQ.",
+      "kind": "Source-verified time-sensitive practice",
+      "source": "https://sansad.in/ls/faq",
+      "asOf": "2026-11-23"
+    },
+    {
+      "id": "rrb-asof-fifa-2026-champions",
+      "topic": "Current GK",
+      "skill": "World Sports",
+      "question": "Which country won the 2026 FIFA Men's World Cup?",
+      "options": [
+        "Argentina",
+        "Germany",
+        "Spain",
+        "France"
+      ],
+      "answer": 2,
+      "explanation": "Spain won the 2026 Men's World Cup by defeating Argentina 1–0 after extra time in the final on 19 July 2026.",
+      "kind": "Source-verified time-sensitive practice",
+      "source": "https://www.fifa.com/en/articles/final-tournament-standings",
+      "asOf": "2026-11-23"
+    },
+    {
+      "id": "rrb-asof-olympics-latest",
+      "topic": "Current GK",
+      "skill": "World Sports",
+      "question": "Which city hosted the most recent completed Summer Olympics as of 23 November 2026?",
+      "options": [
+        "Tokyo",
+        "Los Angeles",
+        "Brisbane",
+        "Paris"
+      ],
+      "answer": 3,
+      "explanation": "Paris, France hosted the Summer Olympics in 2024; the Summer Games continue, so this means latest completed, not final ever.",
+      "kind": "Source-verified time-sensitive practice",
+      "source": "https://www.olympics.com/ioc/paris-2024",
+      "asOf": "2026-11-23"
     }
-  ]
+  ],
+  "currentHighlights": [
+    {
+      "id": "unesco-gc-president",
+      "category": "World Organisations",
+      "role": "President of the UNESCO General Conference (43rd session)",
+      "value": "Khondker Mohammad Talha",
+      "detail": "Bangladesh; President of UNESCO's 43rd General Conference session, elected in 2025. This is a distinct position from UNESCO's Director-General.",
+      "asOf": "2026-11-23",
+      "source": "https://www.unesco.org/en/articles/bangladesh-elected-president-unescos-43rd-general-conference",
+      "kind": "officeholder"
+    },
+    {
+      "id": "india-president",
+      "category": "Indian Polity",
+      "role": "Current President of India",
+      "value": "Droupadi Murmu",
+      "detail": "15th President of India; assumed office on 25 July 2022.",
+      "asOf": "2026-11-23",
+      "source": "https://www.presidentofindia.gov.in/about-presidents-secretariat",
+      "kind": "officeholder"
+    },
+    {
+      "id": "india-speaker",
+      "category": "Indian Polity",
+      "role": "Current Speaker of Lok Sabha",
+      "value": "Om Birla",
+      "detail": "Speaker of the Lok Sabha; the office continues, so 'last Speaker' is not an appropriate GK category.",
+      "asOf": "2026-11-23",
+      "source": "https://sansad.in/ls/faq",
+      "kind": "officeholder"
+    }
+  ],
+  "checkedAt": "2026-11-23",
+  "currentDataPolicy": "Dated as-of information, verified against linked official sources. Not a live feed. Re-check officeholders after elections, appointments and sports tournaments."
 }
