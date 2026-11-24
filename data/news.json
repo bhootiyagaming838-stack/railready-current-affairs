@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-23T02:30:23.455593+00:00",
+  "updatedAt": "2026-11-24T02:30:17.477412+00:00",
   "notes": [
+    {
+      "topic": "Economy",
+      "headline": "Manufacturing Momentum:Building a Self-Reliant India",
+      "date": "2026-11-23",
+      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRmtvLV9MbC1nX2RudWdiZ2xQUnpCRmtTTU0xNkF2eV96Zi1kUUhkVjlrMWNGUkVKZzZXRUdEQjN0eGZRS3AxSm1BWC0tbnVHOXU2LUJDNlR1eDVpY1B0N09Ga01xUG9XSzVRejNpOHRvREdBS3c?oc=5",
+      "publisher": "www.pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "Science",
+      "headline": "Union Minister Dr. Jitendra Singh Launches Curtain Raiser for India International Science Festival (IISF) 2026, Calls for Taking Science Beyond Labs to Empower Youth and Startups",
+      "date": "2026-11-23",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90RXN1ZUkwcWt4TDI2ME5icWhmeENvTGVqQlUycjVzN0p4eWF3VHlSWXhMZFRMRmQ4c2ZuZnRYUW9IblhudUlseFRyNklPcEphZ0VSeW5fbjZFUWFGTU5WUlhkTjF5U1RPZzNKaWpoSVhXVjR1LUU4TjNIZUo?oc=5",
+      "publisher": "pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "National Affairs",
+      "headline": "PRESIDENT OF INDIA TO VISIT ODISHA FROM NOVEMBER 24 TO 25",
+      "date": "2026-11-23",
+      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82MzE4VzltLUlzRkpOQzBSNklKeHR0LVJ5TWVHanJ0SE0tM25UekJweVdndkN3RGozRmh5c3ZNYkc5TmdxLThNY2I3bDV3S0RidlVrN2JncFpVQ2VCUmpHOGhaVnE2cWZCdzJ1bGV0NmVRMVNKalliUW9Vaw?oc=5",
+      "publisher": "pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "National Affairs",
+      "headline": "PRIME MINISTER OF NEPAL CALLS ON THE PRESIDENT OF INDIA",
+      "date": "2026-11-23",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zNkdhdGk5S1FCTHpnMGpqY0NRdnRvbnlfbTBsRGlEaXZfMk1zb3BGY0Q5Y05uT1JNVlo5aWJWSkJyZGdvMUNMNzFRbDM5QjVxYXFObEY0bUxISXkzeDdHaVQwc0hDMUFROTVrVWZ6ZVVmYS1XLXhJYmxudXc?oc=5",
+      "publisher": "pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "National Affairs",
+      "headline": "India’s Biggest Semiconductor Event to be held in Yashobhoomi, New Delhi from 17th – 19th September 2026",
+      "date": "2026-11-23",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUZ0czY3lpN0gwZzQ2TUNydmJURlNBbFhkY1BKM0JrNTZ1X2l0TXBTNy1kajZJWkJBS1U3bWtpdEpfZHhXOWx4S2FmREFxU2JMSUxpbVM1YzVKRW14a1VrWFNGaWZ6N05fbW9FTU0tUFBvVUgwQTlmR0d2Mzk?oc=5",
+      "publisher": "pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "National Affairs",
+      "headline": "PRESIDENT OF INDIA’S MESSAGE ON THE EVE OF ‘MARTYRDOM DAY’ OF GURU TEGH BAHADUR JI",
+      "date": "2026-11-23",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YN21yY1ZxY0dlSlN1d3A3OHJyQ2JiVmstcVY3aGtjRmFXU0FnOTVKYXJkMVVzNnJQSDdBMERtbEVWWGtySW00WHk5U3lEdEVLRDFCU0xSeGZMemRPQjVTMXRSSWEzY25tdTY0OFBhYnBFS0dkMk5aRHRGeko?oc=5",
+      "publisher": "pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
     {
       "topic": "Railways",
       "headline": "Railway Minister Ashwini Vaishnaw Unveils Eight More Structural Reforms under ‘Reform Express’ to Strengthen India's Freight Operations",
@@ -10,18 +58,10 @@
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
     {
-      "topic": "Economy",
-      "headline": "Manufacturing Momentum:Building a Self-Reliant India",
-      "date": "2026-11-22",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yMGlFckxWVFFsYkxIZ05wRzdVTWJPV3RwTV9BV0lWUFZZWmZ5NWQ5bzhHRlVjMXZmRklDMDd3ZXMxU0I3ZUtOaWhucTFRY254YTF1VDVrRGFRSXJtMmhvbXpCaktWX1k0ZEtSR3NOWnpWbFhOS1E?oc=5",
-      "publisher": "www.pib.gov.in",
-      "summary": "Source-linked headline. Open the original report to review the full facts."
-    },
-    {
       "topic": "Science",
-      "headline": "Union Minister Dr. Jitendra Singh Launches Curtain Raiser for India International Science Festival (IISF) 2026, Calls for Taking Science Beyond Labs to Empower Youth and Startups",
+      "headline": "National Zoological Park organizes 22nd Sunday Bird Walk to Promote Citizen Science and Conservation Awareness; Records 45 Bird Species",
       "date": "2026-11-22",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90RXN1ZUkwcWt4TDI2ME5icWhmeENvTGVqQlUycjVzN0p4eWF3VHlSWXhMZFRMRmQ4c2ZuZnRYUW9IblhudUlseFRyNklPcEphZ0VSeW5fbjZFUWFGTU5WUlhkTjF5U1RPZzNKaWpoSVhXVjR1LUU4TjNIZUo?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aSTVPbUZnazducGhHblJadUZtcVZvZkhFMjFxZmJLaDRvVEJjTURpdVRYSHZDR3Jqd2dPdW54ZXdJNVRKSW9GVkRTaHU2ek1aZElLTFd1ZEd2cU9Bb0VYNE9ocw?oc=5",
       "publisher": "pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
@@ -43,6 +83,14 @@
     },
     {
       "topic": "Economy",
+      "headline": "India’s Expanding Regional Exports",
+      "date": "2026-11-21",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCREtYc2I5UXE2QXdMMUI5VFZfRUIwdEZPeG1zY1BWSkFMU3BxZ2RTRGVNQmVBWDdaRUUtX1Y0VFp5ME90UWN0d3JhSGdqY2w2NUg0UFREY1ctOXIzelV3SVVoSVF5MUREVUdCTG5Ia1NlS3JIS3E0OFFlOTE?oc=5",
+      "publisher": "pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "Economy",
       "headline": "From Indian Fields to Global Markets: Agri-Exports Gather Pace",
       "date": "2026-11-21",
       "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlhlbUlXb2pfUW1GLXZ6MEo4Mkl6MUZMY3ZMN204Ym9CWWxjNV9uRTNtTzBuX2xLMkdfc1Blaml4RGh0dlB2bl90NWpQZXpYYlBZTDZiVl9uVnQ1b1hwTHZ2c0J3R09JRldxLXVfODdiT2FzME1kSTNQY1BjcjdKVC1PSkdsdFdBU0p6RzR5ZVFTa2JFQXBGUkJB?oc=5",
@@ -50,10 +98,18 @@
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
     {
-      "topic": "Economy",
-      "headline": "India’s Expanding Regional Exports",
+      "topic": "Science",
+      "headline": "TRAI releases Recommendations on ‘The Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers'",
       "date": "2026-11-21",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yaS1PcGpldkNPN0xGVEVKVjlHWTl0ZmwyYmQzdU83YThJdklIZmc3N1hXYlBma29BeXd4ODFYUU1SQ2N3YUVDTVFSVXZTa3lHWlBJck5yWTFVek12OGRJU1VlbTM2TWxVTU05dTUwUmpQcFpqZkJIVmpiT2Q?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PMF93T3pOWHJpbWctODhIeVV1YUZ4X1BEaE96b3h6RHNzOEdwQmszRmZvd3VDQ1hibEV0MFVyT0I2UmNPUU9nMHliS2tramNJVm5ndUhacVJ3OGdZejh2eUE5SVJFZE14bHlrYlRpRVprZHJEa2lxOUZiU293Zw?oc=5",
+      "publisher": "www.pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "National Affairs",
+      "headline": "HON’BLE PRESIDENT OF INDIA SMT DROUPADI MURMU TO REVIEW PASSING OUT PARADE OF AUTUMN TERM 2026 AT INDIAN NAVAL ACADEMY, EZHIMALA",
+      "date": "2026-11-21",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92a01aWXpNOWlhamNSUVRTZnU2amxoX0VHY2xIZkxoX1ZDN3RGVEJUOFRZYWVCSmFYckFxMk1veXBsRTJKZEFUaDZIQm1kNS1aRHJDbUtOYnhMUXhqQm5LMHNxZzVFQlBWNFZrUEM3WDZqd3VPdy1RSm0tWEI?oc=5",
       "publisher": "pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
@@ -62,14 +118,6 @@
       "headline": "President of India confers Swachh Survekshan Awards 2025–26",
       "date": "2026-11-21",
       "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wWmZwQ0Rfb2xoNzhycGE1TUNvWUtrdE94ZnB1d2FXUEFqYnFDZWFLNXdqLXdlVmRudGhoV3kwaWZIV3dqRnc0d2VXNUlJcFhFaXVFczgzVzJsTXgxdDQ0b3BUVkRDTDR5MHlfLWlxUFVsMWNsZ01WQThlN3M?oc=5",
-      "publisher": "pib.gov.in",
-      "summary": "Source-linked headline. Open the original report to review the full facts."
-    },
-    {
-      "topic": "National Affairs",
-      "headline": "HON’BLE PRESIDENT OF INDIA SMT DROUPADI MURMU TO REVIEW PASSING OUT PARADE OF AUTUMN TERM 2026 AT INDIAN NAVAL ACADEMY, EZHIMALA",
-      "date": "2026-11-21",
-      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlOFJDYzFISnVhZ00wckh6ZTlrM1kwMDI2aXNabEx5a1pBczNSSWNsTHZ4T0JFcE9TMnNQOFJ3T2x1QnRJTVFDR0c5YjZCOHRPRG1JOTNUNEZ6cVRnTGUxTWEzVkFDREg4NnRtdmEwSVAtcUI1bVRHaWJJSQ?oc=5",
       "publisher": "pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
@@ -129,10 +177,10 @@
     },
     {
       "topic": "Economy",
-      "headline": "Shri Chirag Paswan Calls on Beverage Industry to Make India a Global Hub for Manufacturing, Innovation and Exports",
+      "headline": "Data Users Conference on the New Series of Gross Domestic Product (GDP), Consumer Price Index (CPI) and Index of Industrial Production (IIP) to be held in Mumbai on 23rd November 2026",
       "date": "2026-11-20",
-      "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0VENmal96cTBEMC1EUnZrSHpzRUZocUg4bnpjMDNIcGNnSmptaGdpWWRwa3F5dGlfbUVNVEVjcWM2SldSUGRIdjdaaC16djJPMHB5UVhYRTRTYjBZSGljNGFSWlpXRzFwc2lpZEIwYWU?oc=5",
-      "publisher": "pib.gov.in",
+      "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zWWpZZWhFUXpfWG5pWXlNM3l3RjAybHFXN24zODBwNTc3XzY1VFVROWZMcnZaY2FOdTIxNExkek5Xci1DcHc3WEhSMm5TRzNpR1NVYVRUV05NSG1zVXVhZlNVUHFpd21fM1BSeUltZ2w?oc=5",
+      "publisher": "www.pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
     {
@@ -141,6 +189,30 @@
       "date": "2026-11-20",
       "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkalVQQXNIVUV6OWwwSHBkbUR1R1ZPZ1VrQ2VJVWxJdkhrQnkyT3lkXzJnYVo1LWJKdUVIbFBjenVUWDhWTEtMdDRIY3U4b0N5ZW9idGhiZ1F2UW1mVERfNHVRamNJY1ll?oc=5",
       "publisher": "www.pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "National Affairs",
+      "headline": "CABINET DECISIONS 2025",
+      "date": "2026-11-20",
+      "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OM2FEcm1VSnV2MlRoUFBVOW9USHpOSGxza2tpd2ZqXy1hNkR2akZET25HdzJ2MUNkMmk3N3NWcVRoMWhTZFJTVWxpWE13a1F0dU92bEJPV3dJRzNrNzluOWkzZDBfc0dXUDNmaXJB?oc=5",
+      "publisher": "pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "National Affairs",
+      "headline": "PRESIDENT OF INDIA GRACES 12TH CONVOCATION OF ATAL BIHARI VAJPAYEE INSTITUTE OF MEDICAL SCIENCES AND DR RAM MANOHAR LOHIA HOSPITAL",
+      "date": "2026-11-20",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGbDlvcmZrMDVfZWlZemozR1JIV1hsVzhwc3Z3RlVmZ005YlhmeVlnSlA1ZWVoZ25lMWpJVWlCSnBDRFNwaHBfSHgyWkVNX014ODR3MjJXN0o1MUMySGVabXhZalRLX1NTeUFuNDYwVXB3ZjNYY09WanZ2eFE?oc=5",
+      "publisher": "pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "Economy",
+      "headline": "Shri Chirag Paswan Calls on Beverage Industry to Make India a Global Hub for Manufacturing, Innovation and Exports",
+      "date": "2026-11-20",
+      "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0VENmal96cTBEMC1EUnZrSHpzRUZocUg4bnpjMDNIcGNnSmptaGdpWWRwa3F5dGlfbUVNVEVjcWM2SldSUGRIdjdaaC16djJPMHB5UVhYRTRTYjBZSGljNGFSWlpXRzFwc2lpZEIwYWU?oc=5",
+      "publisher": "pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
     {
@@ -157,22 +229,6 @@
       "date": "2026-11-20",
       "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NOTNWUUNXNVpvcVRBN3l5UDJfcFd5aFBpbllXRTlRaXQxRkJHZWpjOHNHRm9WWmFCVjJhLS1PbU9SeEppTl8zNGNEb3Y3QnZhckFJNm1pczdObXkwbkNvbVhjODlCZTNFZ0RLOHdrdVNKY1pqaXFtVng1S3Q?oc=5",
       "publisher": "pib.gov.in",
-      "summary": "Source-linked headline. Open the original report to review the full facts."
-    },
-    {
-      "topic": "National Affairs",
-      "headline": "PRESIDENT OF INDIA GRACES 12TH CONVOCATION OF ATAL BIHARI VAJPAYEE INSTITUTE OF MEDICAL SCIENCES AND DR RAM MANOHAR LOHIA HOSPITAL",
-      "date": "2026-11-20",
-      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTNWMtbURBN19ZNWVRNlg2VkVuZGE1OUVpYjg2a2NweTRaY21EMl82ZXd4OXBKQ25rLVVwd0pDcE5wR2lnQXNMTXZnc3hDLUhVQTAzNHFkZEdaZHpFVlhpTDI1UXFlZHl5V0RpQ3F1bS1mWnNab01RSHNOcw?oc=5",
-      "publisher": "pib.gov.in",
-      "summary": "Source-linked headline. Open the original report to review the full facts."
-    },
-    {
-      "topic": "Economy",
-      "headline": "Data Users Conference on the New Series of Gross Domestic Product (GDP), Consumer Price Index (CPI) and Index of Industrial Production (IIP) to be held in Mumbai on 23rd November 2026",
-      "date": "2026-11-20",
-      "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zWWpZZWhFUXpfWG5pWXlNM3l3RjAybHFXN24zODBwNTc3XzY1VFVROWZMcnZaY2FOdTIxNExkek5Xci1DcHc3WEhSMm5TRzNpR1NVYVRUV05NSG1zVXVhZlNVUHFpd21fM1BSeUltZ2w?oc=5",
-      "publisher": "www.pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
     {
@@ -254,7 +310,7 @@
       "topic": "Railways",
       "headline": "Indian Railways Registers Freight Loading of 145.07 Million Tonnes in October 2026",
       "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxZ3ViYnI4TjU3YVdrVGpUa0RTZE1uaUhZZGZwY1dGVTZuZmxsaGtPVkgyVFpIWllZZWNVaTk0cW1Xc3FnUktveFFxaHFOdGtsTElCVUNjYmg1RjZDb0tZSWl4bFM4WE13VDZKd1ZHYVh5NmdpenZnRkx3bU4?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzdmtiaVNlNkRhUXhKT2t5dk94ck5mTmdkaTVlUXZXZ21uaU9yaVhLbTUwM3pkZGQxcUprYjQ2dE41RGhqT2ZUMW5RMGtfNktVYUczM1ZoZUhoMUNuLTdGbWxGOHpLTnRDUUtGZ0t5aDNPaVVCRE82TFlVYmlmUQ?oc=5",
       "publisher": "pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
@@ -299,11 +355,11 @@
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
     {
-      "topic": "Economy",
-      "headline": "Telecom Manufacturing Zone, Gwalior Gains Momentum with Distribution of Letters of Intent to 25 Companies",
+      "topic": "Science",
+      "headline": "TDB-DST signs agreement with Astrome for ₹64.05 crore RDI support to develop sovereign space-based AI-ELINT constellation",
       "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vWDRGSHBsVFlJQW15MGN0eXZ5eU0zc3ZlN3Z2blVPNlRrX0UwbTc1R19Kd2t3aF95eVZidGE1WHpOTmhVdF9UUkREWXUxaGc4WnhWd0FfUVVVUjFLM3pTMnoxVjJoLTNwZ2NF?oc=5",
-      "publisher": "www.pib.gov.in",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RUGhZUDRTek16T2ZxempPUWdmZFJFclBhem9vcmtCd2tkSVZJaUFJQnBsZnNkc3k4M2pUelVaZTRiR2gxZWpHaHljTjhfcTZWNmdZSUo0RExoR1BsTnIzV0lsQ2FtQUd2QzdLWUhzc202WjFiQ21fVDBRU1M?oc=5",
+      "publisher": "pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
     {
@@ -316,9 +372,9 @@
     },
     {
       "topic": "Science",
-      "headline": "TDB-DST signs agreement with Astrome for ₹64.05 crore RDI support to develop sovereign space-based AI-ELINT constellation",
+      "headline": "VELC on board Aditya-L1 reveals asymmetric expansion of solar eruption that could impact space weather",
       "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RUGhZUDRTek16T2ZxempPUWdmZFJFclBhem9vcmtCd2tkSVZJaUFJQnBsZnNkc3k4M2pUelVaZTRiR2gxZWpHaHljTjhfcTZWNmdZSUo0RExoR1BsTnIzV0lsQ2FtQUd2QzdLWUhzc202WjFiQ21fVDBRU1M?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JN0tiTDl1NzRBWVhQQUwzUXRFa2x0bjR4azBpM203VEYtTjBXOVA5VTFoc0JVUkZrY0NaWXRYYlhUd0h6UTJQUThzcXJFNEhnTi1UeDJLSG5hSXB1Sm95RTBVRGJsZUJWbEVxVmNzb0pFQ0xHeHVRQ1lTczU?oc=5",
       "publisher": "pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
@@ -326,7 +382,15 @@
       "topic": "National Affairs",
       "headline": "ENVOYS OF THREE NATIONS PRESENT CREDENTIALS TO THE PRESIDENT OF INDIA",
       "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1idV9UbG1BOGM1aVZSSGRIWFFrWlhMcnNDb0dKcnZ3RjhtTW1oTXhqdEo4bnRfMnNSWFZ4QklJSHZmWkhvTVlPd1NkQ1NqVVpBR2VYWGxwZFJMNFhQUUdjME9RYw?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NaUtjS3Nha2hkVC1vN28xNzRRb0QtOG5NT1pTUUc4bDd4ajRxMWRpZjJ6WXFTMnZ3QkNSVUI0U2x0a0x5eTA1TWhYbVIzbW0taWcxbmRSX011cjlqYm9aQ3h4VUJ5a2VN?oc=5",
+      "publisher": "www.pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "National Affairs",
+      "headline": "Cabinet approves alteration of the name of the State of “Kerala” to “Keralam”",
+      "date": "2026-11-19",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lT1BMb0VkXzBXQWNjaWRMSC14VU9TMUxBYVliMk5uWmFQVlVQWEF1ckg3a3VCX0xwSlVDVDZ6QUxWUm5XLXJqSmdQTkFaOFo0OWNRSGduekdGTEg0SUdmMkZkZk9QNHpSR1Y0SzB6X1Y3TnlPXzhuX21OM0R0QQ?oc=5",
       "publisher": "pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
@@ -334,8 +398,16 @@
       "topic": "National Affairs",
       "headline": "PRESIDENT OF INDIA INTERACTS WITH MERITORIOUS STUDENTS FROM EKLAVYA MODEL RESIDENTIAL SCHOOLS",
       "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RSjZZNnlrSmlIcy1RV0w1eHJQZ1BXSmx2NjFtc0h6Y0h0V1JCZXZLUm00cXZSZ2RIbVFpQWwxSkt1c0hibXd3Z0syb29jQUNGQUpHdU5ObGRsMHFPcTdoMEM5OFpkY3Jab21Pc3VTcE1UTnB3c0JaTGJBbnc?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XRVVzcjNGQ19IYjNBUWJuMTJ6UmVaVDY3aDNiOERmUlVIWnlodFlOVjNzYW5KUU9mX1BUMVVjX3ZURi1UdXZPcWNKMUVPaE1BMk93VF9CVFFpOHFLb1FETkd2ZEpkdEg5N1NSTF91R015RDRxSEFJa0xlaGk?oc=5",
       "publisher": "pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "Economy",
+      "headline": "Telecom Manufacturing Zone, Gwalior Gains Momentum with Distribution of Letters of Intent to 25 Companies",
+      "date": "2026-11-19",
+      "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vWDRGSHBsVFlJQW15MGN0eXZ5eU0zc3ZlN3Z2blVPNlRrX0UwbTc1R19Kd2t3aF95eVZidGE1WHpOTmhVdF9UUkREWXUxaGc4WnhWd0FfUVVVUjFLM3pTMnoxVjJoLTNwZ2NF?oc=5",
+      "publisher": "www.pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
     {
@@ -371,6 +443,14 @@
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
     {
+      "topic": "Awards & Sports",
+      "headline": "Five Web Series Nominated for Best Web Series Award at IFFI 2026",
+      "date": "2026-11-18",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kOFdSUWllYlhGRGNWSEVTTTh3NDY3T09YV3U1ZXdZNmwzUmV4TUxTVG0tZm55Q00wQ3JrSjYxZE5wQWYtNzNJdHZZMHVDOU5IS0pkQTNRYjhJd001emVOcl9SenQ0VVJqYXh1MlJ4T3E2MGh1aXJNZDQtbDc?oc=5",
+      "publisher": "www.pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
       "topic": "National Affairs",
       "headline": "India's Wind Energy Transition",
       "date": "2026-11-18",
@@ -382,16 +462,8 @@
       "topic": "National Affairs",
       "headline": "PRESIDENT OF INDIA GRACES THE VALEDICTORY CEREMONY OF THE CENTENARY CELEBRATIONS OF SHRI RAM COLLEGE OF COMMERCE",
       "date": "2026-11-18",
-      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPRVp1ajdvajZXOTJ6Njk0SThxMUlIcnNvVTVpdXhSTXh0VVFKMXJuWjRoeHNNZEpHam1PN1FMNVlrSDdoVEozenZmUkVvUUtKRGJQV1JWcjR1dTlGYnlfXzdZdTcxRmdfZy1NZ2dkLWF1a3ZOVWxqa3JfNA?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZUNFZlZaWGtFU3dVTUhYUTNLalhDSHJfTXNURVhjSTN2SVZxTHZKUl9UaXMteHlUTVBEYkIxZnRMRDVHSTc5Rzd6UXZZN1FfZ2FtX0Mxc2xSQy03VVlXTVFieFVZU1VTekhkNVpUZVN0dmVyMVVWN0NTMmM?oc=5",
       "publisher": "pib.gov.in",
-      "summary": "Source-linked headline. Open the original report to review the full facts."
-    },
-    {
-      "topic": "Awards & Sports",
-      "headline": "Five Web Series Nominated for Best Web Series Award at IFFI 2026",
-      "date": "2026-11-18",
-      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UWS1GcjBIY0s0VF81UERQQVI4b0g1cUo5Y1pubXluUUVSYmZoOXZLeDVidFliR1kwZXZTRjJlc09YNnIyOXJ2c1NDX3czTjc5UmFaUGpFUUtHaUhYYnZmSHhuOHBTc2ZieE56VW5rTVZMT0N1dm52bDh0cw?oc=5",
-      "publisher": "www.pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
     {
@@ -419,11 +491,27 @@
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
     {
+      "topic": "Economy",
+      "headline": "RBI, Kohima Organises NAMCABS 3.0 Workshop for Bankers with Focus on Eastern Districts at Mon",
+      "date": "2026-11-17",
+      "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FcjRjemI2dkFSVnFOVU15bmhkU3UzYnJ0dXBiVDAzZmNtT3VKU1dBZFFtRVpwcEh4OGhMM3FWUDZDNzZyV2hfbVJQdURkZTJPLTlwcVFESThYNVdPb3J2QUoybFB5Q0xO?oc=5",
+      "publisher": "www.pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
       "topic": "Science",
       "headline": "Event: Curtain Raiser - India International Science Festival (IISF) 2026",
       "date": "2026-11-17",
       "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xcWk1c2dXVXg4UFVGQWloSVNUQmtUcmVfUzJwX0VHZGVEMlBNUFZfRTl5Z1paSGt1UXZEd0tHMGI1dENBQ1J2MHpyTzhEb2NZTkxMNWpZVDI2cHZuOHE1VWFxVTNDcm9MbTV2ZVduV2VieURDX1pz?oc=5",
       "publisher": "pib.gov.in",
+      "summary": "Source-linked headline. Open the original report to review the full facts."
+    },
+    {
+      "topic": "Science",
+      "headline": "IITM Celebrates 65th Foundation Day, Highlights Major Advances in Weather and Climate Research",
+      "date": "2026-11-17",
+      "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNk1FSXhYeWwtamtoR3IyWU5WVlVtaHBMZ1BkRTBNWWJOM1g0MTlBbncwQ3ctLVJudk5MRjFtenNoUDhFSVFDUXI4TW9odWpycDRrZmxiZ1RqSi1CTGdfTW84MWI4TzRDYldSdGotbVNBalhCNVRIdXN6U1BBajVWVGJvZw?oc=5",
+      "publisher": "www.pib.gov.in",
       "summary": "Source-linked headline. Open the original report to review the full facts."
     },
     {
@@ -1547,15 +1635,111 @@
   ],
   "headlineReadingQuestions": [
     {
-      "id": "headline-2026-11-22-0",
-      "question": "Which news category best fits this headline? Railway Minister Ashwini Vaishnaw Unveils Eight More Structural Reforms under ‘Reform Express’ to Strengthen India's Freight Operations",
+      "id": "headline-2026-11-23-0",
+      "question": "Which news category best fits this headline? Manufacturing Momentum:Building a Self-Reliant India",
+      "options": [
+        "Economy",
+        "Railways",
+        "Government Schemes",
+        "Science"
+      ],
+      "answer": 0,
+      "explanation": "This headline is categorized as Economy. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-23",
+      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRmtvLV9MbC1nX2RudWdiZ2xQUnpCRmtTTU0xNkF2eV96Zi1kUUhkVjlrMWNGUkVKZzZXRUdEQjN0eGZRS3AxSm1BWC0tbnVHOXU2LUJDNlR1eDVpY1B0N09Ga01xUG9XSzVRejNpOHRvREdBS3c?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-23-1",
+      "question": "Which news category best fits this headline? Union Minister Dr. Jitendra Singh Launches Curtain Raiser for India International Science Festival (IISF) 2026, Calls for Taking Science Beyond Labs to Empower Youth and Startups",
       "options": [
         "Railways",
         "Government Schemes",
         "Economy",
         "Science"
       ],
+      "answer": 3,
+      "explanation": "This headline is categorized as Science. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-23",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90RXN1ZUkwcWt4TDI2ME5icWhmeENvTGVqQlUycjVzN0p4eWF3VHlSWXhMZFRMRmQ4c2ZuZnRYUW9IblhudUlseFRyNklPcEphZ0VSeW5fbjZFUWFGTU5WUlhkTjF5U1RPZzNKaWpoSVhXVjR1LUU4TjNIZUo?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-23-2",
+      "question": "Which news category best fits this headline? PRESIDENT OF INDIA TO VISIT ODISHA FROM NOVEMBER 24 TO 25",
+      "options": [
+        "Government Schemes",
+        "Economy",
+        "National Affairs",
+        "Railways"
+      ],
+      "answer": 2,
+      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-23",
+      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82MzE4VzltLUlzRkpOQzBSNklKeHR0LVJ5TWVHanJ0SE0tM25UekJweVdndkN3RGozRmh5c3ZNYkc5TmdxLThNY2I3bDV3S0RidlVrN2JncFpVQ2VCUmpHOGhaVnE2cWZCdzJ1bGV0NmVRMVNKalliUW9Vaw?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-23-3",
+      "question": "Which news category best fits this headline? PRIME MINISTER OF NEPAL CALLS ON THE PRESIDENT OF INDIA",
+      "options": [
+        "Economy",
+        "National Affairs",
+        "Railways",
+        "Government Schemes"
+      ],
+      "answer": 1,
+      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-23",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zNkdhdGk5S1FCTHpnMGpqY0NRdnRvbnlfbTBsRGlEaXZfMk1zb3BGY0Q5Y05uT1JNVlo5aWJWSkJyZGdvMUNMNzFRbDM5QjVxYXFObEY0bUxISXkzeDdHaVQwc0hDMUFROTVrVWZ6ZVVmYS1XLXhJYmxudXc?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-23-4",
+      "question": "Which news category best fits this headline? India’s Biggest Semiconductor Event to be held in Yashobhoomi, New Delhi from 17th – 19th September 2026",
+      "options": [
+        "National Affairs",
+        "Railways",
+        "Government Schemes",
+        "Economy"
+      ],
       "answer": 0,
+      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-23",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUZ0czY3lpN0gwZzQ2TUNydmJURlNBbFhkY1BKM0JrNTZ1X2l0TXBTNy1kajZJWkJBS1U3bWtpdEpfZHhXOWx4S2FmREFxU2JMSUxpbVM1YzVKRW14a1VrWFNGaWZ6N05fbW9FTU0tUFBvVUgwQTlmR0d2Mzk?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-23-5",
+      "question": "Which news category best fits this headline? PRESIDENT OF INDIA’S MESSAGE ON THE EVE OF ‘MARTYRDOM DAY’ OF GURU TEGH BAHADUR JI",
+      "options": [
+        "Railways",
+        "Government Schemes",
+        "Economy",
+        "National Affairs"
+      ],
+      "answer": 3,
+      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-23",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YN21yY1ZxY0dlSlN1d3A3OHJyQ2JiVmstcVY3aGtjRmFXU0FnOTVKYXJkMVVzNnJQSDdBMERtbEVWWGtySW00WHk5U3lEdEVLRDFCU0xSeGZMemRPQjVTMXRSSWEzY25tdTY0OFBhYnBFS0dkMk5aRHRGeko?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-22-6",
+      "question": "Which news category best fits this headline? Railway Minister Ashwini Vaishnaw Unveils Eight More Structural Reforms under ‘Reform Express’ to Strengthen India's Freight Operations",
+      "options": [
+        "Economy",
+        "Science",
+        "Railways",
+        "Government Schemes"
+      ],
+      "answer": 2,
       "explanation": "This headline is categorized as Railways. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-22",
@@ -1563,40 +1747,8 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-22-1",
-      "question": "Which news category best fits this headline? Manufacturing Momentum:Building a Self-Reliant India",
-      "options": [
-        "Railways",
-        "Government Schemes",
-        "Science",
-        "Economy"
-      ],
-      "answer": 3,
-      "explanation": "This headline is categorized as Economy. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-22",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yMGlFckxWVFFsYkxIZ05wRzdVTWJPV3RwTV9BV0lWUFZZWmZ5NWQ5bzhHRlVjMXZmRklDMDd3ZXMxU0I3ZUtOaWhucTFRY254YTF1VDVrRGFRSXJtMmhvbXpCaktWX1k0ZEtSR3NOWnpWbFhOS1E?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-22-2",
-      "question": "Which news category best fits this headline? Union Minister Dr. Jitendra Singh Launches Curtain Raiser for India International Science Festival (IISF) 2026, Calls for Taking Science Beyond Labs to Empower Youth and Startups",
-      "options": [
-        "Government Schemes",
-        "Economy",
-        "Science",
-        "Railways"
-      ],
-      "answer": 2,
-      "explanation": "This headline is categorized as Science. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-22",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90RXN1ZUkwcWt4TDI2ME5icWhmeENvTGVqQlUycjVzN0p4eWF3VHlSWXhMZFRMRmQ4c2ZuZnRYUW9IblhudUlseFRyNklPcEphZ0VSeW5fbjZFUWFGTU5WUlhkTjF5U1RPZzNKaWpoSVhXVjR1LUU4TjNIZUo?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-22-3",
-      "question": "Which news category best fits this headline? Strengthening India’s Space Sovereignty",
+      "id": "headline-2026-11-22-7",
+      "question": "Which news category best fits this headline? National Zoological Park organizes 22nd Sunday Bird Walk to Promote Citizen Science and Conservation Awareness; Records 45 Bird Species",
       "options": [
         "Economy",
         "Science",
@@ -1607,19 +1759,35 @@
       "explanation": "This headline is categorized as Science. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-22",
+      "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aSTVPbUZnazducGhHblJadUZtcVZvZkhFMjFxZmJLaDRvVEJjTURpdVRYSHZDR3Jqd2dPdW54ZXdJNVRKSW9GVkRTaHU2ek1aZElLTFd1ZEd2cU9Bb0VYNE9ocw?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-22-8",
+      "question": "Which news category best fits this headline? Strengthening India’s Space Sovereignty",
+      "options": [
+        "Science",
+        "Railways",
+        "Government Schemes",
+        "Economy"
+      ],
+      "answer": 0,
+      "explanation": "This headline is categorized as Science. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-22",
       "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hZU45N3RiejNFNzMyUW9rMGJFWkNVYUxJVDRmbU9LbENrNzRvc2FiWVJhcUIxZUQ2ZWpjaUhNNWlKOUZtMG5RdnltRDN5MGJhclV4NFh4WTkzSUlydkRtU1FUT3RvN1VxcU9Xd1JHMkQ4RU52eTBZ?oc=5",
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-21-4",
+      "id": "headline-2026-11-21-9",
       "question": "Which news category best fits this headline? Surat–Bilimora Section of Mumbai–Ahmedabad Bullet Train Corridor Energised",
       "options": [
-        "Railways",
         "Government Schemes",
         "Economy",
-        "Science"
+        "Science",
+        "Railways"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "This headline is categorized as Railways. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-21",
@@ -1627,23 +1795,7 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-21-5",
-      "question": "Which news category best fits this headline? From Indian Fields to Global Markets: Agri-Exports Gather Pace",
-      "options": [
-        "Railways",
-        "Government Schemes",
-        "Science",
-        "Economy"
-      ],
-      "answer": 3,
-      "explanation": "This headline is categorized as Economy. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-21",
-      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlhlbUlXb2pfUW1GLXZ6MEo4Mkl6MUZMY3ZMN204Ym9CWWxjNV9uRTNtTzBuX2xLMkdfc1Blaml4RGh0dlB2bl90NWpQZXpYYlBZTDZiVl9uVnQ1b1hwTHZ2c0J3R09JRldxLXVfODdiT2FzME1kSTNQY1BjcjdKVC1PSkdsdFdBU0p6RzR5ZVFTa2JFQXBGUkJB?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-21-6",
+      "id": "headline-2026-11-21-10",
       "question": "Which news category best fits this headline? India’s Expanding Regional Exports",
       "options": [
         "Government Schemes",
@@ -1655,44 +1807,44 @@
       "explanation": "This headline is categorized as Economy. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-21",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yaS1PcGpldkNPN0xGVEVKVjlHWTl0ZmwyYmQzdU83YThJdklIZmc3N1hXYlBma29BeXd4ODFYUU1SQ2N3YUVDTVFSVXZTa3lHWlBJck5yWTFVek12OGRJU1VlbTM2TWxVTU05dTUwUmpQcFpqZkJIVmpiT2Q?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCREtYc2I5UXE2QXdMMUI5VFZfRUIwdEZPeG1zY1BWSkFMU3BxZ2RTRGVNQmVBWDdaRUUtX1Y0VFp5ME90UWN0d3JhSGdqY2w2NUg0UFREY1ctOXIzelV3SVVoSVF5MUREVUdCTG5Ia1NlS3JIS3E0OFFlOTE?oc=5",
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-21-7",
-      "question": "Which news category best fits this headline? President of India confers Swachh Survekshan Awards 2025–26",
+      "id": "headline-2026-11-21-11",
+      "question": "Which news category best fits this headline? From Indian Fields to Global Markets: Agri-Exports Gather Pace",
       "options": [
+        "Science",
         "Economy",
-        "National Affairs",
         "Railways",
         "Government Schemes"
       ],
       "answer": 1,
-      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
+      "explanation": "This headline is categorized as Economy. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-21",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wWmZwQ0Rfb2xoNzhycGE1TUNvWUtrdE94ZnB1d2FXUEFqYnFDZWFLNXdqLXdlVmRudGhoV3kwaWZIV3dqRnc0d2VXNUlJcFhFaXVFczgzVzJsTXgxdDQ0b3BUVkRDTDR5MHlfLWlxUFVsMWNsZ01WQThlN3M?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlhlbUlXb2pfUW1GLXZ6MEo4Mkl6MUZMY3ZMN204Ym9CWWxjNV9uRTNtTzBuX2xLMkdfc1Blaml4RGh0dlB2bl90NWpQZXpYYlBZTDZiVl9uVnQ1b1hwTHZ2c0J3R09JRldxLXVfODdiT2FzME1kSTNQY1BjcjdKVC1PSkdsdFdBU0p6RzR5ZVFTa2JFQXBGUkJB?oc=5",
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-21-8",
-      "question": "Which news category best fits this headline? HON’BLE PRESIDENT OF INDIA SMT DROUPADI MURMU TO REVIEW PASSING OUT PARADE OF AUTUMN TERM 2026 AT INDIAN NAVAL ACADEMY, EZHIMALA",
+      "id": "headline-2026-11-21-12",
+      "question": "Which news category best fits this headline? TRAI releases Recommendations on ‘The Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers'",
       "options": [
-        "National Affairs",
+        "Science",
         "Railways",
         "Government Schemes",
         "Economy"
       ],
       "answer": 0,
-      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
+      "explanation": "This headline is categorized as Science. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-21",
-      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlOFJDYzFISnVhZ00wckh6ZTlrM1kwMDI2aXNabEx5a1pBczNSSWNsTHZ4T0JFcE9TMnNQOFJ3T2x1QnRJTVFDR0c5YjZCOHRPRG1JOTNUNEZ6cVRnTGUxTWEzVkFDREg4NnRtdmEwSVAtcUI1bVRHaWJJSQ?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PMF93T3pOWHJpbWctODhIeVV1YUZ4X1BEaE96b3h6RHNzOEdwQmszRmZvd3VDQ1hibEV0MFVyT0I2UmNPUU9nMHliS2tramNJVm5ndUhacVJ3OGdZejh2eUE5SVJFZE14bHlrYlRpRVprZHJEa2lxOUZiU293Zw?oc=5",
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-21-9",
-      "question": "Which news category best fits this headline? Vice President Shri C. P. Radhakrishnan addresses 23rd Convocation of Symbiosis International University in Pune",
+      "id": "headline-2026-11-21-13",
+      "question": "Which news category best fits this headline? HON’BLE PRESIDENT OF INDIA SMT DROUPADI MURMU TO REVIEW PASSING OUT PARADE OF AUTUMN TERM 2026 AT INDIAN NAVAL ACADEMY, EZHIMALA",
       "options": [
         "Railways",
         "Government Schemes",
@@ -1703,19 +1855,51 @@
       "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-21",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92a01aWXpNOWlhamNSUVRTZnU2amxoX0VHY2xIZkxoX1ZDN3RGVEJUOFRZYWVCSmFYckFxMk1veXBsRTJKZEFUaDZIQm1kNS1aRHJDbUtOYnhMUXhqQm5LMHNxZzVFQlBWNFZrUEM3WDZqd3VPdy1RSm0tWEI?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-21-14",
+      "question": "Which news category best fits this headline? President of India confers Swachh Survekshan Awards 2025–26",
+      "options": [
+        "Government Schemes",
+        "Economy",
+        "National Affairs",
+        "Railways"
+      ],
+      "answer": 2,
+      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-21",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wWmZwQ0Rfb2xoNzhycGE1TUNvWUtrdE94ZnB1d2FXUEFqYnFDZWFLNXdqLXdlVmRudGhoV3kwaWZIV3dqRnc0d2VXNUlJcFhFaXVFczgzVzJsTXgxdDQ0b3BUVkRDTDR5MHlfLWlxUFVsMWNsZ01WQThlN3M?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-21-15",
+      "question": "Which news category best fits this headline? Vice President Shri C. P. Radhakrishnan addresses 23rd Convocation of Symbiosis International University in Pune",
+      "options": [
+        "Economy",
+        "National Affairs",
+        "Railways",
+        "Government Schemes"
+      ],
+      "answer": 1,
+      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-21",
       "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HNGx6ZFphbmI2M0lIZGpNeWlvWEV5c1I2enU4a1l1YnVha1dDYzlaZkhaSHpFRVRFbmRKUzZJeGtjMzNEZTMwRmZHeXBIR0h2WHI3Y0RDOE1CTVlES0E2UEo5MlNmSTdjSUpN?oc=5",
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-21-10",
+      "id": "headline-2026-11-21-16",
       "question": "Which news category best fits this headline? Announcement of National Gopal Ratna Award 2026 winners -reg.",
       "options": [
-        "Government Schemes",
-        "Economy",
         "Awards & Sports",
-        "Railways"
+        "Railways",
+        "Government Schemes",
+        "Economy"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "This headline is categorized as Awards & Sports. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-21",
@@ -1723,15 +1907,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-21-11",
+      "id": "headline-2026-11-21-17",
       "question": "Which news category best fits this headline? RBI Governor Sanjay Malhotra urges banks to step up lending to small, micro enterprises for greater economic gains - TradingView",
       "options": [
-        "Science",
-        "Economy",
         "Railways",
-        "Government Schemes"
+        "Government Schemes",
+        "Science",
+        "Economy"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "This headline is categorized as Economy. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-21",
@@ -1739,15 +1923,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-21-12",
+      "id": "headline-2026-11-21-18",
       "question": "Which news category best fits this headline? Indian space startup SatSure gets Rs 60 crore to advance satellite technology - India Today",
       "options": [
-        "Science",
-        "Railways",
         "Government Schemes",
-        "Economy"
+        "Economy",
+        "Science",
+        "Railways"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "This headline is categorized as Science. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-21",
@@ -1755,15 +1939,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-13",
+      "id": "headline-2026-11-20-19",
       "question": "Which news category best fits this headline? Indian Railways Organises Mega Camp Under Digital Life Certificate Campaign 5.0 in New Delhi",
       "options": [
-        "Government Schemes",
-        "Economy",
         "Science",
-        "Railways"
+        "Railways",
+        "Government Schemes",
+        "Economy"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "This headline is categorized as Railways. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -1771,15 +1955,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-14",
+      "id": "headline-2026-11-20-20",
       "question": "Which news category best fits this headline? India's High-Speed Rail Future:Building a Standardised Path for Expansion",
       "options": [
-        "Economy",
-        "Science",
         "Railways",
-        "Government Schemes"
+        "Government Schemes",
+        "Economy",
+        "Science"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "This headline is categorized as Railways. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -1787,15 +1971,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-15",
+      "id": "headline-2026-11-20-21",
       "question": "Which news category best fits this headline? Union Minister Shri Rajiv Ranjan Singh Calls for Mission-Mode Implementation of SVAMITVA to Achieve Saturation by March 31, 2027",
       "options": [
-        "Science",
-        "Government Schemes",
         "Railways",
-        "Economy"
+        "Economy",
+        "Science",
+        "Government Schemes"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "This headline is categorized as Government Schemes. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -1803,95 +1987,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-16",
-      "question": "Which news category best fits this headline? Shri Chirag Paswan Calls on Beverage Industry to Make India a Global Hub for Manufacturing, Innovation and Exports",
-      "options": [
-        "Economy",
-        "Railways",
-        "Government Schemes",
-        "Science"
-      ],
-      "answer": 0,
-      "explanation": "This headline is categorized as Economy. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-20",
-      "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0VENmal96cTBEMC1EUnZrSHpzRUZocUg4bnpjMDNIcGNnSmptaGdpWWRwa3F5dGlfbUVNVEVjcWM2SldSUGRIdjdaaC16djJPMHB5UVhYRTRTYjBZSGljNGFSWlpXRzFwc2lpZEIwYWU?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-20-17",
-      "question": "Which news category best fits this headline? INSA President Professor Shekhar C. Mande Appointed to UN’s 10-Member Group on Science, Technology and Innovation for Sustainable Development Goals",
-      "options": [
-        "Railways",
-        "Government Schemes",
-        "Economy",
-        "Science"
-      ],
-      "answer": 3,
-      "explanation": "This headline is categorized as Science. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-20",
-      "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkalVQQXNIVUV6OWwwSHBkbUR1R1ZPZ1VrQ2VJVWxJdkhrQnkyT3lkXzJnYVo1LWJKdUVIbFBjenVUWDhWTEtMdDRIY3U4b0N5ZW9idGhiZ1F2UW1mVERfNHVRamNJY1ll?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-20-18",
-      "question": "Which news category best fits this headline? LOK SABHA SPEAKER TO INAUGURATE CONFERENCE OF CHAIRPERSONS OF PUBLIC ACCOUNTS COMMITTEES OF PARLIAMENT OF INDIA AND STATE/UT LEGISLATURES IN THIRUVANANTHAPURAM",
+      "id": "headline-2026-11-20-22",
+      "question": "Which news category best fits this headline? Data Users Conference on the New Series of Gross Domestic Product (GDP), Consumer Price Index (CPI) and Index of Industrial Production (IIP) to be held in Mumbai on 23rd November 2026",
       "options": [
         "Government Schemes",
+        "Science",
         "Economy",
-        "National Affairs",
         "Railways"
       ],
       "answer": 2,
-      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-20",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81OWZfV1JjLUNCbVJNcVNTbXpfTDdmdUJBendaWmphVU5feGxWNWFsemNJUGVnNzlsUFJxWDhsVjdNbXhQUHUxMnpNMlFNR3htc3I1WUVld0NUZVAwQXM4alJuM1JyVGQ1YVNGOUVKdXVtc21rbmdDbXZ5emZZZw?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-20-19",
-      "question": "Which news category best fits this headline? Union Minister Shri Pralhad Joshi Visits ISA Pavilion at India AI Impact Summit",
-      "options": [
-        "Economy",
-        "National Affairs",
-        "Railways",
-        "Government Schemes"
-      ],
-      "answer": 1,
-      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-20",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NOTNWUUNXNVpvcVRBN3l5UDJfcFd5aFBpbllXRTlRaXQxRkJHZWpjOHNHRm9WWmFCVjJhLS1PbU9SeEppTl8zNGNEb3Y3QnZhckFJNm1pczdObXkwbkNvbVhjODlCZTNFZ0RLOHdrdVNKY1pqaXFtVng1S3Q?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-20-20",
-      "question": "Which news category best fits this headline? PRESIDENT OF INDIA GRACES 12TH CONVOCATION OF ATAL BIHARI VAJPAYEE INSTITUTE OF MEDICAL SCIENCES AND DR RAM MANOHAR LOHIA HOSPITAL",
-      "options": [
-        "National Affairs",
-        "Railways",
-        "Government Schemes",
-        "Economy"
-      ],
-      "answer": 0,
-      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-20",
-      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTNWMtbURBN19ZNWVRNlg2VkVuZGE1OUVpYjg2a2NweTRaY21EMl82ZXd4OXBKQ25rLVVwd0pDcE5wR2lnQXNMTXZnc3hDLUhVQTAzNHFkZEdaZHpFVlhpTDI1UXFlZHl5V0RpQ3F1bS1mWnNab01RSHNOcw?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-20-21",
-      "question": "Which news category best fits this headline? Data Users Conference on the New Series of Gross Domestic Product (GDP), Consumer Price Index (CPI) and Index of Industrial Production (IIP) to be held in Mumbai on 23rd November 2026",
-      "options": [
-        "Railways",
-        "Government Schemes",
-        "Science",
-        "Economy"
-      ],
-      "answer": 3,
       "explanation": "This headline is categorized as Economy. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -1899,8 +2003,56 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-22",
-      "question": "Which news category best fits this headline? India’s Electronics Exports Gain Momentum",
+      "id": "headline-2026-11-20-23",
+      "question": "Which news category best fits this headline? INSA President Professor Shekhar C. Mande Appointed to UN’s 10-Member Group on Science, Technology and Innovation for Sustainable Development Goals",
+      "options": [
+        "Economy",
+        "Science",
+        "Railways",
+        "Government Schemes"
+      ],
+      "answer": 1,
+      "explanation": "This headline is categorized as Science. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-20",
+      "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkalVQQXNIVUV6OWwwSHBkbUR1R1ZPZ1VrQ2VJVWxJdkhrQnkyT3lkXzJnYVo1LWJKdUVIbFBjenVUWDhWTEtMdDRIY3U4b0N5ZW9idGhiZ1F2UW1mVERfNHVRamNJY1ll?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-20-24",
+      "question": "Which news category best fits this headline? CABINET DECISIONS 2025",
+      "options": [
+        "National Affairs",
+        "Railways",
+        "Government Schemes",
+        "Economy"
+      ],
+      "answer": 0,
+      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-20",
+      "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OM2FEcm1VSnV2MlRoUFBVOW9USHpOSGxza2tpd2ZqXy1hNkR2akZET25HdzJ2MUNkMmk3N3NWcVRoMWhTZFJTVWxpWE13a1F0dU92bEJPV3dJRzNrNzluOWkzZDBfc0dXUDNmaXJB?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-20-25",
+      "question": "Which news category best fits this headline? PRESIDENT OF INDIA GRACES 12TH CONVOCATION OF ATAL BIHARI VAJPAYEE INSTITUTE OF MEDICAL SCIENCES AND DR RAM MANOHAR LOHIA HOSPITAL",
+      "options": [
+        "Railways",
+        "Government Schemes",
+        "Economy",
+        "National Affairs"
+      ],
+      "answer": 3,
+      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-20",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGbDlvcmZrMDVfZWlZemozR1JIV1hsVzhwc3Z3RlVmZ005YlhmeVlnSlA1ZWVoZ25lMWpJVWlCSnBDRFNwaHBfSHgyWkVNX014ODR3MjJXN0o1MUMySGVabXhZalRLX1NTeUFuNDYwVXB3ZjNYY09WanZ2eFE?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-20-26",
+      "question": "Which news category best fits this headline? Shri Chirag Paswan Calls on Beverage Industry to Make India a Global Hub for Manufacturing, Innovation and Exports",
       "options": [
         "Government Schemes",
         "Science",
@@ -1908,6 +2060,54 @@
         "Railways"
       ],
       "answer": 2,
+      "explanation": "This headline is categorized as Economy. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-20",
+      "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0VENmal96cTBEMC1EUnZrSHpzRUZocUg4bnpjMDNIcGNnSmptaGdpWWRwa3F5dGlfbUVNVEVjcWM2SldSUGRIdjdaaC16djJPMHB5UVhYRTRTYjBZSGljNGFSWlpXRzFwc2lpZEIwYWU?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-20-27",
+      "question": "Which news category best fits this headline? LOK SABHA SPEAKER TO INAUGURATE CONFERENCE OF CHAIRPERSONS OF PUBLIC ACCOUNTS COMMITTEES OF PARLIAMENT OF INDIA AND STATE/UT LEGISLATURES IN THIRUVANANTHAPURAM",
+      "options": [
+        "Economy",
+        "National Affairs",
+        "Railways",
+        "Government Schemes"
+      ],
+      "answer": 1,
+      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-20",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81OWZfV1JjLUNCbVJNcVNTbXpfTDdmdUJBendaWmphVU5feGxWNWFsemNJUGVnNzlsUFJxWDhsVjdNbXhQUHUxMnpNMlFNR3htc3I1WUVld0NUZVAwQXM4alJuM1JyVGQ1YVNGOUVKdXVtc21rbmdDbXZ5emZZZw?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-20-28",
+      "question": "Which news category best fits this headline? Union Minister Shri Pralhad Joshi Visits ISA Pavilion at India AI Impact Summit",
+      "options": [
+        "National Affairs",
+        "Railways",
+        "Government Schemes",
+        "Economy"
+      ],
+      "answer": 0,
+      "explanation": "This headline is categorized as National Affairs. Check the linked report for details.",
+      "topic": "News Reading Practice",
+      "date": "2026-11-20",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NOTNWUUNXNVpvcVRBN3l5UDJfcFd5aFBpbllXRTlRaXQxRkJHZWpjOHNHRm9WWmFCVjJhLS1PbU9SeEppTl8zNGNEb3Y3QnZhckFJNm1pczdObXkwbkNvbVhjODlCZTNFZ0RLOHdrdVNKY1pqaXFtVng1S3Q?oc=5",
+      "kind": "headline-classification"
+    },
+    {
+      "id": "headline-2026-11-20-29",
+      "question": "Which news category best fits this headline? India’s Electronics Exports Gain Momentum",
+      "options": [
+        "Railways",
+        "Government Schemes",
+        "Science",
+        "Economy"
+      ],
+      "answer": 3,
       "explanation": "This headline is categorized as Economy. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -1915,15 +2115,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-23",
+      "id": "headline-2026-11-20-30",
       "question": "Which news category best fits this headline? CGST Faridabad detects pan masala manufacturing unit running undeclared pouch-packing machines in Rewari; four machines seized; one arrested under HSNS Cess Act, 2025",
       "options": [
+        "Government Schemes",
         "Science",
         "Economy",
-        "Railways",
-        "Government Schemes"
+        "Railways"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "This headline is categorized as Economy. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -1931,15 +2131,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-24",
+      "id": "headline-2026-11-20-31",
       "question": "Which news category best fits this headline? MeitY Revises Public Procurement (Preference to Make in India) Order 2020, For Six IT Hardware Products To Promote Domestic Manufacturing",
       "options": [
+        "Science",
         "Economy",
         "Railways",
-        "Government Schemes",
-        "Science"
+        "Government Schemes"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "This headline is categorized as Economy. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -1947,15 +2147,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-25",
+      "id": "headline-2026-11-20-32",
       "question": "Which news category best fits this headline? From Classrooms to Research Labs: JNV Students Across Madhya Pradesh Explored Cutting-edge Science and Technology at CSIR-AMPRI",
       "options": [
+        "Science",
         "Railways",
         "Government Schemes",
-        "Economy",
-        "Science"
+        "Economy"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "This headline is categorized as Science. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -1963,15 +2163,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-26",
+      "id": "headline-2026-11-20-33",
       "question": "Which news category best fits this headline? India Emerging as a Global Research Hub for Diabetes, Genetic Disorders and Next-Generation Healthcare Solutions: Dr. Jitendra Singh",
       "options": [
+        "Railways",
         "Government Schemes",
         "Economy",
-        "Science",
-        "Railways"
+        "Science"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "This headline is categorized as Science. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -1979,15 +2179,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-27",
+      "id": "headline-2026-11-20-34",
       "question": "Which news category best fits this headline? India's High-Speed Rail Future:Building a Standardised Path for Expansion - pib.gov.in",
       "options": [
+        "Economy",
         "Science",
         "Railways",
-        "Government Schemes",
-        "Economy"
+        "Government Schemes"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "This headline is categorized as Railways. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -1995,15 +2195,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-28",
+      "id": "headline-2026-11-20-35",
       "question": "Which news category best fits this headline? Global growth to be marginally higher in 2026 supported by tech-related investments: RBI Governor - DD News",
       "options": [
+        "Science",
         "Economy",
         "Railways",
-        "Government Schemes",
-        "Science"
+        "Government Schemes"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "This headline is categorized as Economy. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -2011,15 +2211,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-29",
+      "id": "headline-2026-11-20-36",
       "question": "Which news category best fits this headline? Watch | Food inflation: Modi government's biggest economic challenge in 2027? - The Federal",
       "options": [
+        "Economy",
         "Railways",
         "Government Schemes",
-        "Science",
-        "Economy"
+        "Science"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "This headline is categorized as Economy. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -2027,15 +2227,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-30",
+      "id": "headline-2026-11-20-37",
       "question": "Which news category best fits this headline? Strengthening India’s Space Sovereignty - www.pib.gov.in",
       "options": [
+        "Railways",
         "Government Schemes",
         "Economy",
-        "Science",
-        "Railways"
+        "Science"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "This headline is categorized as Science. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -2043,15 +2243,15 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-20-31",
+      "id": "headline-2026-11-20-38",
       "question": "Which news category best fits this headline? PM Modi hails ISRO’s GSLV-F17 launch carrying EOS-05 as proud moment for India - DD News",
       "options": [
+        "Government Schemes",
         "Economy",
         "Science",
-        "Railways",
-        "Government Schemes"
+        "Railways"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "This headline is categorized as Science. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-20",
@@ -2059,57 +2259,9 @@
       "kind": "headline-classification"
     },
     {
-      "id": "headline-2026-11-19-32",
+      "id": "headline-2026-11-19-39",
       "question": "Which news category best fits this headline? Indian Railways Registers Freight Loading of 145.07 Million Tonnes in October 2026",
       "options": [
-        "Railways",
-        "Government Schemes",
-        "Economy",
-        "Science"
-      ],
-      "answer": 0,
-      "explanation": "This headline is categorized as Railways. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxZ3ViYnI4TjU3YVdrVGpUa0RTZE1uaUhZZGZwY1dGVTZuZmxsaGtPVkgyVFpIWllZZWNVaTk0cW1Xc3FnUktveFFxaHFOdGtsTElCVUNjYmg1RjZDb0tZSWl4bFM4WE13VDZKd1ZHYVh5NmdpenZnRkx3bU4?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-19-33",
-      "question": "Which news category best fits this headline? Indian Railways Successfully Concludes Special Campaign 6; Over 1 Lakh Cleanliness Drives Conducted",
-      "options": [
-        "Government Schemes",
-        "Economy",
-        "Science",
-        "Railways"
-      ],
-      "answer": 3,
-      "explanation": "This headline is categorized as Railways. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nUEJ1STNXZnBiNXVWRkJSTkpPN0JhVkJDQ0d1XzB3Zzg3WGxMVlptZFdkT1pBWUZYdTVoZ09yQ1puNWNZQUs1WGc2eTR3N203QzJPX1UxY0x6aTlGM0FwNTVMUUpVVzAyOVhybDlzUmxWYXRuUTNxM0FFUGs?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-19-34",
-      "question": "Which news category best fits this headline? U Myntri Rangbah Duh ka ri u la ban jur ba ka rel Vande Bharat Sleeper kaba pyniasoh ia ka Bengaluru bad Mumbai kan long ka jing kyntiew kaba khraw ïa ka jingpyniasoh lyngba ki rel",
-      "options": [
-        "Economy",
-        "Science",
-        "Railways",
-        "Government Schemes"
-      ],
-      "answer": 2,
-      "explanation": "This headline is categorized as Railways. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuc3dhNmpNRDhJV0F6eGtCV0xLNU1lTkx1eE9BckNRRTVwMUcxa1E3UndKR1NDZjlHeDdmY3Jpd2JlUjFGUmdISkFTVmkwbnNxamE5c2ZsbWRfME1fVmhpbVo4d2FlQ1V6MExBc3RTRzdtQlpoeXhfVWVlNWxGZw?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-19-35",
-      "question": "Which news category best fits this headline? Ministry of Railways Concludes Year-Long Celebrations Marking 150 Years of Vande Mataram",
-      "options": [
         "Science",
         "Railways",
         "Government Schemes",
@@ -2119,77 +2271,12 @@
       "explanation": "This headline is categorized as Railways. Check the linked report for details.",
       "topic": "News Reading Practice",
       "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGdUozcjNEWGJrZUNaWjZ2RTBWcjlHR3Z4aURaR3k2cDlEbC10cWdBM0pNV3VlVno1bW83dEMtNzJCS3NFRkpXRFBJa29VZ3podWdIekpyVjlMemk4LVZOR2lxMHRia2VNYU83OTBJT1R4ZzVGSXY5LUN4bkU?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-19-36",
-      "question": "Which news category best fits this headline? Union Minister Shri Rajiv Ranjan Singh to chair National Review Meeting on SVAMITVA Scheme in New Delhi tomorrow",
-      "options": [
-        "Government Schemes",
-        "Railways",
-        "Economy",
-        "Science"
-      ],
-      "answer": 0,
-      "explanation": "This headline is categorized as Government Schemes. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92bzBDVllnODR0S1hzSkI2Ykl4TVJoc3VXaFQwUjVqejBUYVRCVU5mUklSd3FSNjJVX24wNVd3V1ZyQ0dDTGRWX0F5SVU3eGdncHBYS1piWjd1NllrM19XS2tYeEhPMExoM0RUbDFheHU?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-19-37",
-      "question": "Which news category best fits this headline? RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District",
-      "options": [
-        "Railways",
-        "Government Schemes",
-        "Science",
-        "Economy"
-      ],
-      "answer": 3,
-      "explanation": "This headline is categorized as Economy. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zek5rY0U1ZWR0cXI2OXhmdHFYbGNZZGh1VDFpUmFzZWQyZm1MQ0xUazRIQnlWZWU1aDQycDhhb194blcwRU1FX2gzQVYxeXRKQk9OLTRQanJfZkVpN2otd1Znb0dPRjFB?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-19-38",
-      "question": "Which news category best fits this headline? Telecom Manufacturing Zone, Gwalior Gains Momentum with Distribution of Letters of Intent to 25 Companies",
-      "options": [
-        "Government Schemes",
-        "Science",
-        "Economy",
-        "Railways"
-      ],
-      "answer": 2,
-      "explanation": "This headline is categorized as Economy. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vWDRGSHBsVFlJQW15MGN0eXZ5eU0zc3ZlN3Z2blVPNlRrX0UwbTc1R19Kd2t3aF95eVZidGE1WHpOTmhVdF9UUkREWXUxaGc4WnhWd0FfUVVVUjFLM3pTMnoxVjJoLTNwZ2NF?oc=5",
-      "kind": "headline-classification"
-    },
-    {
-      "id": "headline-2026-11-19-39",
-      "question": "Which news category best fits this headline? India to Host ICAR- CGIAR Science and Partnership Week 2027 in New Delhi from April 12–17; Over 5,000 Delegates Expected to participate",
-      "options": [
-        "Economy",
-        "Science",
-        "Railways",
-        "Government Schemes"
-      ],
-      "answer": 1,
-      "explanation": "This headline is categorized as Science. Check the linked report for details.",
-      "topic": "News Reading Practice",
-      "date": "2026-11-19",
-      "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVkI0REVtSm5WNW1LekpncFhoclA5azVocmV2NnVpVzdmZm1FdUFyOWk5SzFBcmJTeEJMZHN0MndOQy1EVlZuc1pRSFFtZzQwRVlXaEo3TVhOSUtlQ29qLUtSWjFsVm5pYXdzaHBCVHpmVktXLVlQZFBrQ0dhTnQwTkplNA?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzdmtiaVNlNkRhUXhKT2t5dk94ck5mTmdkaTVlUXZXZ21uaU9yaVhLbTUwM3pkZGQxcUprYjQ2dE41RGhqT2ZUMW5RMGtfNktVYUczM1ZoZUhoMUNuLTdGbWxGOHpLTnRDUUtGZ0t5aDNPaVVCRE82TFlVYmlmUQ?oc=5",
       "kind": "headline-classification"
     }
   ],
   "dailyQuestionDate": "2026-11-23",
   "dailyQuestionCount": 60,
   "kind": "headline-feed",
-  "disclaimer": "News headlines require source verification. The quiz field currently supplies original Maths and Reasoning daily practice; these are not verified RRB PYQs or current-affairs facts.",
-  "dailyQuestionLabel": "60 original daily Maths and Reasoning MCQs — not verified PYQs"
+  "disclaimer": "News headlines require source verification. The quiz field currently supplies original Maths and Reasoning daily practice; these are not verified RRB PYQs or current-affairs facts."
 }
