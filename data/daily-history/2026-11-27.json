@@ -1,0 +1,1035 @@
+{
+  "generatorVersion": 3,
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T08:13:01.032518+05:30",
+  "timezone": "Asia/Kolkata",
+  "questionCount": 60,
+  "breakdown": {
+    "Mathematics": 30,
+    "Reasoning": 30
+  },
+  "kind": "Original daily practice",
+  "description": "60 original exam-style Mathematics and Reasoning MCQs, freshly parameterised for today's date. These are not verified PYQs or current-affairs fact questions.",
+  "questions": [
+    {
+      "id": "daily-20261127-001",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "Find 20% of 15500.",
+      "options": [
+        "3100",
+        "3000",
+        "3200",
+        "3300"
+      ],
+      "answer": 0,
+      "explanation": "20% of 15500 = 20/100 × 15500 = 3100.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-002",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "Find 20% of 8400.",
+      "options": [
+        "1880",
+        "1680",
+        "1580",
+        "1780"
+      ],
+      "answer": 1,
+      "explanation": "20% of 8400 = 20/100 × 8400 = 1680.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-003",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "Find 35% of 16300.",
+      "options": [
+        "5905",
+        "5605",
+        "5705",
+        "5805"
+      ],
+      "answer": 2,
+      "explanation": "35% of 16300 = 35/100 × 16300 = 5705.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-004",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "Find 50% of 4600.",
+      "options": [
+        "2200",
+        "2300",
+        "2400",
+        "2500"
+      ],
+      "answer": 1,
+      "explanation": "50% of 4600 = 50/100 × 4600 = 2300.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-005",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "An amount of ₹11400 is increased by 15%. What is the new amount?",
+      "options": [
+        "13210",
+        "13310",
+        "13010",
+        "13110"
+      ],
+      "answer": 3,
+      "explanation": "New amount = 11400 × (100+15)/100 = ₹13110.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-006",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Percentages",
+      "question": "An amount of ₹88100 is increased by 20%. What is the new amount?",
+      "options": [
+        "105720",
+        "105920",
+        "105820",
+        "105620"
+      ],
+      "answer": 0,
+      "explanation": "New amount = 88100 × (100+20)/100 = ₹105720.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-007",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Profit, Loss & Discount",
+      "question": "An item has a marked price of ₹37200 and a 25% discount. Find the selling price.",
+      "options": [
+        "28000",
+        "28100",
+        "27900",
+        "27800"
+      ],
+      "answer": 2,
+      "explanation": "SP = ₹37200 × (100−25)/100 = ₹27900.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-008",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Profit, Loss & Discount",
+      "question": "An item has a marked price of ₹50500 and a 10% discount. Find the selling price.",
+      "options": [
+        "45550",
+        "45350",
+        "45450",
+        "45650"
+      ],
+      "answer": 2,
+      "explanation": "SP = ₹50500 × (100−10)/100 = ₹45450.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-009",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Profit, Loss & Discount",
+      "question": "An item has a marked price of ₹39300 and a 5% discount. Find the selling price.",
+      "options": [
+        "37235",
+        "37535",
+        "37435",
+        "37335"
+      ],
+      "answer": 3,
+      "explanation": "SP = ₹39300 × (100−5)/100 = ₹37335.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-010",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Averages",
+      "question": "Find the average of 41, 50 and 59.",
+      "options": [
+        "40",
+        "60",
+        "70",
+        "50"
+      ],
+      "answer": 3,
+      "explanation": "Average = (41+50+59)/3 = 50.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-011",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Averages",
+      "question": "Find the average of 107, 112 and 117.",
+      "options": [
+        "122",
+        "132",
+        "112",
+        "102"
+      ],
+      "answer": 2,
+      "explanation": "Average = (107+112+117)/3 = 112.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-012",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Two numbers are in the ratio 13:14. Their sum is 2565. Find the first number.",
+      "options": [
+        "1135",
+        "1235",
+        "1335",
+        "1435"
+      ],
+      "answer": 1,
+      "explanation": "One part is 2565/(13+14)=95; first = 13×95=1235.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-013",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Two numbers are in the ratio 11:2. Their sum is 494. Find the first number.",
+      "options": [
+        "468",
+        "443",
+        "393",
+        "418"
+      ],
+      "answer": 3,
+      "explanation": "One part is 494/(11+2)=38; first = 11×38=418.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-014",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Ratio & Proportion",
+      "question": "Two numbers are in the ratio 11:2. Their sum is 1287. Find the first number.",
+      "options": [
+        "989",
+        "1189",
+        "1289",
+        "1089"
+      ],
+      "answer": 3,
+      "explanation": "One part is 1287/(11+2)=99; first = 11×99=1089.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-015",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Find the simple interest on ₹48000 at 13% per annum for 6 years.",
+      "options": [
+        "37640",
+        "37340",
+        "37440",
+        "37540"
+      ],
+      "answer": 2,
+      "explanation": "SI = P×R×T/100 = 48000×13×6/100 = ₹37440.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-016",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Find the simple interest on ₹18500 at 12% per annum for 2 years.",
+      "options": [
+        "4540",
+        "4640",
+        "4340",
+        "4440"
+      ],
+      "answer": 3,
+      "explanation": "SI = P×R×T/100 = 18500×12×2/100 = ₹4440.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-017",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Simple Interest",
+      "question": "Find the simple interest on ₹49000 at 13% per annum for 6 years.",
+      "options": [
+        "38120",
+        "38220",
+        "38320",
+        "38420"
+      ],
+      "answer": 1,
+      "explanation": "SI = P×R×T/100 = 49000×13×6/100 = ₹38220.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-018",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Algebra",
+      "question": "Solve 7x + 19 = 271. Find x.",
+      "options": [
+        "36",
+        "40",
+        "44",
+        "32"
+      ],
+      "answer": 0,
+      "explanation": "7x = 271−19 = 252; x = 252/7 = 36.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-019",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Algebra",
+      "question": "Solve 5x + 17 = 87. Find x.",
+      "options": [
+        "12",
+        "16",
+        "18",
+        "14"
+      ],
+      "answer": 3,
+      "explanation": "5x = 87−17 = 70; x = 70/5 = 14.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-020",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Algebra",
+      "question": "Solve 14x + 4 = 368. Find x.",
+      "options": [
+        "22",
+        "30",
+        "26",
+        "34"
+      ],
+      "answer": 2,
+      "explanation": "14x = 368−4 = 364; x = 364/14 = 26.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-021",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Speed, Time & Distance",
+      "question": "A train travels at 21 km/h for 6 hours. How far does it travel?",
+      "options": [
+        "116 km",
+        "136 km",
+        "146 km",
+        "126 km"
+      ],
+      "answer": 3,
+      "explanation": "Distance = speed×time = 21×6 = 126 km.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-022",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Speed, Time & Distance",
+      "question": "A train travels at 84 km/h for 7 hours. How far does it travel?",
+      "options": [
+        "688 km",
+        "788 km",
+        "488 km",
+        "588 km"
+      ],
+      "answer": 3,
+      "explanation": "Distance = speed×time = 84×7 = 588 km.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-023",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Mensuration",
+      "question": "Find the area of a rectangle 54 cm long and 11 cm wide.",
+      "options": [
+        "594 cm²",
+        "794 cm²",
+        "694 cm²",
+        "494 cm²"
+      ],
+      "answer": 0,
+      "explanation": "Area = 54×11 = 594 cm².",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-024",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Mensuration",
+      "question": "Find the area of a rectangle 51 cm long and 13 cm wide.",
+      "options": [
+        "863 cm²",
+        "563 cm²",
+        "663 cm²",
+        "763 cm²"
+      ],
+      "answer": 2,
+      "explanation": "Area = 51×13 = 663 cm².",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-025",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Number System",
+      "question": "Find the HCF of 112 and 208.",
+      "options": [
+        "24",
+        "16",
+        "12",
+        "20"
+      ],
+      "answer": 1,
+      "explanation": "HCF(112, 208) = 16 because 7 and 13 are coprime.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-026",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Number System",
+      "question": "Find the HCF of 168 and 48.",
+      "options": [
+        "32",
+        "24",
+        "20",
+        "28"
+      ],
+      "answer": 1,
+      "explanation": "HCF(168, 48) = 24 because 7 and 2 are coprime.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-027",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Number System",
+      "question": "Find the LCM of 15 and 16.",
+      "options": [
+        "265",
+        "290",
+        "215",
+        "240"
+      ],
+      "answer": 3,
+      "explanation": "LCM = 15×16/HCF(15,16) = 240.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-028",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Number System",
+      "question": "Find the LCM of 25 and 20.",
+      "options": [
+        "90",
+        "100",
+        "110",
+        "120"
+      ],
+      "answer": 1,
+      "explanation": "LCM = 25×20/HCF(25,20) = 100.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-029",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Time & Work",
+      "question": "A completes a task in 78 days and B in 156 days. How many days together?",
+      "options": [
+        "72 days",
+        "42 days",
+        "52 days",
+        "62 days"
+      ],
+      "answer": 2,
+      "explanation": "Combined time = (78×156)/(78+156) = 52 days.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-030",
+      "date": "2026-11-27",
+      "topic": "Mathematics",
+      "skill": "Time & Work",
+      "question": "A completes a task in 273 days and B in 546 days. How many days together?",
+      "options": [
+        "182 days",
+        "207 days",
+        "157 days",
+        "232 days"
+      ],
+      "answer": 0,
+      "explanation": "Combined time = (273×546)/(273+546) = 182 days.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-031",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete the series: 106, 116, 126, 136, 146, ?",
+      "options": [
+        "181",
+        "131",
+        "156",
+        "206"
+      ],
+      "answer": 2,
+      "explanation": "The common difference is +10; 146+10 = 156.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-032",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete the series: 138, 142, 146, 150, 154, ?",
+      "options": [
+        "133",
+        "183",
+        "208",
+        "158"
+      ],
+      "answer": 3,
+      "explanation": "The common difference is +4; 154+4 = 158.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-033",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete the series: 45, 60, 75, 90, 105, ?",
+      "options": [
+        "110",
+        "120",
+        "140",
+        "130"
+      ],
+      "answer": 1,
+      "explanation": "The common difference is +15; 105+15 = 120.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-034",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete the series: 94, 97, 100, 103, 106, ?",
+      "options": [
+        "99",
+        "109",
+        "119",
+        "129"
+      ],
+      "answer": 1,
+      "explanation": "The common difference is +3; 106+3 = 109.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-035",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Complete the series: 8, 17, 26, 35, 44, ?",
+      "options": [
+        "43",
+        "53",
+        "63",
+        "73"
+      ],
+      "answer": 1,
+      "explanation": "The common difference is +9; 44+9 = 53.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-036",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find the next number: 1296, 1369, 1444, 1521, ?",
+      "options": [
+        "1800",
+        "1600",
+        "1500",
+        "1700"
+      ],
+      "answer": 1,
+      "explanation": "These are squares of consecutive integers 36 to 39. Next is (40)²=1600.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-037",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find the next number: 144, 169, 196, 225, ?",
+      "options": [
+        "231",
+        "281",
+        "256",
+        "306"
+      ],
+      "answer": 2,
+      "explanation": "These are squares of consecutive integers 12 to 15. Next is (16)²=256.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-038",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "Find the next number: 529, 576, 625, 676, ?",
+      "options": [
+        "829",
+        "729",
+        "929",
+        "629"
+      ],
+      "answer": 1,
+      "explanation": "These are squares of consecutive integers 23 to 26. Next is (27)²=729.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-039",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "What comes next? 7, 14, 28, 56, ?",
+      "options": [
+        "132",
+        "102",
+        "112",
+        "122"
+      ],
+      "answer": 2,
+      "explanation": "Each term is multiplied by 2; 56×2=112.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-040",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "What comes next? 4, 20, 100, 500, ?",
+      "options": [
+        "2600",
+        "2500",
+        "2700",
+        "2400"
+      ],
+      "answer": 1,
+      "explanation": "Each term is multiplied by 5; 500×5=2500.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-041",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Number Series",
+      "question": "What comes next? 5, 15, 45, 135, ?",
+      "options": [
+        "430",
+        "380",
+        "455",
+        "405"
+      ],
+      "answer": 3,
+      "explanation": "Each term is multiplied by 3; 135×3=405.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-042",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Complete the letter series: N, R, V, Z, D, ?",
+      "options": [
+        "I",
+        "H",
+        "F",
+        "G"
+      ],
+      "answer": 1,
+      "explanation": "Letters advance 4 places cyclically (A follows Z). After D comes H.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-043",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Complete the letter series: U, W, Y, A, C, ?",
+      "options": [
+        "F",
+        "E",
+        "D",
+        "C"
+      ],
+      "answer": 1,
+      "explanation": "Letters advance 2 places cyclically (A follows Z). After C comes E.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-044",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Complete the letter series: B, H, N, T, Z, ?",
+      "options": [
+        "G",
+        "E",
+        "F",
+        "D"
+      ],
+      "answer": 2,
+      "explanation": "Letters advance 6 places cyclically (A follows Z). After Z comes F.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-045",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Alphabet Series",
+      "question": "Complete the letter series: G, L, Q, V, A, ?",
+      "options": [
+        "F",
+        "E",
+        "G",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "Letters advance 5 places cyclically (A follows Z). After A comes F.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-046",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Ranking & Order",
+      "question": "A student ranks 39th from the left and 48th from the right. How many students are there?",
+      "options": [
+        "106",
+        "96",
+        "76",
+        "86"
+      ],
+      "answer": 3,
+      "explanation": "Add the left and right ranks and subtract one for the person counted twice: 39+48−1 = 86.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-047",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Ranking & Order",
+      "question": "A student ranks 51th from the left and 62th from the right. How many students are there?",
+      "options": [
+        "132",
+        "112",
+        "122",
+        "102"
+      ],
+      "answer": 1,
+      "explanation": "Add the left and right ranks and subtract one for the person counted twice: 51+62−1 = 112.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-048",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Ranking & Order",
+      "question": "A student ranks 37th from the left and 3th from the right. How many students are there?",
+      "options": [
+        "35",
+        "47",
+        "39",
+        "43"
+      ],
+      "answer": 2,
+      "explanation": "Add the left and right ranks and subtract one for the person counted twice: 37+3−1 = 39.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-049",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Direction Sense",
+      "question": "A person walks 42 km east, then 144 km north. What is the shortest distance from the starting point?",
+      "options": [
+        "125 km",
+        "200 km",
+        "150 km",
+        "175 km"
+      ],
+      "answer": 2,
+      "explanation": "Using Pythagoras: √(42²+144²) = 150 km.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-050",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Direction Sense",
+      "question": "A person walks 147 km east, then 504 km north. What is the shortest distance from the starting point?",
+      "options": [
+        "525 km",
+        "625 km",
+        "725 km",
+        "425 km"
+      ],
+      "answer": 0,
+      "explanation": "Using Pythagoras: √(147²+504²) = 525 km.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-051",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Direction Sense",
+      "question": "A person walks 75 km east, then 180 km north. What is the shortest distance from the starting point?",
+      "options": [
+        "195 km",
+        "170 km",
+        "220 km",
+        "245 km"
+      ],
+      "answer": 0,
+      "explanation": "Using Pythagoras: √(75²+180²) = 195 km.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-052",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "In a code, each letter moves 5 positions forward in the alphabet. How is GARDEN written?",
+      "options": [
+        "MGXJKT",
+        "NHYKLU",
+        "KEVHIR",
+        "LFWIJS"
+      ],
+      "answer": 3,
+      "explanation": "Shift each letter of GARDEN forward by 5 positions to obtain LFWIJS.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-053",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "In a code, each letter moves 5 positions forward in the alphabet. How is BREAD written?",
+      "options": [
+        "GWJFI",
+        "FVIEH",
+        "HXKGJ",
+        "IYLHK"
+      ],
+      "answer": 0,
+      "explanation": "Shift each letter of BREAD forward by 5 positions to obtain GWJFI.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-054",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Coding-Decoding",
+      "question": "In a code, each letter moves 2 positions forward in the alphabet. How is RAIL written?",
+      "options": [
+        "VEMP",
+        "UDLO",
+        "TCKN",
+        "SBJM"
+      ],
+      "answer": 2,
+      "explanation": "Shift each letter of RAIL forward by 2 positions to obtain TCKN.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-055",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Analogy",
+      "question": "If 30 is related to 900, then 8 is related to what number?",
+      "options": [
+        "64",
+        "54",
+        "84",
+        "74"
+      ],
+      "answer": 0,
+      "explanation": "The rule is squaring: 30²=900, so 8²=64.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-056",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Analogy",
+      "question": "If 38 is related to 1444, then 21 is related to what number?",
+      "options": [
+        "491",
+        "416",
+        "466",
+        "441"
+      ],
+      "answer": 3,
+      "explanation": "The rule is squaring: 38²=1444, so 21²=441.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-057",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Analogy",
+      "question": "If 20 is related to 400, then 18 is related to what number?",
+      "options": [
+        "374",
+        "299",
+        "324",
+        "349"
+      ],
+      "answer": 2,
+      "explanation": "The rule is squaring: 20²=400, so 18²=324.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-058",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Logical Operations",
+      "question": "If a ★ b means (a+b)×7, find 28 ★ 12.",
+      "options": [
+        "330",
+        "280",
+        "305",
+        "255"
+      ],
+      "answer": 1,
+      "explanation": "Substitute a=28 and b=12 into the defined operation: (28+12)×7 = 280.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-059",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Logical Operations",
+      "question": "If a ★ b means (a+b)×3, find 15 ★ 25.",
+      "options": [
+        "120",
+        "130",
+        "140",
+        "110"
+      ],
+      "answer": 0,
+      "explanation": "Substitute a=15 and b=25 into the defined operation: (15+25)×3 = 120.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    },
+    {
+      "id": "daily-20261127-060",
+      "date": "2026-11-27",
+      "topic": "Reasoning",
+      "skill": "Logical Operations",
+      "question": "If a ★ b means (a+b)×3, find 37 ★ 20.",
+      "options": [
+        "221",
+        "171",
+        "196",
+        "146"
+      ],
+      "answer": 1,
+      "explanation": "Substitute a=37 and b=20 into the defined operation: (37+20)×3 = 171.",
+      "difficulty": "Easy",
+      "kind": "Original daily practice"
+    }
+  ]
+}
